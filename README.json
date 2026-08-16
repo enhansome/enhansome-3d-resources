@@ -24,7 +24,7 @@
             "last_commit": "2024-05-25T16:11:50Z",
             "owner": "a1studmuffin",
             "repo": "SpaceshipGenerator",
-            "stars": 7813
+            "stars": 7814
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2024-04-21T14:54:31Z",
             "owner": "eliemichel",
             "repo": "MapsModelsImporter",
-            "stars": 2802
+            "stars": 2803
           }
         },
         {
@@ -52,7 +52,7 @@
             "last_commit": "2026-08-10T08:37:00Z",
             "owner": "xavier150",
             "repo": "Blender-For-UnrealEngine-Addons",
-            "stars": 2631
+            "stars": 2633
           }
         },
         {
@@ -77,10 +77,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T06:58:50Z",
+            "last_commit": "2026-08-16T07:12:47Z",
             "owner": "ucupumar",
             "repo": "ucupaint",
-            "stars": 2217
+            "stars": 2218
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-05-23T13:18:16Z",
             "owner": "nutti",
             "repo": "Screencast-Keys",
-            "stars": 1426
+            "stars": 1427
           }
         },
         {
@@ -248,7 +248,7 @@
             "last_commit": "2026-04-16T16:05:05Z",
             "owner": "EdyJ",
             "repo": "blender-to-unity-fbx-exporter",
-            "stars": 1255
+            "stars": 1256
           }
         },
         {
@@ -458,7 +458,7 @@
             "last_commit": "2026-08-10T19:10:31Z",
             "owner": "mrachinskiy",
             "repo": "jewelcraft",
-            "stars": 583
+            "stars": 584
           }
         },
         {
@@ -570,7 +570,7 @@
             "last_commit": "2025-07-07T14:32:49Z",
             "owner": "carson-katri",
             "repo": "geometry-script",
-            "stars": 337
+            "stars": 338
           }
         },
         {
@@ -654,7 +654,7 @@
             "last_commit": "2026-08-07T09:03:05Z",
             "owner": "adriflex",
             "repo": "autoremesher-blender-bridge",
-            "stars": 265
+            "stars": 266
           }
         },
         {
@@ -1332,7 +1332,7 @@
             "last_commit": "2025-08-23T15:39:33Z",
             "owner": "jhorikawa",
             "repo": "HoudiniHowtos",
-            "stars": 1123
+            "stars": 1124
           }
         },
         {
@@ -1462,7 +1462,7 @@
             "archived": false,
             "language": null,
             "last_commit": "2021-05-09T14:43:38Z",
-            "owner": "dtempcyer",
+            "owner": "cctxlprz",
             "repo": "Mantra-LPE-Cookbook",
             "stars": 1
           }
@@ -1503,7 +1503,7 @@
             "last_commit": "2026-08-14T11:39:20Z",
             "owner": "MysteryPancake",
             "repo": "Houdini-Fun",
-            "stars": 267
+            "stars": 268
           }
         }
       ],
@@ -1520,7 +1520,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T11:20:09Z",
+            "last_commit": "2026-08-15T13:24:29Z",
             "owner": "zenustech",
             "repo": "zeno",
             "stars": 1400
@@ -1534,7 +1534,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T04:01:18Z",
+            "last_commit": "2026-08-16T04:01:29Z",
             "owner": "sideeffects",
             "repo": "SideFXLabs",
             "stars": 1224
@@ -1646,7 +1646,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T03:46:25Z",
+            "last_commit": "2026-08-15T19:29:43Z",
             "owner": "conlen-b",
             "repo": "cb-houdini-tools",
             "stars": 13
@@ -1684,7 +1684,7 @@
             "last_commit": "2024-07-31T01:14:15Z",
             "owner": "guoyww",
             "repo": "AnimateDiff",
-            "stars": 12216
+            "stars": 12217
           }
         },
         {
@@ -1720,10 +1720,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T08:12:20Z",
+            "last_commit": "2026-08-16T06:39:12Z",
             "owner": "google",
             "repo": "filament",
-            "stars": 20357
+            "stars": 20358
           }
         },
         {
@@ -1748,10 +1748,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T06:55:57Z",
+            "last_commit": "2026-08-15T23:14:12Z",
             "owner": "bkaradzic",
             "repo": "bgfx",
-            "stars": 17399
+            "stars": 17400
           }
         },
         {
@@ -1762,10 +1762,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-11T22:09:44Z",
+            "last_commit": "2026-08-15T21:11:31Z",
             "owner": "patriciogonzalezvivo",
             "repo": "glslViewer",
-            "stars": 5320
+            "stars": 5321
           }
         },
         {
@@ -1807,7 +1807,7 @@
             "last_commit": "2023-09-22T16:07:30Z",
             "owner": "dfranx",
             "repo": "SHADERed",
-            "stars": 4783
+            "stars": 4784
           }
         },
         {
@@ -1821,7 +1821,7 @@
             "last_commit": "2026-06-14T23:50:35Z",
             "owner": "mmp",
             "repo": "pbrt-v4",
-            "stars": 3672
+            "stars": 3673
           }
         },
         {
@@ -2620,7 +2620,7 @@
             "last_commit": "2026-08-11T11:40:48Z",
             "owner": "dialogic-godot",
             "repo": "dialogic",
-            "stars": 5913
+            "stars": 5917
           }
         },
         {
@@ -2631,10 +2631,10 @@
           "repo_info": {
             "archived": false,
             "language": "reStructuredText",
-            "last_commit": "2026-08-15T03:25:14Z",
+            "last_commit": "2026-08-16T02:09:34Z",
             "owner": "godotengine",
             "repo": "godot-docs",
-            "stars": 5620
+            "stars": 5624
           }
         },
         {
@@ -2704,7 +2704,7 @@
             "last_commit": "2026-08-07T10:36:57Z",
             "owner": "SirRamEsq",
             "repo": "SmartShape2D",
-            "stars": 1732
+            "stars": 1734
           }
         },
         {
@@ -2752,7 +2752,7 @@
             "last_commit": "2026-06-28T16:08:10Z",
             "owner": "BepInEx",
             "repo": "BepInEx",
-            "stars": 8406
+            "stars": 8412
           }
         },
         {
@@ -2794,7 +2794,7 @@
             "last_commit": "2026-08-04T13:11:51Z",
             "owner": "EsotericSoftware",
             "repo": "spine-runtimes",
-            "stars": 5245
+            "stars": 5246
           }
         },
         {
@@ -2850,7 +2850,7 @@
             "last_commit": "2026-07-22T20:40:01Z",
             "owner": "topfreegames",
             "repo": "pitaya",
-            "stars": 2821
+            "stars": 2822
           }
         },
         {
@@ -2864,7 +2864,7 @@
             "last_commit": "2026-08-11T13:48:39Z",
             "owner": "gree",
             "repo": "unity-webview",
-            "stars": 2655
+            "stars": 2656
           }
         },
         {
@@ -2889,7 +2889,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T11:23:23Z",
+            "last_commit": "2026-08-15T09:43:32Z",
             "owner": "Unity-Technologies",
             "repo": "com.unity.netcode.gameobjects",
             "stars": 2318
@@ -3127,7 +3127,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T22:33:36Z",
+            "last_commit": "2026-08-15T11:31:42Z",
             "owner": "JetBrains",
             "repo": "resharper-unity",
             "stars": 1236
@@ -3186,7 +3186,7 @@
             "last_commit": "2019-09-21T00:26:03Z",
             "owner": "prime31",
             "repo": "CharacterController2D",
-            "stars": 1109
+            "stars": 1110
           }
         },
         {
@@ -3480,7 +3480,7 @@
             "last_commit": "2023-08-28T19:03:44Z",
             "owner": "OskarSigvardsson",
             "repo": "unity-delaunay",
-            "stars": 836
+            "stars": 837
           }
         },
         {
@@ -3561,7 +3561,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-12T19:55:57Z",
+            "last_commit": "2026-08-16T08:38:49Z",
             "owner": "unitystation",
             "repo": "unitystation",
             "stars": 735
@@ -5888,7 +5888,7 @@
             "last_commit": "2026-04-27T14:24:57Z",
             "owner": "Placeholder-Software",
             "repo": "Dissonance",
-            "stars": 84
+            "stars": 85
           }
         },
         {
@@ -8077,6 +8077,20 @@
         },
         {
           "node_type": "item",
+          "title": "Voxel Mesh Generator",
+          "description": ". Generates voxel 3D meshes in Unity using greedy meshing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-11-13T16:01:14Z",
+            "owner": "chulini",
+            "repo": "VoxelMeshGenerator",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
           "title": "xNode BehaviourTree",
           "description": ". Behaviour tree built on the xNode node editor for Unity.",
           "children": [],
@@ -8142,20 +8156,6 @@
             "last_commit": "2018-07-29T13:53:56Z",
             "owner": "flamacore",
             "repo": "Unity-RuntimeCodeExecuter",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Voxel Mesh Generator",
-          "description": ". Generates voxel 3D meshes in Unity using greedy meshing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2018-11-13T16:01:14Z",
-            "owner": "chulini",
-            "repo": "VoxelMeshGenerator",
             "stars": 8
           }
         },
@@ -8602,7 +8602,7 @@
             "last_commit": "2026-08-15T01:21:43Z",
             "owner": "pafuhana1213",
             "repo": "KawaiiPhysics",
-            "stars": 3230
+            "stars": 3232
           }
         },
         {
@@ -8616,7 +8616,7 @@
             "last_commit": "2022-06-22T09:35:46Z",
             "owner": "20tab",
             "repo": "UnrealEnginePython",
-            "stars": 2902
+            "stars": 2903
           }
         },
         {
@@ -8644,7 +8644,7 @@
             "last_commit": "2024-05-23T09:52:01Z",
             "owner": "MikeFricker",
             "repo": "StreetMap",
-            "stars": 2263
+            "stars": 2264
           }
         },
         {
@@ -8658,7 +8658,7 @@
             "last_commit": "2026-03-07T13:41:39Z",
             "owner": "MaikKlein",
             "repo": "unreal-rust",
-            "stars": 2247
+            "stars": 2248
           }
         },
         {
@@ -8669,7 +8669,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T19:32:17Z",
+            "last_commit": "2026-08-16T08:33:21Z",
             "owner": "unrealcv",
             "repo": "unrealcv",
             "stars": 2207
@@ -8756,7 +8756,7 @@
             "last_commit": "2025-06-08T10:55:00Z",
             "owner": "ProjectBorealis",
             "repo": "PBCharacterMovement",
-            "stars": 1487
+            "stars": 1489
           }
         },
         {
@@ -8770,7 +8770,7 @@
             "last_commit": "2026-08-12T22:18:39Z",
             "owner": "Sixze",
             "repo": "ALS-Refactored",
-            "stars": 1457
+            "stars": 1458
           }
         },
         {
@@ -8812,7 +8812,7 @@
             "last_commit": "2026-08-10T11:59:57Z",
             "owner": "CesiumGS",
             "repo": "cesium-unreal",
-            "stars": 1228
+            "stars": 1229
           }
         },
         {
@@ -8831,6 +8831,20 @@
         },
         {
           "node_type": "item",
+          "title": "GASP ALS",
+          "description": ". Game Animation Sample with ALS locomotion layering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-16T22:02:37Z",
+            "owner": "PolygonHive",
+            "repo": "GASPALS",
+            "stars": 1165
+          }
+        },
+        {
+          "node_type": "item",
           "title": "GASShooter",
           "description": ". Advanced FPS/TPS sample project for the Gameplay Ability System.",
           "children": [],
@@ -8841,20 +8855,6 @@
             "owner": "tranek",
             "repo": "GASShooter",
             "stars": 1164
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GASP ALS",
-          "description": ". Game Animation Sample with ALS locomotion layering.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-01-16T22:02:37Z",
-            "owner": "PolygonHive",
-            "repo": "GASPALS",
-            "stars": 1162
           }
         },
         {
@@ -9036,7 +9036,7 @@
             "last_commit": "2023-12-09T03:12:23Z",
             "owner": "nfrechette",
             "repo": "acl-ue4-plugin",
-            "stars": 498
+            "stars": 499
           }
         },
         {
@@ -9218,7 +9218,7 @@
             "last_commit": "2026-06-17T22:05:57Z",
             "owner": "SourySK",
             "repo": "NiagaraUIRenderer",
-            "stars": 363
+            "stars": 365
           }
         },
         {
@@ -9652,7 +9652,7 @@
             "last_commit": "2026-04-17T19:27:00Z",
             "owner": "MaddyOff",
             "repo": "ue4-canvas-gui",
-            "stars": 166
+            "stars": 167
           }
         },
         {
@@ -10804,7 +10804,7 @@
             "last_commit": "2026-07-26T00:07:07Z",
             "owner": "JanSeliv",
             "repo": "Bomber",
-            "stars": 369
+            "stars": 370
           }
         },
         {
@@ -10970,7 +10970,7 @@
             "last_commit": "2026-03-22T01:25:44Z",
             "owner": "mxgmn",
             "repo": "WaveFunctionCollapse",
-            "stars": 25272
+            "stars": 25273
           }
         },
         {
@@ -10984,7 +10984,7 @@
             "last_commit": "2026-06-21T19:35:59Z",
             "owner": "Auburn",
             "repo": "FastNoiseLite",
-            "stars": 3481
+            "stars": 3482
           }
         },
         {
@@ -11009,10 +11009,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-11T15:37:44Z",
+            "last_commit": "2026-08-16T01:49:52Z",
             "owner": "ikpil",
             "repo": "DotRecast",
-            "stars": 930
+            "stars": 931
           }
         }
       ],
@@ -11032,7 +11032,7 @@
             "last_commit": "2026-08-06T06:27:20Z",
             "owner": "jrouwe",
             "repo": "JoltPhysics",
-            "stars": 11351
+            "stars": 11365
           }
         },
         {
@@ -11046,7 +11046,7 @@
             "last_commit": "2026-05-23T19:44:49Z",
             "owner": "nibsbin",
             "repo": "LockstepFramework",
-            "stars": 1528
+            "stars": 1529
           }
         },
         {
@@ -11057,10 +11057,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T03:31:23Z",
+            "last_commit": "2026-08-16T00:46:56Z",
             "owner": "ikpil",
             "repo": "Box2D.NET",
-            "stars": 203
+            "stars": 204
           }
         },
         {
@@ -11171,7 +11171,7 @@
             "last_commit": "2026-08-12T20:24:24Z",
             "owner": "aishwaryanr",
             "repo": "awesome-generative-ai-guide",
-            "stars": 28753
+            "stars": 28764
           }
         },
         {
@@ -11185,7 +11185,7 @@
             "last_commit": "2024-07-04T19:13:09Z",
             "owner": "timzhang642",
             "repo": "3D-Machine-Learning",
-            "stars": 10193
+            "stars": 10195
           }
         },
         {
@@ -11247,7 +11247,7 @@
             "last_commit": "2026-06-23T10:10:27Z",
             "owner": "TencentARC",
             "repo": "Pixal3D",
-            "stars": 2112
+            "stars": 2118
           }
         },
         {
@@ -11286,7 +11286,7 @@
             "last_commit": "2026-08-15T04:28:36Z",
             "owner": "Comfy-Org",
             "repo": "ComfyUI-Manager",
-            "stars": 15766
+            "stars": 15780
           }
         },
         {
@@ -11300,7 +11300,7 @@
             "last_commit": "2025-07-24T00:15:02Z",
             "owner": "ComfyUI-Workflow",
             "repo": "awesome-comfyui",
-            "stars": 729
+            "stars": 730
           }
         }
       ],
@@ -11320,7 +11320,7 @@
             "last_commit": "2026-05-28T15:15:20Z",
             "owner": "nikopueringer",
             "repo": "CorridorKey",
-            "stars": 14558
+            "stars": 14561
           }
         },
         {
@@ -11348,7 +11348,7 @@
             "last_commit": "2024-08-26T02:23:11Z",
             "owner": "carson-katri",
             "repo": "dream-textures",
-            "stars": 8191
+            "stars": 8192
           }
         },
         {
@@ -11373,10 +11373,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-10T17:59:31Z",
+            "last_commit": "2026-08-16T06:50:19Z",
             "owner": "IvanMurzak",
             "repo": "Unity-MCP",
-            "stars": 3894
+            "stars": 3902
           }
         },
         {
@@ -11432,7 +11432,7 @@
             "last_commit": "2025-12-28T19:12:19Z",
             "owner": "benrugg",
             "repo": "AI-Render",
-            "stars": 1220
+            "stars": 1219
           }
         },
         {
@@ -11457,7 +11457,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-01T14:21:07Z",
+            "last_commit": "2026-08-15T17:16:53Z",
             "owner": "Zarxrax",
             "repo": "Sammie-Roto-2",
             "stars": 325
@@ -11494,7 +11494,7 @@
             "last_commit": "2026-06-17T13:51:27Z",
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15153
+            "stars": 15156
           }
         },
         {
@@ -11508,7 +11508,7 @@
             "last_commit": "2025-04-12T16:26:12Z",
             "owner": "bmild",
             "repo": "nerf",
-            "stars": 10926
+            "stars": 10927
           }
         },
         {
@@ -11536,7 +11536,7 @@
             "last_commit": "2025-03-14T07:09:19Z",
             "owner": "xxlong0",
             "repo": "Wonder3D",
-            "stars": 5420
+            "stars": 5421
           }
         },
         {
@@ -11578,7 +11578,7 @@
             "last_commit": "2024-02-23T18:17:53Z",
             "owner": "SUDO-AI-3D",
             "repo": "zero123plus",
-            "stars": 2094
+            "stars": 2095
           }
         },
         {
@@ -11704,7 +11704,7 @@
             "last_commit": "2024-03-08T20:57:52Z",
             "owner": "Xharlie",
             "repo": "pointnerf",
-            "stars": 1154
+            "stars": 1155
           }
         },
         {
@@ -12959,7 +12959,7 @@
             "last_commit": "2026-01-20T18:01:09Z",
             "owner": "DLR-RM",
             "repo": "BlenderProc",
-            "stars": 3671
+            "stars": 3674
           }
         },
         {
@@ -12973,7 +12973,7 @@
             "last_commit": "2026-03-30T16:27:37Z",
             "owner": "LiangliangNan",
             "repo": "Easy3D",
-            "stars": 1646
+            "stars": 1647
           }
         },
         {
@@ -13231,7 +13231,7 @@
             "last_commit": "2025-10-17T14:28:15Z",
             "owner": "graphdeco-inria",
             "repo": "gaussian-splatting",
-            "stars": 22954
+            "stars": 22958
           }
         },
         {
@@ -13242,10 +13242,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T22:27:41Z",
+            "last_commit": "2026-08-15T10:06:21Z",
             "owner": "ArthurBrussee",
             "repo": "brush",
-            "stars": 4932
+            "stars": 4937
           }
         },
         {
@@ -13270,10 +13270,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T08:27:34Z",
+            "last_commit": "2026-08-15T19:18:36Z",
             "owner": "MrNeRF",
             "repo": "LichtFeld-Studio",
-            "stars": 3526
+            "stars": 3534
           }
         },
         {
@@ -13433,7 +13433,7 @@
             "last_commit": "2026-08-14T22:49:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38537
+            "stars": 38544
           }
         },
         {
@@ -13447,7 +13447,7 @@
             "last_commit": "2026-08-14T16:15:24Z",
             "owner": "alicevision",
             "repo": "Meshroom",
-            "stars": 12899
+            "stars": 12900
           }
         },
         {
@@ -13461,7 +13461,7 @@
             "last_commit": "2025-04-12T16:26:12Z",
             "owner": "bmild",
             "repo": "nerf",
-            "stars": 10926
+            "stars": 10927
           }
         },
         {
@@ -13489,7 +13489,7 @@
             "last_commit": "2026-08-13T11:24:10Z",
             "owner": "playcanvas",
             "repo": "supersplat",
-            "stars": 9854
+            "stars": 9855
           }
         },
         {
@@ -13503,7 +13503,7 @@
             "last_commit": "2026-08-14T08:49:02Z",
             "owner": "MrNeRF",
             "repo": "awesome-3D-gaussian-splatting",
-            "stars": 8819
+            "stars": 8820
           }
         },
         {
@@ -13528,10 +13528,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T02:00:39Z",
+            "last_commit": "2026-08-15T16:34:08Z",
             "owner": "nerfstudio-project",
             "repo": "gsplat",
-            "stars": 5539
+            "stars": 5540
           }
         },
         {
@@ -13573,7 +13573,7 @@
             "last_commit": "2026-05-20T05:55:33Z",
             "owner": "nmwsharp",
             "repo": "polyscope",
-            "stars": 2193
+            "stars": 2194
           }
         },
         {
@@ -13587,7 +13587,7 @@
             "last_commit": "2025-06-27T02:10:14Z",
             "owner": "mikeroyal",
             "repo": "Photogrammetry-Guide",
-            "stars": 1513
+            "stars": 1514
           }
         },
         {
@@ -13601,7 +13601,7 @@
             "last_commit": "2026-02-16T15:04:38Z",
             "owner": "SBCV",
             "repo": "Blender-Addon-Photogrammetry-Importer",
-            "stars": 1350
+            "stars": 1351
           }
         },
         {
@@ -13671,7 +13671,7 @@
             "last_commit": "2024-09-29T10:20:58Z",
             "owner": "inuex35",
             "repo": "360-gaussian-splatting",
-            "stars": 223
+            "stars": 224
           }
         },
         {
@@ -13809,7 +13809,7 @@
             "last_commit": "2026-03-17T06:28:29Z",
             "owner": "anvaka",
             "repo": "city-roads",
-            "stars": 9547
+            "stars": 9548
           }
         },
         {
@@ -14041,7 +14041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T08:58:19.937Z",
+    "last_updated": "2026-08-16T08:58:59.126Z",
     "original_repository": "devanshutak25/3d-resources",
     "original_repository_sha": "8d43d1b80b7ed13b83d4f66462f4943656b71bea",
     "enhanced_repository": "enhansome/enhansome-3d-resources",
