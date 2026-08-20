@@ -74,7 +74,7 @@
                 "archived": false,
                 "id": 469312472,
                 "language": "Python",
-                "last_commit": "2026-08-18T09:08:46Z",
+                "last_commit": "2026-08-20T08:44:24Z",
                 "owner": "ucupumar",
                 "repo": "ucupaint",
                 "stars": 2222
@@ -107,7 +107,7 @@
                 "last_commit": "2026-07-27T18:21:05Z",
                 "owner": "rlguy",
                 "repo": "Blender-FLIP-Fluids",
-                "stars": 1937
+                "stars": 1938
               }
             },
             {
@@ -182,7 +182,7 @@
                 "last_commit": "2022-05-04T07:25:15Z",
                 "owner": "stuffmatic",
                 "repo": "fSpy-Blender",
-                "stars": 1440
+                "stars": 1443
               }
             },
             {
@@ -212,7 +212,7 @@
                 "last_commit": "2022-08-01T12:58:40Z",
                 "owner": "ubisoft",
                 "repo": "mixer",
-                "stars": 1344
+                "stars": 1345
               }
             },
             {
@@ -347,7 +347,7 @@
                 "last_commit": "2026-07-14T07:36:27Z",
                 "owner": "dfki-ric",
                 "repo": "phobos",
-                "stars": 899
+                "stars": 898
               }
             },
             {
@@ -362,7 +362,7 @@
                 "last_commit": "2024-03-01T03:50:03Z",
                 "owner": "enziop",
                 "repo": "mixamo_converter",
-                "stars": 809
+                "stars": 811
               }
             },
             {
@@ -457,6 +457,21 @@
             },
             {
               "node_type": "item",
+              "title": "JewelCraft",
+              "description": ". Jewelry design toolkit add-on for Blender.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35378382,
+                "language": "Python",
+                "last_commit": "2026-08-19T23:34:12Z",
+                "owner": "mrachinskiy",
+                "repo": "jewelcraft",
+                "stars": 587
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Lib SM64 Blender",
               "description": ". Integrates libsm64 into Blender, with Fast64 integrations.",
               "children": [],
@@ -468,21 +483,6 @@
                 "owner": "libsm64",
                 "repo": "libsm64-blender",
                 "stars": 587
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "JewelCraft",
-              "description": ". Jewelry design toolkit add-on for Blender.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 35378382,
-                "language": "Python",
-                "last_commit": "2026-08-18T22:47:28Z",
-                "owner": "mrachinskiy",
-                "repo": "jewelcraft",
-                "stars": 586
               }
             },
             {
@@ -527,7 +527,7 @@
                 "last_commit": "2021-01-27T08:50:22Z",
                 "owner": "EmbarkStudios",
                 "repo": "blender-tools",
-                "stars": 458
+                "stars": 459
               }
             },
             {
@@ -1531,7 +1531,7 @@
                 "last_commit": "2026-03-23T19:32:17Z",
                 "owner": "kiryha",
                 "repo": "Houdini",
-                "stars": 826
+                "stars": 828
               }
             },
             {
@@ -1546,7 +1546,7 @@
                 "last_commit": "2021-07-27T23:21:48Z",
                 "owner": "jtomori",
                 "repo": "vex_tutorial",
-                "stars": 756
+                "stars": 757
               }
             },
             {
@@ -1583,7 +1583,7 @@
                 "last_commit": "2026-03-23T19:32:17Z",
                 "owner": "kiryha",
                 "repo": "Houdini",
-                "stars": 826
+                "stars": 828
               }
             },
             {
@@ -1598,7 +1598,7 @@
                 "last_commit": "2026-08-14T11:39:20Z",
                 "owner": "MysteryPancake",
                 "repo": "Houdini-Fun",
-                "stars": 270
+                "stars": 271
               }
             }
           ],
@@ -1632,10 +1632,10 @@
                 "archived": false,
                 "id": 172998905,
                 "language": "C++",
-                "last_commit": "2026-08-19T04:01:18Z",
+                "last_commit": "2026-08-20T04:01:19Z",
                 "owner": "sideeffects",
                 "repo": "SideFXLabs",
-                "stars": 1220
+                "stars": 1222
               }
             },
             {
@@ -1710,7 +1710,7 @@
                 "last_commit": "2026-07-18T07:52:29Z",
                 "owner": "AdrianPanGithub",
                 "repo": "HoudiniEngineForUnreal",
-                "stars": 136
+                "stars": 137
               }
             },
             {
@@ -1725,7 +1725,7 @@
                 "last_commit": "2025-12-05T21:00:27Z",
                 "owner": "lcrs",
                 "repo": "_.hips",
-                "stars": 71
+                "stars": 72
               }
             },
             {
@@ -1783,7 +1783,7 @@
                 "last_commit": "2024-07-31T01:14:15Z",
                 "owner": "guoyww",
                 "repo": "AnimateDiff",
-                "stars": 12218
+                "stars": 12217
               }
             },
             {
@@ -1798,7 +1798,7 @@
                 "last_commit": "2023-07-04T05:40:13Z",
                 "owner": "BandaiNamcoResearchInc",
                 "repo": "Bandai-Namco-Research-Motiondataset",
-                "stars": 3322
+                "stars": 3323
               }
             }
           ],
@@ -1823,10 +1823,10 @@
                 "archived": false,
                 "id": 143455116,
                 "language": "C++",
-                "last_commit": "2026-08-19T04:57:21Z",
+                "last_commit": "2026-08-20T07:34:03Z",
                 "owner": "google",
                 "repo": "filament",
-                "stars": 20362
+                "stars": 20370
               }
             },
             {
@@ -1841,7 +1841,7 @@
                 "last_commit": "2023-06-25T21:58:57Z",
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 19839
+                "stars": 19843
               }
             },
             {
@@ -1852,11 +1852,11 @@
               "repo_info": {
                 "archived": false,
                 "id": 3925242,
-                "language": "C",
-                "last_commit": "2026-08-18T20:42:46Z",
+                "language": "C++",
+                "last_commit": "2026-08-20T05:39:06Z",
                 "owner": "bkaradzic",
                 "repo": "bgfx",
-                "stars": 17412
+                "stars": 17415
               }
             },
             {
@@ -1868,10 +1868,10 @@
                 "archived": false,
                 "id": 27135535,
                 "language": "C++",
-                "last_commit": "2026-08-17T11:10:42Z",
+                "last_commit": "2026-08-19T23:55:56Z",
                 "owner": "patriciogonzalezvivo",
                 "repo": "glslViewer",
-                "stars": 5319
+                "stars": 5320
               }
             },
             {
@@ -1886,7 +1886,7 @@
                 "last_commit": "2026-08-18T17:52:27Z",
                 "owner": "mosra",
                 "repo": "magnum",
-                "stars": 5187
+                "stars": 5188
               }
             },
             {
@@ -1916,7 +1916,7 @@
                 "last_commit": "2023-09-22T16:07:30Z",
                 "owner": "dfranx",
                 "repo": "SHADERed",
-                "stars": 4784
+                "stars": 4785
               }
             },
             {
@@ -1931,7 +1931,7 @@
                 "last_commit": "2026-06-14T23:50:35Z",
                 "owner": "mmp",
                 "repo": "pbrt-v4",
-                "stars": 3676
+                "stars": 3677
               }
             },
             {
@@ -1946,7 +1946,7 @@
                 "last_commit": "2026-08-17T11:09:31Z",
                 "owner": "patriciogonzalezvivo",
                 "repo": "lygia",
-                "stars": 3407
+                "stars": 3408
               }
             },
             {
@@ -1961,7 +1961,7 @@
                 "last_commit": "2023-01-03T15:31:22Z",
                 "owner": "FreyaHolmer",
                 "repo": "ShaderForge",
-                "stars": 2780
+                "stars": 2781
               }
             },
             {
@@ -2780,7 +2780,7 @@
                 "last_commit": "2026-08-11T11:40:48Z",
                 "owner": "dialogic-godot",
                 "repo": "dialogic",
-                "stars": 5921
+                "stars": 5923
               }
             },
             {
@@ -2795,7 +2795,7 @@
                 "last_commit": "2026-08-18T23:08:16Z",
                 "owner": "godotengine",
                 "repo": "godot-docs",
-                "stars": 5637
+                "stars": 5641
               }
             },
             {
@@ -2810,7 +2810,7 @@
                 "last_commit": "2026-07-29T22:33:11Z",
                 "owner": "GodotSteam",
                 "repo": "GodotSteam",
-                "stars": 3737
+                "stars": 3738
               }
             },
             {
@@ -2825,7 +2825,7 @@
                 "last_commit": "2026-07-30T20:29:08Z",
                 "owner": "ramokz",
                 "repo": "phantom-camera",
-                "stars": 3512
+                "stars": 3515
               }
             },
             {
@@ -2840,7 +2840,7 @@
                 "last_commit": "2026-08-04T19:20:06Z",
                 "owner": "limbonaut",
                 "repo": "limboai",
-                "stars": 2963
+                "stars": 2966
               }
             },
             {
@@ -2855,7 +2855,7 @@
                 "last_commit": "2026-08-18T14:28:41Z",
                 "owner": "bitwes",
                 "repo": "Gut",
-                "stars": 2691
+                "stars": 2693
               }
             },
             {
@@ -2870,7 +2870,7 @@
                 "last_commit": "2026-08-07T10:36:57Z",
                 "owner": "SirRamEsq",
                 "repo": "SmartShape2D",
-                "stars": 1736
+                "stars": 1737
               }
             },
             {
@@ -2922,7 +2922,7 @@
                 "last_commit": "2026-06-28T16:08:10Z",
                 "owner": "BepInEx",
                 "repo": "BepInEx",
-                "stars": 8436
+                "stars": 8441
               }
             },
             {
@@ -2937,7 +2937,7 @@
                 "last_commit": "2023-09-05T13:24:31Z",
                 "owner": "EllanJiang",
                 "repo": "GameFramework",
-                "stars": 6845
+                "stars": 6847
               }
             },
             {
@@ -2949,10 +2949,10 @@
                 "archived": false,
                 "id": 81770291,
                 "language": "C#",
-                "last_commit": "2026-08-14T07:14:51Z",
+                "last_commit": "2026-08-20T05:39:04Z",
                 "owner": "MessagePack-CSharp",
                 "repo": "MessagePack-CSharp",
-                "stars": 6772
+                "stars": 6773
               }
             },
             {
@@ -2964,10 +2964,10 @@
                 "archived": false,
                 "id": 8302181,
                 "language": "C++",
-                "last_commit": "2026-08-17T20:23:25Z",
+                "last_commit": "2026-08-19T19:09:54Z",
                 "owner": "EsotericSoftware",
                 "repo": "spine-runtimes",
-                "stars": 5249
+                "stars": 5251
               }
             },
             {
@@ -2982,7 +2982,7 @@
                 "last_commit": "2026-07-08T03:27:13Z",
                 "owner": "Cysharp",
                 "repo": "ZLinq",
-                "stars": 5241
+                "stars": 5243
               }
             },
             {
@@ -3057,7 +3057,7 @@
                 "last_commit": "2023-06-16T14:51:41Z",
                 "owner": "in0finite",
                 "repo": "SanAndreasUnity",
-                "stars": 2604
+                "stars": 2606
               }
             },
             {
@@ -3069,7 +3069,7 @@
                 "archived": false,
                 "id": 116385203,
                 "language": "C#",
-                "last_commit": "2026-08-19T11:05:58Z",
+                "last_commit": "2026-08-20T08:09:07Z",
                 "owner": "Unity-Technologies",
                 "repo": "com.unity.netcode.gameobjects",
                 "stars": 2320
@@ -3117,7 +3117,7 @@
                 "last_commit": "2024-05-20T02:59:02Z",
                 "owner": "sturdyspoon",
                 "repo": "unity-movement-ai",
-                "stars": 2139
+                "stars": 2138
               }
             },
             {
@@ -3132,7 +3132,7 @@
                 "last_commit": "2026-04-04T18:18:11Z",
                 "owner": "yasirkula",
                 "repo": "UnityAssetUsageDetector",
-                "stars": 2046
+                "stars": 2047
               }
             },
             {
@@ -3177,7 +3177,7 @@
                 "last_commit": "2025-01-16T22:16:39Z",
                 "owner": "snozbot",
                 "repo": "fungus",
-                "stars": 1944
+                "stars": 1945
               }
             },
             {
@@ -3237,7 +3237,7 @@
                 "last_commit": "2025-05-30T07:24:25Z",
                 "owner": "yasirkula",
                 "repo": "UnityBezierSolution",
-                "stars": 1472
+                "stars": 1474
               }
             },
             {
@@ -3324,7 +3324,7 @@
                 "archived": false,
                 "id": 42181594,
                 "language": "C#",
-                "last_commit": "2026-08-18T17:27:46Z",
+                "last_commit": "2026-08-19T19:19:40Z",
                 "owner": "JetBrains",
                 "repo": "resharper-unity",
                 "stars": 1235
@@ -3507,7 +3507,7 @@
                 "last_commit": "2026-03-13T02:56:50Z",
                 "owner": "Unity-Technologies",
                 "repo": "2d-techdemos",
-                "stars": 1014
+                "stars": 1015
               }
             },
             {
@@ -3542,21 +3542,6 @@
             },
             {
               "node_type": "item",
-              "title": "Unity Main Thread Dispatcher",
-              "description": ". Thread-safe way to run actions on Unity's main thread.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 55268620,
-                "language": "C#",
-                "last_commit": "2024-03-14T23:51:26Z",
-                "owner": "PimDeWitte",
-                "repo": "UnityMainThreadDispatcher",
-                "stars": 993
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Unity Simple File Browser",
               "description": ". uGUI-based runtime file browser for Unity, draggable and resizable.",
               "children": [],
@@ -3567,6 +3552,21 @@
                 "last_commit": "2026-05-10T21:50:20Z",
                 "owner": "yasirkula",
                 "repo": "UnitySimpleFileBrowser",
+                "stars": 994
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unity Main Thread Dispatcher",
+              "description": ". Thread-safe way to run actions on Unity's main thread.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55268620,
+                "language": "C#",
+                "last_commit": "2024-03-14T23:51:26Z",
+                "owner": "PimDeWitte",
+                "repo": "UnityMainThreadDispatcher",
                 "stars": 993
               }
             },
@@ -3837,7 +3837,7 @@
                 "last_commit": "2019-01-02T00:01:34Z",
                 "owner": "sploreg",
                 "repo": "goap",
-                "stars": 671
+                "stars": 670
               }
             },
             {
@@ -4782,7 +4782,7 @@
                 "last_commit": "2017-01-30T05:41:06Z",
                 "owner": "mattatz",
                 "repo": "unity-procedural-flower",
-                "stars": 259
+                "stars": 260
               }
             },
             {
@@ -9146,7 +9146,7 @@
                 "last_commit": "2026-07-31T05:43:29Z",
                 "owner": "Tencent",
                 "repo": "puerts",
-                "stars": 6183
+                "stars": 6185
               }
             },
             {
@@ -9176,7 +9176,7 @@
                 "last_commit": "2023-06-07T13:29:44Z",
                 "owner": "nxrighthere",
                 "repo": "UnrealCLR",
-                "stars": 3309
+                "stars": 3310
               }
             },
             {
@@ -9188,10 +9188,10 @@
                 "archived": false,
                 "id": 194710038,
                 "language": "C++",
-                "last_commit": "2026-08-19T11:23:15Z",
+                "last_commit": "2026-08-20T03:48:47Z",
                 "owner": "pafuhana1213",
                 "repo": "KawaiiPhysics",
-                "stars": 3238
+                "stars": 3242
               }
             },
             {
@@ -9206,7 +9206,7 @@
                 "last_commit": "2022-06-22T09:35:46Z",
                 "owner": "20tab",
                 "repo": "UnrealEnginePython",
-                "stars": 2903
+                "stars": 2902
               }
             },
             {
@@ -9221,7 +9221,7 @@
                 "last_commit": "2024-07-10T21:38:04Z",
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
-                "stars": 2655
+                "stars": 2657
               }
             },
             {
@@ -9263,7 +9263,7 @@
                 "archived": false,
                 "id": 67727697,
                 "language": "C++",
-                "last_commit": "2026-08-16T09:00:17Z",
+                "last_commit": "2026-08-19T19:46:55Z",
                 "owner": "unrealcv",
                 "repo": "unrealcv",
                 "stars": 2208
@@ -9282,6 +9282,21 @@
                 "owner": "Tencent",
                 "repo": "sluaunreal",
                 "stars": 1976
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Voxel Plugin",
+              "description": ". Volumetric, destructible, infinite voxel worlds in Unreal Engine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97856074,
+                "language": "C++",
+                "last_commit": "2026-06-24T10:55:26Z",
+                "owner": "VoxelPlugin",
+                "repo": "VoxelPluginFreeLegacy",
+                "stars": 1753
               }
             },
             {
@@ -9316,21 +9331,6 @@
             },
             {
               "node_type": "item",
-              "title": "Voxel Plugin",
-              "description": ". Volumetric, destructible, infinite voxel worlds in Unreal Engine.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 97856074,
-                "language": "C++",
-                "last_commit": "2026-06-24T10:55:26Z",
-                "owner": "VoxelPlugin",
-                "repo": "VoxelPluginFreeLegacy",
-                "stars": 1752
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Houdini Engine for Unreal",
               "description": ". Plugin bridging Houdini Digital Asset workflows into Unreal.",
               "children": [],
@@ -9341,7 +9341,7 @@
                 "last_commit": "2026-08-13T04:00:06Z",
                 "owner": "sideeffects",
                 "repo": "HoudiniEngineForUnreal",
-                "stars": 1590
+                "stars": 1591
               }
             },
             {
@@ -9356,7 +9356,7 @@
                 "last_commit": "2025-06-08T10:55:00Z",
                 "owner": "ProjectBorealis",
                 "repo": "PBCharacterMovement",
-                "stars": 1490
+                "stars": 1494
               }
             },
             {
@@ -9371,7 +9371,7 @@
                 "last_commit": "2026-08-12T22:18:39Z",
                 "owner": "Sixze",
                 "repo": "ALS-Refactored",
-                "stars": 1459
+                "stars": 1461
               }
             },
             {
@@ -9446,7 +9446,7 @@
                 "last_commit": "2026-01-16T22:02:37Z",
                 "owner": "PolygonHive",
                 "repo": "GASPALS",
-                "stars": 1165
+                "stars": 1166
               }
             },
             {
@@ -9461,7 +9461,7 @@
                 "last_commit": "2024-07-09T20:05:55Z",
                 "owner": "tranek",
                 "repo": "GASShooter",
-                "stars": 1164
+                "stars": 1165
               }
             },
             {
@@ -9491,7 +9491,22 @@
                 "last_commit": "2026-06-27T11:40:09Z",
                 "owner": "Megafunk",
                 "repo": "MassSample",
-                "stars": 1114
+                "stars": 1116
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Async Loading Screen",
+              "description": ". Configure an async loading screen system from Unreal Engine project settings.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 288034377,
+                "language": "C++",
+                "last_commit": "2026-07-27T10:55:59Z",
+                "owner": "truong-bui",
+                "repo": "AsyncLoadingScreen",
+                "stars": 1108
               }
             },
             {
@@ -9507,21 +9522,6 @@
                 "owner": "ikrima",
                 "repo": "gamedevguide",
                 "stars": 1108
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Async Loading Screen",
-              "description": ". Configure an async loading screen system from Unreal Engine project settings.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 288034377,
-                "language": "C++",
-                "last_commit": "2026-07-27T10:55:59Z",
-                "owner": "truong-bui",
-                "repo": "AsyncLoadingScreen",
-                "stars": 1106
               }
             },
             {
@@ -9683,7 +9683,7 @@
                 "archived": false,
                 "id": 277214982,
                 "language": "C#",
-                "last_commit": "2026-08-14T21:40:14Z",
+                "last_commit": "2026-08-20T07:37:16Z",
                 "owner": "atenfyr",
                 "repo": "UAssetAPI",
                 "stars": 479
@@ -9826,21 +9826,6 @@
             },
             {
               "node_type": "item",
-              "title": "Fresh Cooked Tweens",
-              "description": ". Tweening library with curve easing for any value in Unreal Engine.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 508077027,
-                "language": "C++",
-                "last_commit": "2026-06-10T14:15:16Z",
-                "owner": "jdcook",
-                "repo": "fresh_cooked_tweens",
-                "stars": 365
-              }
-            },
-            {
-              "node_type": "item",
               "title": "NiagaraUIRenderer",
               "description": ". Render Niagara particle systems inside UMG UI widgets.",
               "children": [],
@@ -9851,6 +9836,21 @@
                 "last_commit": "2026-06-17T22:05:57Z",
                 "owner": "SourySK",
                 "repo": "NiagaraUIRenderer",
+                "stars": 366
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fresh Cooked Tweens",
+              "description": ". Tweening library with curve easing for any value in Unreal Engine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 508077027,
+                "language": "C++",
+                "last_commit": "2026-06-10T14:15:16Z",
+                "owner": "jdcook",
+                "repo": "fresh_cooked_tweens",
                 "stars": 365
               }
             },
@@ -10126,6 +10126,21 @@
             },
             {
               "node_type": "item",
+              "title": "UE5 Stylized Post Process",
+              "description": ". Stylized post-process effects for Unreal Engine 5.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 650874102,
+                "language": null,
+                "last_commit": "2025-02-15T11:15:20Z",
+                "owner": "ymt3d",
+                "repo": "UE5-StylizedPostProcess",
+                "stars": 223
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Va Fog Of War",
               "description": ". Fog of War solution for Unreal Engine.",
               "children": [],
@@ -10151,21 +10166,6 @@
                 "last_commit": "2024-04-23T11:44:29Z",
                 "owner": "cdpred",
                 "repo": "RedTalaria",
-                "stars": 222
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "UE5 Stylized Post Process",
-              "description": ". Stylized post-process effects for Unreal Engine 5.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 650874102,
-                "language": null,
-                "last_commit": "2025-02-15T11:15:20Z",
-                "owner": "ymt3d",
-                "repo": "UE5-StylizedPostProcess",
                 "stars": 222
               }
             },
@@ -10376,7 +10376,7 @@
                 "last_commit": "2025-07-02T07:48:16Z",
                 "owner": "orfeasel",
                 "repo": "DungeonGenerator",
-                "stars": 141
+                "stars": 142
               }
             },
             {
@@ -11470,7 +11470,7 @@
                 "last_commit": "2026-07-08T12:25:32Z",
                 "owner": "inkle",
                 "repo": "ink-unity-integration",
-                "stars": 709
+                "stars": 710
               }
             },
             {
@@ -11507,7 +11507,7 @@
                 "last_commit": "2026-08-14T14:29:59Z",
                 "owner": "MirrorNetworking",
                 "repo": "Mirror",
-                "stars": 6287
+                "stars": 6288
               }
             },
             {
@@ -11552,7 +11552,7 @@
                 "last_commit": "2026-07-26T00:07:07Z",
                 "owner": "JanSeliv",
                 "repo": "Bomber",
-                "stars": 371
+                "stars": 373
               }
             },
             {
@@ -11619,7 +11619,7 @@
                 "last_commit": "2026-08-12T20:39:21Z",
                 "owner": "libgdx",
                 "repo": "libgdx",
-                "stars": 25307
+                "stars": 25311
               }
             },
             {
@@ -11731,7 +11731,7 @@
                 "last_commit": "2026-03-22T01:25:44Z",
                 "owner": "mxgmn",
                 "repo": "WaveFunctionCollapse",
-                "stars": 25279
+                "stars": 25280
               }
             },
             {
@@ -11746,7 +11746,7 @@
                 "last_commit": "2026-06-21T19:35:59Z",
                 "owner": "Auburn",
                 "repo": "FastNoiseLite",
-                "stars": 3482
+                "stars": 3483
               }
             },
             {
@@ -11798,7 +11798,7 @@
                 "last_commit": "2026-08-06T06:27:20Z",
                 "owner": "jrouwe",
                 "repo": "JoltPhysics",
-                "stars": 11381
+                "stars": 11389
               }
             },
             {
@@ -11880,7 +11880,7 @@
                 "last_commit": "2026-07-03T11:59:59Z",
                 "owner": "friflo",
                 "repo": "Friflo.Engine.ECS",
-                "stars": 747
+                "stars": 748
               }
             },
             {
@@ -11935,10 +11935,10 @@
                 "archived": false,
                 "id": 753750990,
                 "language": "HTML",
-                "last_commit": "2026-08-17T21:33:15Z",
+                "last_commit": "2026-08-19T22:05:37Z",
                 "owner": "aishwaryanr",
                 "repo": "awesome-generative-ai-guide",
-                "stars": 28810
+                "stars": 28830
               }
             },
             {
@@ -11953,7 +11953,7 @@
                 "last_commit": "2024-07-04T19:13:09Z",
                 "owner": "timzhang642",
                 "repo": "3D-Machine-Learning",
-                "stars": 10193
+                "stars": 10192
               }
             },
             {
@@ -12020,7 +12020,7 @@
                 "last_commit": "2026-06-23T10:10:27Z",
                 "owner": "TencentARC",
                 "repo": "Pixal3D",
-                "stars": 2128
+                "stars": 2130
               }
             },
             {
@@ -12057,7 +12057,7 @@
                 "last_commit": "2026-08-18T23:44:10Z",
                 "owner": "Comfy-Org",
                 "repo": "ComfyUI-Manager",
-                "stars": 15825
+                "stars": 15843
               }
             },
             {
@@ -12094,7 +12094,7 @@
                 "last_commit": "2026-05-28T15:15:20Z",
                 "owner": "nikopueringer",
                 "repo": "CorridorKey",
-                "stars": 14572
+                "stars": 14573
               }
             },
             {
@@ -12124,7 +12124,7 @@
                 "last_commit": "2024-08-26T02:23:11Z",
                 "owner": "carson-katri",
                 "repo": "dream-textures",
-                "stars": 8192
+                "stars": 8193
               }
             },
             {
@@ -12151,10 +12151,10 @@
                 "archived": false,
                 "id": 959123498,
                 "language": "C#",
-                "last_commit": "2026-08-19T02:08:15Z",
+                "last_commit": "2026-08-19T21:40:41Z",
                 "owner": "IvanMurzak",
                 "repo": "Unity-MCP",
-                "stars": 3951
+                "stars": 3952
               }
             },
             {
@@ -12184,7 +12184,7 @@
                 "last_commit": "2025-11-28T09:02:36Z",
                 "owner": "AIGODLIKE",
                 "repo": "ComfyUI-BlenderAI-node",
-                "stars": 1527
+                "stars": 1528
               }
             },
             {
@@ -12214,7 +12214,7 @@
                 "last_commit": "2025-12-28T19:12:19Z",
                 "owner": "benrugg",
                 "repo": "AI-Render",
-                "stars": 1219
+                "stars": 1220
               }
             },
             {
@@ -12244,7 +12244,7 @@
                 "last_commit": "2026-08-17T20:32:21Z",
                 "owner": "Zarxrax",
                 "repo": "Sammie-Roto-2",
-                "stars": 333
+                "stars": 334
               }
             },
             {
@@ -12281,7 +12281,7 @@
                 "last_commit": "2026-06-17T13:51:27Z",
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15157
+                "stars": 15159
               }
             },
             {
@@ -12341,7 +12341,7 @@
                 "last_commit": "2024-01-02T04:12:09Z",
                 "owner": "dreamgaussian",
                 "repo": "dreamgaussian",
-                "stars": 4351
+                "stars": 4352
               }
             },
             {
@@ -12386,7 +12386,7 @@
                 "last_commit": "2024-04-22T20:43:02Z",
                 "owner": "google",
                 "repo": "nerfies",
-                "stars": 1972
+                "stars": 1973
               }
             },
             {
@@ -12506,7 +12506,7 @@
                 "last_commit": "2024-03-08T20:57:52Z",
                 "owner": "Xharlie",
                 "repo": "pointnerf",
-                "stars": 1155
+                "stars": 1154
               }
             },
             {
@@ -12601,6 +12601,21 @@
             },
             {
               "node_type": "item",
+              "title": "HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video",
+              "description": ". Weng et al., CVPR 2022 | github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 501380780,
+                "language": "Python",
+                "last_commit": "2023-09-29T07:36:39Z",
+                "owner": "chungyiweng",
+                "repo": "humannerf",
+                "stars": 818
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Neural Sparse Voxel Fields",
               "description": ". Liu et al., NeurIPS 2020 | github",
               "children": [],
@@ -12612,21 +12627,6 @@
                 "owner": "facebookresearch",
                 "repo": "NSVF",
                 "stars": 818
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video",
-              "description": ". Weng et al., CVPR 2022 | github",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 501380780,
-                "language": "Python",
-                "last_commit": "2023-09-29T07:36:39Z",
-                "owner": "chungyiweng",
-                "repo": "humannerf",
-                "stars": 817
               }
             },
             {
@@ -13921,7 +13921,7 @@
                 "last_commit": "2024-02-04T19:17:24Z",
                 "owner": "patriciogonzalezvivo",
                 "repo": "prisma",
-                "stars": 255
+                "stars": 256
               }
             },
             {
@@ -14071,7 +14071,7 @@
                 "last_commit": "2025-05-21T20:37:06Z",
                 "owner": "vfxpaco85",
                 "repo": "vfxdailies",
-                "stars": 44
+                "stars": 45
               }
             },
             {
@@ -14138,7 +14138,7 @@
                 "last_commit": "2025-10-17T14:28:15Z",
                 "owner": "graphdeco-inria",
                 "repo": "gaussian-splatting",
-                "stars": 22975
+                "stars": 22979
               }
             },
             {
@@ -14153,7 +14153,7 @@
                 "last_commit": "2026-08-17T22:38:24Z",
                 "owner": "ArthurBrussee",
                 "repo": "brush",
-                "stars": 4941
+                "stars": 4951
               }
             },
             {
@@ -14168,7 +14168,7 @@
                 "last_commit": "2024-10-27T04:07:37Z",
                 "owner": "hustvl",
                 "repo": "4DGaussians",
-                "stars": 3887
+                "stars": 3888
               }
             },
             {
@@ -14180,10 +14180,10 @@
                 "archived": false,
                 "id": 672651553,
                 "language": "C++",
-                "last_commit": "2026-08-19T11:45:14Z",
+                "last_commit": "2026-08-20T06:39:07Z",
                 "owner": "MrNeRF",
                 "repo": "LichtFeld-Studio",
-                "stars": 3546
+                "stars": 3551
               }
             },
             {
@@ -14243,7 +14243,7 @@
                 "last_commit": "2024-03-12T08:59:10Z",
                 "owner": "wanmeihuali",
                 "repo": "taichi_3d_gaussian_splatting",
-                "stars": 755
+                "stars": 754
               }
             },
             {
@@ -14352,10 +14352,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-16T18:45:46Z",
+                "last_commit": "2026-08-19T20:48:11Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38579
+                "stars": 38584
               }
             },
             {
@@ -14367,10 +14367,10 @@
                 "archived": false,
                 "id": 34405381,
                 "language": "Python",
-                "last_commit": "2026-08-19T10:58:09Z",
+                "last_commit": "2026-08-20T03:00:08Z",
                 "owner": "alicevision",
                 "repo": "Meshroom",
-                "stars": 12907
+                "stars": 12911
               }
             },
             {
@@ -14400,7 +14400,7 @@
                 "last_commit": "2026-08-19T05:38:23Z",
                 "owner": "facebookresearch",
                 "repo": "pytorch3d",
-                "stars": 9950
+                "stars": 9952
               }
             },
             {
@@ -14415,7 +14415,7 @@
                 "last_commit": "2026-08-13T11:24:10Z",
                 "owner": "playcanvas",
                 "repo": "supersplat",
-                "stars": 9868
+                "stars": 9875
               }
             },
             {
@@ -14430,7 +14430,7 @@
                 "last_commit": "2026-08-18T09:59:38Z",
                 "owner": "MrNeRF",
                 "repo": "awesome-3D-gaussian-splatting",
-                "stars": 8824
+                "stars": 8825
               }
             },
             {
@@ -14445,7 +14445,7 @@
                 "last_commit": "2024-07-25T10:27:44Z",
                 "owner": "yenchenlin",
                 "repo": "nerf-pytorch",
-                "stars": 6047
+                "stars": 6045
               }
             },
             {
@@ -14460,7 +14460,7 @@
                 "last_commit": "2026-08-17T22:13:00Z",
                 "owner": "nerfstudio-project",
                 "repo": "gsplat",
-                "stars": 5550
+                "stars": 5558
               }
             },
             {
@@ -14550,7 +14550,7 @@
                 "last_commit": "2026-05-25T13:10:03Z",
                 "owner": "yzslab",
                 "repo": "gaussian-splatting-lightning",
-                "stars": 1095
+                "stars": 1096
               }
             },
             {
@@ -14677,7 +14677,7 @@
                 "last_commit": "2026-03-01T11:35:26Z",
                 "owner": "zju3dv",
                 "repo": "EasyMocap",
-                "stars": 4774
+                "stars": 4776
               }
             },
             {
@@ -14759,7 +14759,7 @@
                 "last_commit": "2026-03-17T06:28:29Z",
                 "owner": "anvaka",
                 "repo": "city-roads",
-                "stars": 9552
+                "stars": 9554
               }
             },
             {
@@ -15012,7 +15012,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:05:29.277Z",
+    "last_updated": "2026-08-20T09:08:10.320Z",
     "original_repository": "devanshutak25/3d-resources",
     "original_repository_id": 1041237501,
     "original_repository_sha": "4975d98001781d580dcea260656d200029d74bf6",
