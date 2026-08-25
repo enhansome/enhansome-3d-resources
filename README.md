@@ -2,9 +2,9 @@
 
 <!-- only:readme -->
 
-[![Stars](https://img.shields.io/github/stars/devanshutak25/3d-resources?style=flat\&logo=github\&color=24292e)](https://github.com/devanshutak25/3d-resources/stargazers) ⭐ 922 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-21
+[![Stars](https://img.shields.io/github/stars/devanshutak25/3d-resources?style=flat\&logo=github\&color=24292e)](https://github.com/devanshutak25/3d-resources/stargazers) ⭐ 923 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-21
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Validate](https://github.com/devanshutak25/3d-resources/actions/workflows/validate.yml/badge.svg)](https://github.com/devanshutak25/3d-resources/actions/workflows/validate.yml) ⭐ 922 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-21
+[![Validate](https://github.com/devanshutak25/3d-resources/actions/workflows/validate.yml/badge.svg)](https://github.com/devanshutak25/3d-resources/actions/workflows/validate.yml) ⭐ 923 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-21
 [![Live site](https://img.shields.io/badge/live%20site-3d.devanshutak.xyz-7c3aed)](https://3d.devanshutak.xyz)
 
 <!-- /only:readme -->
@@ -19,9 +19,9 @@
 
 Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude
 
-[Suggest a resource](https://github.com/devanshutak25/3d-resources/issues) ⭐ 922 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-21 · [Contribute](CONTRIBUTING.md)
+[Suggest a resource](https://github.com/devanshutak25/3d-resources/issues) ⭐ 923 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-21 · [Contribute](CONTRIBUTING.md)
 
-> <span aria-hidden="true">⚠️</span> **Heads up:** links rot, licenses drift, prices age. Flag anything off via [GitHub](https://github.com/devanshutak25/3d-resources/issues) ⭐ 922 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-21.
+> <span aria-hidden="true">⚠️</span> **Heads up:** links rot, licenses drift, prices age. Flag anything off via [GitHub](https://github.com/devanshutak25/3d-resources/issues) ⭐ 923 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-21.
 
 ## Contents
 
@@ -533,7 +533,7 @@ Font libraries, pairing tools, and type references.
 
 Icon libraries and animation sets.
 
-* [Material design icons](https://github.com/google/material-design-icons) ⭐ 53,812 | 🐛 424 | 📅 2026-08-14. Official Material Design icon set from Google.
+* [Material design icons](https://github.com/google/material-design-icons) ⭐ 53,815 | 🐛 424 | 📅 2026-08-14. Official Material Design icon set from Google.
 * [Bootstrap Icons](https://icons.getbootstrap.com/). 2000+ official open-source SVG icons from the Bootstrap team.
 * [Flaticon](https://www.flaticon.com/) <span class="lic-pill lic-freemium">Freemium</span>. Massive icon library.
 * [Font Awesome](https://fontawesome.com/) <span class="lic-pill lic-freemium">Freemium</span>. Classic icon font library.
@@ -627,28 +627,28 @@ Notable addons extending Blender.
 * [UcuPaint](https://github.com/ucupumar/ucupaint) ⭐ 2,223 | 🐛 105 | 🌐 Python | 📅 2026-08-25. Manage texture layers for EEVEE and Cycles in Blender.
 * [MB Lab](https://github.com/animate1978/MB-Lab) ⚠️ Archived. Character creation (archived, succeeded by CharMorph).
 * [FLIP Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) ⭐ 1,940 | 🐛 4 | 🌐 C++ | 📅 2026-08-24 <span class="lic-pill lic-paid">Paid</span>. High-quality liquid simulation plugin for Blender.
-* [DreamUV](https://github.com/leukbaars/DreamUV) ⭐ 1,787 | 🐛 46 | 🌐 Python | 📅 2026-04-17. Manipulate UVs directly in the 3D viewport.
+* [DreamUV](https://github.com/leukbaars/DreamUV) ⭐ 1,788 | 🐛 46 | 🌐 Python | 📅 2026-04-17. Manipulate UVs directly in the 3D viewport.
 * [MeshSync](https://github.com/unity3d-jp/MeshSync) ⭐ 1,678 | 🐛 22 | 🌐 C# | 📅 2024-12-06. Live-link plugin syncing Blender and other DCCs into Unity.
-* [EdgeFlow](https://github.com/BenjaminSauder/EdgeFlow/tree/blender_28) ⭐ 1,568 | 🐛 4 | 🌐 Python | 📅 2025-05-11. Adds two edge-loop operators for cleaner topology in Blender.
-* [Building Tools](https://github.com/ranjian0/building_tools) ⭐ 1,503 | 🐛 27 | 🌐 Python | 📅 2025-05-17. Building-generation addon for Blender.
+* [EdgeFlow](https://github.com/BenjaminSauder/EdgeFlow/tree/blender_28) ⭐ 1,569 | 🐛 4 | 🌐 Python | 📅 2025-05-11. Adds two edge-loop operators for cleaner topology in Blender.
+* [Building Tools](https://github.com/ranjian0/building_tools) ⭐ 1,504 | 🐛 27 | 🌐 Python | 📅 2025-05-17. Building-generation addon for Blender.
 * [F Spy Blender](https://github.com/stuffmatic/fSpy-Blender) ⭐ 1,446 | 🐛 59 | 🌐 Python | 📅 2022-05-04. Official fSpy Blender importer.
-* [Screencast Keys](https://github.com/nutti/Screencast-Keys) ⭐ 1,429 | 🐛 1 | 🌐 Python | 📅 2026-05-23. On-screen keystroke display for Blender screen recordings.
+* [Screencast Keys](https://github.com/nutti/Screencast-Keys) ⭐ 1,430 | 🐛 1 | 🌐 Python | 📅 2026-05-23. On-screen keystroke display for Blender screen recordings.
 * [Mixer by Ubisoft](https://github.com/ubisoft/mixer) ⚠️ Archived. Real-time collaboration addon for Blender from Ubisoft Animation Studio.
-* [Sketchfab Blender Addon](https://github.com/sketchfab/blender-plugin) ⭐ 1,327 | 🐛 40 | 🌐 Python | 📅 2026-08-06. Import and export models between Blender and Sketchfab.
+* [Sketchfab Blender Addon](https://github.com/sketchfab/blender-plugin) ⭐ 1,328 | 🐛 40 | 🌐 Python | 📅 2026-08-06. Import and export models between Blender and Sketchfab.
 * [Camera Shakify](https://github.com/EatTheFuture/camera_shakify) ⭐ 1,265 | 🐛 16 | 🌐 Python | 📅 2026-02-07. Adds realistic camera shake to Blender cameras.
 * [Blender to Unity FBX](https://github.com/EdyJ/blender-to-unity-fbx-exporter) ⭐ 1,256 | 🐛 15 | 🌐 Python | 📅 2026-04-16. Unity export addon.
-* [Tissue](https://github.com/alessandro-zomparelli/tissue) ⭐ 1,082 | 🐛 36 | 🌐 Python | 📅 2026-06-07. Computational and parametric design addon for Blender.
+* [Tissue](https://github.com/alessandro-zomparelli/tissue) ⭐ 1,083 | 🐛 36 | 🌐 Python | 📅 2026-06-07. Computational and parametric design addon for Blender.
 * [Point Cloud Visualizer](https://github.com/uhlik/bpy#point-cloud-visualizer-for-blender-280) ⭐ 1,081 | 🐛 0 | 🌐 Python | 📅 2023-07-04. Display, edit, filter, render and export colored point-cloud PLY files.
 * [COA Tools](https://github.com/ndee85/coa_tools) ⭐ 972 | 🐛 117 | 🌐 Python | 📅 2024-05-02. 2D cutout animation suite for Blender, similar to Spine or Spriter.
-* [Tree Gen](https://github.com/friggog/tree-gen) ⭐ 945 | 🐛 8 | 🌐 Python | 📅 2025-07-11. Procedural tree-model generation in Blender.
+* [Tree Gen](https://github.com/friggog/tree-gen) ⭐ 946 | 🐛 8 | 🌐 Python | 📅 2025-07-11. Procedural tree-model generation in Blender.
 * [MifthTools](https://github.com/mifth/mifthtools) ⭐ 930 | 🐛 7 | 🌐 Python | 📅 2025-09-28. Mesh-exchange tools for 3DCoat, Houdini and Modo.
-* [Phobos](https://github.com/dfki-ric/phobos) ⭐ 899 | 🐛 14 | 🌐 Python | 📅 2026-07-14. Creates URDF, SDF and SMURF robot models in Blender.
+* [Phobos](https://github.com/dfki-ric/phobos) ⭐ 900 | 🐛 14 | 🌐 Python | 📅 2026-07-14. Creates URDF, SDF and SMURF robot models in Blender.
 * [Mixamo Converter](https://github.com/enziop/mixamo_converter) ⭐ 813 | 🐛 12 | 🌐 Python | 📅 2024-03-01. Blender Plugin that Converts Mixamo animations to work in Unreal Engine 4 with root motion.
-* [Spring Bones](https://github.com/artellblender/springbones) ⭐ 806 | 🐛 1 | 🌐 Python | 📅 2026-03-29. Adds springy dynamic motion to bones in Blender.
+* [Spring Bones](https://github.com/artellblender/springbones) ⭐ 807 | 🐛 1 | 🌐 Python | 📅 2026-03-29. Adds springy dynamic motion to bones in Blender.
 * [AnimAide](https://github.com/aresdevo/animaide) ⭐ 788 | 🐛 24 | 🌐 Python | 📅 2025-04-01. Free animation helper tools for Blender.
 * [GoB](https://github.com/JoseConseco/GoB) ⭐ 756 | 🐛 76 | 🌐 Python | 📅 2026-08-20. GoZ-style bridge for ZBrush-Blender mesh interchange.
 * [Blender Vscode](https://github.com/JacquesLucke/blender_vscode) ⭐ 737 | 🐛 67 | 🌐 TypeScript | 📅 2026-07-10. VS Code extension for Blender addon development.
-* [Power Sequencer](https://github.com/GDQuest/blender-power-sequencer) ⭐ 727 | 🐛 10 | 🌐 Python | 📅 2026-01-16. Faster editing tools for Blender's Video Sequence Editor.
+* [Power Sequencer](https://github.com/GDQuest/blender-power-sequencer) ⭐ 728 | 🐛 10 | 🌐 Python | 📅 2026-01-16. Faster editing tools for Blender's Video Sequence Editor.
 * [Mesh Align Plus](https://github.com/egtwobits/mesh_mesh_align_plus) ⭐ 643 | 🐛 12 | 🌐 Python | 📅 2024-08-10. Precisely align, move, and measure objects and mesh parts.
 * [JewelCraft](https://github.com/mrachinskiy/jewelcraft) ⭐ 589 | 🐛 0 | 🌐 Python | 📅 2026-08-23. Jewelry design toolkit add-on for Blender.
 * [Lib SM64 Blender](https://github.com/libsm64/libsm64-blender) ⭐ 586 | 🐛 27 | 🌐 Python | 📅 2026-01-22. Integrates libsm64 into Blender, with Fast64 integrations.
@@ -1061,7 +1061,7 @@ Texture authoring, procedural materials, and baking tools.
 | Software                                                                                               | Description                                                                                                                              | Pricing                            | License     | Tags                           | Best For                                    |
 | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ----------- | ------------------------------ | ------------------------------------------- |
 | [3D Coat](https://3dcoat.com/)                                                                         | Sculpt, retopo, UV, and PBR paint suite from Pilgway. Voxel and surface sculpt, AUTOPO auto-retopo, manual quad retopo, UV unwrap, bake. | \~$379 perpetual (Educational $99) | Paid        | Sculpt + Retopo · PBR Paint    | Sculpt + retopo + UV + PBR paint in one app |
-| [AutoRemesher](https://github.com/huxingyi/autoremesher) ⭐ 3,338 \| 🐛 34 \| 🌐 C++ \| 📅 2026-08-24   | Open-source auto-retopology tool intended to convert source meshes into clean, animation-friendly all-quad geometry.                     |                                    | Open Source | Free · Auto Retopo             | Auto-retopology                             |
+| [AutoRemesher](https://github.com/huxingyi/autoremesher) ⭐ 3,339 \| 🐛 34 \| 🌐 C++ \| 📅 2026-08-24   | Open-source auto-retopology tool intended to convert source meshes into clean, animation-friendly all-quad geometry.                     |                                    | Open Source | Free · Auto Retopo             | Auto-retopology                             |
 | [Cozy Blanket](https://cozyblanket.app/)                                                               | iPad sculpt-to-retopo app. Clay sculpt plus auto-quad retopology for game/film topology, from Naam.                                      | \~$80 perpetual                    | Paid        | iPad Sculpt · Auto Retopo      | iPad sculpt + auto-retopo                   |
 | [Headus UVLayout](https://www.uvlayout.com/)                                                           | Standalone UV editor, flatten-based.                                                                                                     |                                    | Paid        | Flatten-based · Classic        | Flatten-based UV editor                     |
 | [Instant Meshes](https://github.com/wjakob/instant-meshes) ⭐ 6,194 \| 🐛 97 \| 🌐 C++ \| 📅 2022-01-03 | Free, open-source auto-retopology.                                                                                                       |                                    | Open Source | Free · Auto Retopo             | Auto-retopology                             |
@@ -1179,15 +1179,15 @@ Foundational rendering and shader theory references.
 
 **Related:**
 
-* [Filament](https://github.com/google/filament) ⭐ 20,393 | 🐛 208 | 🌐 C++ | 📅 2026-08-25. PBR engine, available on all platforms (desktop, mobile).
+* [Filament](https://github.com/google/filament) ⭐ 20,394 | 🐛 208 | 🌐 C++ | 📅 2026-08-25. PBR engine, available on all platforms (desktop, mobile).
 * [3D Game Shaders (source)](https://github.com/lettier/3d-game-shaders-for-beginners) ⭐ 19,854 | 🐛 18 | 🌐 C++ | 📅 2023-06-25. Open-source project with resources on learning 3D game shaders.
 * [bgfx](https://github.com/bkaradzic/bgfx) ⭐ 17,431 | 🐛 284 | 🌐 C++ | 📅 2026-08-25. Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 * [glslViewer (GitHub)](https://github.com/patriciogonzalezvivo/glslViewer) ⭐ 5,321 | 🐛 70 | 🌐 C++ | 📅 2026-08-19. Console-based GLSL sandbox for 2D/3D shaders, for a creative pipeline agnostic to the target platform.
 * [Magnum (GitHub)](https://github.com/mosra/magnum) ⭐ 5,194 | 🐛 76 | 🌐 C++ | 📅 2026-08-23. 2D/3D graphics engine for modern OpenGL.
 * [PBRT v3](https://github.com/mmp/pbrt-v3) ⭐ 5,076 | 🐛 57 | 🌐 C++ | 📅 2023-09-03. Source code for pbrt, the renderer from the third edition of "Physically Based Rendering: From Theory To Implementation".
 * [SHADERed](https://github.com/dfranx/SHADERed) ⭐ 4,787 | 🐛 119 | 🌐 C++ | 📅 2023-09-22. Lightweight tool for creating and testing HLSL and GLSL shaders.
-* [PBRT v4](https://github.com/mmp/pbrt-v4/) ⭐ 3,681 | 🐛 93 | 🌐 C++ | 📅 2026-06-14. Ray tracer from "Physically Based Rendering: From Theory to Implementation" book.
-* [Lygia (GitHub)](https://github.com/patriciogonzalezvivo/lygia) ⭐ 3,412 | 🐛 19 | 🌐 GLSL | 📅 2026-08-17. Granular, multi-language shader library built for performance and flexibility.
+* [PBRT v4](https://github.com/mmp/pbrt-v4/) ⭐ 3,682 | 🐛 93 | 🌐 C++ | 📅 2026-06-14. Ray tracer from "Physically Based Rendering: From Theory to Implementation" book.
+* [Lygia (GitHub)](https://github.com/patriciogonzalezvivo/lygia) ⭐ 3,413 | 🐛 19 | 🌐 GLSL | 📅 2026-08-17. Granular, multi-language shader library built for performance and flexibility.
 * [ShaderForge](https://github.com/FreyaHolmer/ShaderForge) ⭐ 2,782 | 🐛 8 | 🌐 C# | 📅 2023-01-03. Node-based Unity shader editor, no coding required. Open source and unmaintained.
 * [Tungsten](https://github.com/tunabrain/tungsten) ⭐ 1,831 | 🐛 18 | 🌐 C++ | 📅 2022-03-10. High performance physically based renderer in C++11.
 * [GLSL Optimizer](https://github.com/aras-p/glsl-optimizer) ⭐ 1,786 | 🐛 51 | 🌐 C++ | 📅 2020-05-14. GLSL optimizer based on Mesa's GLSL compiler. Used in Unity for mobile shader optimization.
@@ -1207,7 +1207,7 @@ Foundational rendering and shader theory references.
 * [(2014) Ray tracing with OpenGL Compute Shaders](https://github.com/LWJGL/lwjgl3-wiki/wiki/2.6.1.-Ray-tracing-with-OpenGL-Compute-Shaders-%28Part-I%29) ⭐ 432 | 🐛 1 | 📅 2023-08-30. Detailed ray tracing tutorial series using OpenGL (LWJGL) by Kai Burjack.
 * [ShadowDrawer](https://github.com/keijiro/ShadowDrawer) ⭐ 381 | 🐛 6 | 🌐 ShaderLab | 📅 2018-07-26. Shadow matte shader for Unity.
 * [Node To Python](https://github.com/BrendanParmer/NodeToPython) ⭐ 358 | 🐛 21 | 🌐 Python | 📅 2026-08-23. Blender addon that converts Geometry, Shader, and Compositing node trees into legible Python scripts and add-ons.
-* [Fft Ocean](https://github.com/jbouny/fft-ocean) ⭐ 350 | 🐛 5 | 🌐 JavaScript | 📅 2015-11-12. Fast Fourier Transform ocean rendering for Three.js.
+* [Fft Ocean](https://github.com/jbouny/fft-ocean) ⭐ 351 | 🐛 5 | 🌐 JavaScript | 📅 2015-11-12. Fast Fourier Transform ocean rendering for Three.js.
 * [Extra Lights](https://github.com/jlampel/bl_extra_lights) ⭐ 268 | 🐛 12 | 🌐 Python | 📅 2025-11-27. Blender addon adding physically based, photometric lighting presets to the Add menu.
 * [Shader Graph Tutorials](https://github.com/Brackeys/Shader-Graph-Tutorials) ⭐ 267 | 🐛 1 | 🌐 C# | 📅 2018-06-04. Project files for the Brackeys Shader Graph tutorials in Unity.
 * [Resources for Writing Shaders in Unity](https://github.com/VoxelBoy/Resources-for-Writing-Shaders-in-Unity) ⭐ 192 | 🐛 0 | 📅 2017-08-30. Companion resources for the UNITE Boston 2015 talk Writing Shaders: YOU can do it!
@@ -1662,7 +1662,7 @@ Editing-specific courses.
 
 | Software                                                                        | Description                                                                                                                                                        | Pricing           | License     | Tags                             | Best For                                      |
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- | ----------- | -------------------------------- | --------------------------------------------- |
-| [Aseprite](https://www.aseprite.org/)                                           | Pixel art editor with animation tools ([source on GitHub](https://github.com/aseprite/aseprite) ⭐ 38,960 \| 🐛 1,989 \| 🌐 C++ \| 📅 2026-08-24).                  |                   | Open Source | Pixel Art · Sprite Animation     | Pixel art, sprite animation, game assets      |
+| [Aseprite](https://www.aseprite.org/)                                           | Pixel art editor with animation tools ([source on GitHub](https://github.com/aseprite/aseprite) ⭐ 38,963 \| 🐛 1,989 \| 🌐 C++ \| 📅 2026-08-24).                  |                   | Open Source | Pixel Art · Sprite Animation     | Pixel art, sprite animation, game assets      |
 | [Autograph](https://www.maxon.net/en/autograph)                                 | USD-based motion graphics, compositing, and VFX (After Effects alternative). Free for individuals incl. commercial use. Originally Left Angle, now Maxon.          |                   | Free        | USD · Free Commercial            | 2D/3D motion design and compositing           |
 | [Cavalry](https://cavalry.scenegroup.co/)                                       | Procedural 2D motion design (After Effects alternative). Free tier available.                                                                                      |                   | Freemium    | Procedural · Data-Driven         | Data-driven motion graphics                   |
 | [Clip Studio Paint](https://www.clipstudio.net/)                                | Industry-standard illustration and comics with animation timeline.                                                                                                 |                   | Paid        | Manga · Frame-by-Frame           | Manga, illustration, frame-by-frame animation |
@@ -1720,8 +1720,8 @@ Editing-specific courses.
 | [iMovie](https://www.apple.com/imovie/)                                                             | Apple's free consumer editor for macOS and iOS/iPadOS.                                                      |                                        | Free        | Free · Apple                    | Consumer Mac/iOS editing                    |
 | [Kdenlive](https://kdenlive.org/)                                                                   | Free open-source NLE.                                                                                       |                                        | Open Source | Open Source · Cross-Platform    | Linux/cross-platform editing                |
 | [Lightworks](https://lwks.com/)                                                                     | Pro NLE with free tier (1080p export) and paid Pro/Create tiers. Used on feature films historically.        | Free / $9.99/mo Create / $23.99/mo Pro | Freemium    | Free Tier · Pro NLE             | Pro NLE on a budget                         |
-| [OBS](https://github.com/obsproject/obs-studio) ⭐ 75,415 \| 🐛 1,162 \| 🌐 C \| 📅 2026-08-25       | Software designed for capturing, compositing, encoding, recording, and streaming video content efficiently. |                                        | Open Source | Capture · Open Source           | Screen capture and streaming                |
-| [OpenShot](https://github.com/OpenShot/openshot-qt) ⭐ 6,193 \| 🐛 405 \| 🌐 Python \| 📅 2026-08-23 | Award-winning free and open-source video editor for Linux, Mac, and Windows.                                |                                        | Open Source | Open Source · Beginner-Friendly | Cross-platform beginner editing             |
+| [OBS](https://github.com/obsproject/obs-studio) ⭐ 75,427 \| 🐛 1,163 \| 🌐 C \| 📅 2026-08-25       | Software designed for capturing, compositing, encoding, recording, and streaming video content efficiently. |                                        | Open Source | Capture · Open Source           | Screen capture and streaming                |
+| [OpenShot](https://github.com/OpenShot/openshot-qt) ⭐ 6,194 \| 🐛 405 \| 🌐 Python \| 📅 2026-08-23 | Award-winning free and open-source video editor for Linux, Mac, and Windows.                                |                                        | Open Source | Open Source · Beginner-Friendly | Cross-platform beginner editing             |
 | [Premiere Elements](https://www.adobe.com/products/premiere-elements.html)                          | One-time-purchase consumer Premiere variant.                                                                | \~$99 perpetual                        | Paid        | One-time Buy · Consumer         | Consumer Adobe editing without subscription |
 | [Premiere Pro](https://www.adobe.com/products/premiere.html)                                        | Industry-standard NLE from Adobe.                                                                           |                                        | Paid        | Industry Standard · Adobe Suite | Broadcast, film editing                     |
 | [Shotcut](https://shotcut.org/)                                                                     | Free open-source video editor.                                                                              |                                        | Open Source | Lightweight · Beginner-Friendly | Quick edits, beginners                      |
@@ -1842,10 +1842,10 @@ Unity community add-ons, tools, and learning resources.
 
 **Related:**
 
-* [Bep In Ex](https://github.com/BepInEx/BepInEx) ⭐ 8,488 | 🐛 382 | 🌐 C# | 📅 2026-06-28. Unity game patcher and plugin framework for modding shipped games.
+* [Bep In Ex](https://github.com/BepInEx/BepInEx) ⭐ 8,490 | 🐛 382 | 🌐 C# | 📅 2026-06-28. Unity game patcher and plugin framework for modding shipped games.
 * [GameFramework (EllanJiang)](https://github.com/EllanJiang/GameFramework) ⭐ 6,847 | 🐛 11 | 🌐 C# | 📅 2023-09-05. Game framework for Unity that encapsulates common game modules and standardizes the development process.
 * [MessagePack CSharp](https://github.com/neuecc/MessagePack-CSharp) ⭐ 6,773 | 🐛 146 | 🌐 C# | 📅 2026-08-20. Fast MessagePack serializer for C# (.NET, Unity, Xamarin).
-* [Spine Runtimes](https://github.com/EsotericSoftware/spine-runtimes) ⭐ 5,260 | 🐛 81 | 🌐 C++ | 📅 2026-08-20. Spine 2D animation runtimes, including a Unity runtime.
+* [Spine Runtimes](https://github.com/EsotericSoftware/spine-runtimes) ⭐ 5,261 | 🐛 81 | 🌐 C++ | 📅 2026-08-20. Spine 2D animation runtimes, including a Unity runtime.
 * [LINQ to GameObject for Unity](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) ⭐ 5,243 | 🐛 5 | 🌐 C# | 📅 2026-07-08. Traverse the GameObject hierarchy using LINQ.
 * [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) ⭐ 5,199 | 🐛 127 | 🌐 C# | 📅 2026-06-29. Inspector attribute extensions for Unity.
 * [Deform](https://github.com/keenanwoodall/Deform) ⭐ 3,676 | 🐛 20 | 🌐 C# | 📅 2024-10-04. Deformer system for Unity meshes.
@@ -1858,7 +1858,7 @@ Unity community add-ons, tools, and learning resources.
 * [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai) ⭐ 2,138 | 🐛 12 | 🌐 C# | 📅 2024-05-20. Steering-behavior movement scripts for NPCs in Unity.
 * [Unity Asset Usage Detector](https://github.com/yasirkula/UnityAssetUsageDetector) ⭐ 2,046 | 🐛 0 | 🌐 C# | 📅 2026-04-04. Finds which objects reference the selected assets or objects in a Unity project.
 * [Unity Mesh Simplifier (Whinarn)](https://github.com/Whinarn/UnityMeshSimplifier) ⭐ 2,043 | 🐛 12 | 🌐 C# | 📅 2026-01-07. Mesh simplification for Unity.
-* [LuaProfiler For Unity](https://github.com/ElPsyCongree/LuaProfiler-For-Unity) ⭐ 2,016 | 🐛 35 | 🌐 C# | 📅 2026-01-05. Profiler for Lua inside Unity.
+* [LuaProfiler For Unity](https://github.com/ElPsyCongree/LuaProfiler-For-Unity) ⭐ 2,015 | 🐛 35 | 🌐 C# | 📅 2026-01-05. Profiler for Lua inside Unity.
 * [Fungus](https://github.com/snozbot/fungus) ⭐ 1,943 | 🐛 203 | 🌐 C# | 📅 2025-01-16. Unity library for building illustrated interactive-fiction and visual-novel games.
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) ⭐ 1,685 | 🐛 5 | 🌐 C# | 📅 2020-10-08. Collection of effects for Unity 5.
 * [Google Mobile Ads Unity Plugin](https://github.com/googleads/googleads-mobile-unity) ⭐ 1,544 | 🐛 168 | 🌐 C# | 📅 2026-08-24. Official Unity plugin for the Google Mobile Ads SDK.
@@ -1968,7 +1968,7 @@ Unity community add-ons, tools, and learning resources.
 * [GameFramework (FlipWebApps)](https://github.com/FlipWebApps/GameFramework) ⭐ 260 | 🐛 3 | 🌐 C# | 📅 2020-03-19. Free Unity framework adding common game systems and features.
 * [Unity Procedural Flower](https://github.com/mattatz/unity-procedural-flower) ⭐ 260 | 🐛 0 | 🌐 C# | 📅 2017-01-30. Procedural flower generator for Unity.
 * [WaveformProvider](https://github.com/EsProgram/WaveformProvider) ⭐ 250 | 🐛 2 | 🌐 C# | 📅 2018-05-12. Generates a texture that simulates waves in Unity.
-* [Texture3DPreview for Unity](https://github.com/raphael-ernaelsten/Texture3DPreview-for-Unity) ⭐ 244 | 🐛 0 | 🌐 C# | 📅 2017-10-30. Interactive previews of Texture3D assets in the Unity inspector.
+* [Texture3DPreview for Unity](https://github.com/raphael-ernaelsten/Texture3DPreview-for-Unity) ⭐ 243 | 🐛 0 | 🌐 C# | 📅 2017-10-30. Interactive previews of Texture3D assets in the Unity inspector.
 * [DeadSimple Pixel-Perfect Camera](https://github.com/cmilr/DeadSimple-Pixel-Perfect-Camera) ⭐ 239 | 🐛 0 | 🌐 C# | 📅 2021-01-23. Pixel-perfect orthographic camera script for 2D Unity scenes.
 * [Autoya](https://github.com/sassembla/Autoya) ⭐ 230 | 🐛 11 | 🌐 C# | 📅 2024-08-29. Thin application framework for Unity.
 * [Dual Quaternion Skinning for Unity](https://github.com/ConstantineRudenko/DQ-skinning-for-Unity) ⭐ 230 | 🐛 13 | 🌐 C# | 📅 2023-12-18. Dual quaternion skinning implementation for Unity.
@@ -2322,8 +2322,8 @@ AR/VR/XR SDKs, frameworks, tools, and references across ARKit, ARCore, WebXR, an
 
 Unreal Engine resources and marketplace picks.
 
-* [UE5 Styleguide](https://github.com/Allar/ue5-style-guide) ⭐ 6,285 | 🐛 47 | 📅 2023-10-05. Guidelines for keeping Unreal Engine projects consistent.
-* [puerts](https://github.com/Tencent/puerts) ⭐ 6,190 | 🐛 313 | 🌐 C++ | 📅 2026-07-31. Write game logic in TypeScript for Unreal Engine 4 or Unity.
+* [UE5 Styleguide](https://github.com/Allar/ue5-style-guide) ⭐ 6,284 | 🐛 47 | 📅 2023-10-05. Guidelines for keeping Unreal Engine projects consistent.
+* [puerts](https://github.com/Tencent/puerts) ⭐ 6,190 | 🐛 310 | 🌐 C++ | 📅 2026-08-25. Write game logic in TypeScript for Unreal Engine 4 or Unity.
 * [Unreal.js](https://github.com/ncsoft/Unreal.js) ⭐ 3,751 | 🐛 159 | 📅 2023-07-20. JavaScript runtime built for Unreal Engine.
 * [UnrealCLR](https://github.com/nxrighthere/UnrealCLR) ⭐ 3,309 | 🐛 5 | 🌐 C# | 📅 2023-06-07. Unreal Engine integration for .NET 6 (C#).
 * [KawaiiPhysics](https://github.com/pafuhana1213/KawaiiPhysics) ⭐ 3,247 | 🐛 6 | 🌐 C++ | 📅 2026-08-25. Simple fake secondary-motion physics for Unreal Engine 4.
@@ -2363,7 +2363,7 @@ Unreal Engine resources and marketplace picks.
 * [Unreal Library](https://github.com/EliotVU/Unreal-Library) ⭐ 476 | 🐛 4 | 🌐 C# | 📅 2026-08-15. UE Explorer's library for parsing data from Unreal Engine games.
 * [Unreal.hx](https://github.com/proletariatgames/unreal.hx) ⭐ 429 | 🐛 46 | 🌐 Haxe | 📅 2023-01-10. Haxe integration for Unreal Engine.
 * [USharp](https://github.com/pixeltris/USharp) ⚠️ Archived. C# scripting plugin for Unreal Engine 4.
-* [UE4 Node Graph Assistant](https://github.com/pdlogingithub/UE4-Node-Graph-Assistant) ⭐ 416 | 🐛 11 | 📅 2022-06-12. Speeds up node graph editing in Unreal Engine 4.
+* [UE4 Node Graph Assistant](https://github.com/pdlogingithub/UE4-Node-Graph-Assistant) ⭐ 417 | 🐛 11 | 📅 2022-06-12. Speeds up node graph editing in Unreal Engine 4.
 * [Runtime Audio Importer](https://github.com/gtreshchev/RuntimeAudioImporter) ⚠️ Archived. Import audio of various formats at runtime in Unreal Engine.
 * [UE4 Env. project](https://github.com/UE4-OceanProject/Environment-Project) ⭐ 402 | 🐛 12 | 🌐 Java | 📅 2024-12-16. Open environment simulation project (day/night, weather) for Unreal Engine 4.
 * [Unreal Sandbox Terrain](https://github.com/bw2012/UnrealSandboxTerrain) ⭐ 388 | 🐛 6 | 🌐 C++ | 📅 2026-02-17. Smooth voxel terrain plugin for Unreal Engine.
@@ -2406,8 +2406,8 @@ Unreal Engine resources and marketplace picks.
 * [Ps Real Vehicle](https://github.com/PushkinStudio/PsRealVehicle) ⭐ 161 | 🐛 13 | 🌐 C++ | 📅 2024-02-26. Simple force-driven vehicle simulation plugin for Unreal Engine 4.
 * [UnrealLive2D](https://github.com/Arisego/UnrealLive2D) ⚠️ Archived. Render Live2D models in Unreal Engine 4.
 * [DungeonGenerator](https://github.com/orfeasel/DungeonGenerator) ⭐ 142 | 🐛 3 | 🌐 C++ | 📅 2025-07-02. Procedural dungeon generator for Unreal Engine 4.
+* [mod.io](https://github.com/modio/modio-ue) ⭐ 139 | 🐛 0 | 🌐 C++ | 📅 2026-08-18. Integrate mod.io user-generated-content management into your Unreal game.
 * [Runtime Mesh Loader](https://github.com/Chrizey91/RuntimeMeshLoader) ⭐ 139 | 🐛 4 | 🌐 C++ | 📅 2023-08-31. Import meshes at runtime in Unreal Engine 4.
-* [mod.io](https://github.com/modio/modio-ue) ⭐ 138 | 🐛 0 | 🌐 C++ | 📅 2026-08-18. Integrate mod.io user-generated-content management into your Unreal game.
 * [Va Tex Atlas](https://github.com/ufna/VaTexAtlas) ⚠️ Archived. Texture atlas support for Unreal Engine 4 UMG.
 * [UE4GamepadUMG](https://github.com/EverNewJoy/UE4GamepadUMG) ⭐ 132 | 🐛 3 | 🌐 C++ | 📅 2021-09-30. Use a gamepad like a mouse in UMG menus in Unreal Engine 4.
 * [Unreal Fetch](https://github.com/GDi4K/unreal-fetch) ⭐ 126 | 🐛 14 | 🌐 C++ | 📅 2024-06-12. Fetch API-inspired HTTP client for Unreal Engine.
@@ -2643,14 +2643,14 @@ WFC, noise, procedural pipelines, economy design.
 * [Wave Function Collapse](https://github.com/mxgmn/WaveFunctionCollapse) ⭐ 25,289 | 🐛 9 | 🌐 C# | 📅 2026-03-22. Procedural generation from example patterns.
 * [Fast Noise Lite](https://github.com/Auburn/FastNoiseLite) ⭐ 3,487 | 🐛 29 | 🌐 Rust | 📅 2026-06-21. Fast noise generation (Perlin, Simplex, Cellular).
 * [Procedural GL JS](https://github.com/felixpalmer/procedural-gl-js) ⭐ 1,342 | 🐛 22 | 🌐 JavaScript | 📅 2021-05-11. Based on Three.js, this framework is dedicated to generating a 3D Map experience on a web service.
-* [DotRecast](https://github.com/ikpil/DotRecast) ⭐ 934 | 🐛 18 | 🌐 C# | 📅 2026-08-23. A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#.
+* [DotRecast](https://github.com/ikpil/DotRecast) ⭐ 935 | 🐛 18 | 🌐 C# | 📅 2026-08-23. A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#.
 * [Machinations](https://machinations.io/) <span class="lic-pill lic-paid">Paid</span>. Visual tool for designing and simulating game economies.
 
 ### Game Dev Tools: Physics Engines
 
 Open-source physics engines.
 
-* [Jolt Physics](https://github.com/jrouwe/JoltPhysics) ⭐ 11,424 | 🐛 12 | 🌐 C++ | 📅 2026-08-24. Open-source 3D physics (used in Horizon Forbidden West).
+* [Jolt Physics](https://github.com/jrouwe/JoltPhysics) ⭐ 11,427 | 🐛 12 | 🌐 C++ | 📅 2026-08-24. Open-source 3D physics (used in Horizon Forbidden West).
 * [Lockstep Framework](https://github.com/SnpM/LockstepFramework) ⭐ 1,531 | 🐛 3 | 🌐 C# | 📅 2026-05-23. A framework designed for games that need lockstep simulations. It includes a deterministic 2D physics engine, pathfinding, behavior system. LSF is integrated with Unity.
 * [Box2D.NET](https://github.com/ikpil/Box2D.NET) ⭐ 204 | 🐛 7 | 🌐 C# | 📅 2026-08-22. A port of Box2D, is a 2D physics engine for games,.NET C#, Unity3D, servers.
 * [UnrealJolt](https://github.com/Yadhu-S/UnrealJolt) ⭐ 161 | 🐛 0 | 🌐 C++ | 📅 2026-08-24. Jolt physics integration (Plugin) for Unreal Engine 5 (UE5)
@@ -2683,12 +2683,12 @@ Design fundamentals, patterns, and references.
 
 | Software                                                                                             | Description                                                                                            | License     | Tags | Best For |
 | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------- | ---- | -------- |
-| [Open 3D Engine (O3ED)](https://github.com/o3de/o3de) ⭐ 9,627 \| 🐛 3,492 \| 🌐 C++ \| 📅 2026-08-24 | Successor to Amazon Lumberyard, an open-source, real-time, multi-platform 3D engine to build AAA games | Open Source |      |          |
+| [Open 3D Engine (O3ED)](https://github.com/o3de/o3de) ⭐ 9,626 \| 🐛 3,491 \| 🌐 C++ \| 📅 2026-08-25 | Successor to Amazon Lumberyard, an open-source, real-time, multi-platform 3D engine to build AAA games | Open Source |      |          |
 
 **Related:**
 
 * [Pixel Composer (GitHub)](https://github.com/Ttanasart-pt/Pixel-Composer) ⭐ 1,349 | 🐛 67 | 🌐 Game Maker Language | 📅 2026-08-15. Node-based VFX editor for pixel art.
-* [friflo ECS](https://github.com/friflo/Friflo.Engine.ECS) ⭐ 758 | 🐛 40 | 🌐 C# | 📅 2026-07-03. High-performance C# ECS with simple API. Supports.NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame,..
+* [friflo ECS](https://github.com/friflo/Friflo.Engine.ECS) ⭐ 757 | 🐛 40 | 🌐 C# | 📅 2026-07-03. High-performance C# ECS with simple API. Supports.NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame,..
 * [Unity Audio Manager](https://github.com/MathewHDYT/Unity-Audio-Manager) ⭐ 88 | 🐛 0 | 🌐 C# | 📅 2024-09-05. Plugin to play, change, stop, and mute 2D/3D sounds in Unity.
 * [Unity Game Programming Patterns](https://github.com/TarasOsiris/unity-game-programming-patterns) ⭐ 33 | 🐛 0 | 🌐 C# | 📅 2015-05-07. Game Programming Pattern Examples in Unity3D.
 * [Deconstructor of Fun](https://www.deconstructoroffun.com/). F2P game design and business.
@@ -3202,7 +3202,7 @@ text-to-image models and platforms.
 | [FLUX.2 (Black Forest Labs)](https://blackforestlabs.ai/)                                                                                        | Open-weight photorealism with Kontext editing.<br><small class="see-also">See also: <a href="#ai-image--texture-generation-software">Software Reference → AI Image & Texture Generation Software</a></small>                                                                                 | Freemium    | Open Weight · Photoreal     | Open-weight photorealism          |
 | [GPT Image (OpenAI)](https://openai.com/)                                                                                                        | Instruction-following image model with strong text rendering. GPT Image 1.5.<br><small class="see-also">See also: <a href="#ai-image--texture-generation-software">Software Reference → AI Image & Texture Generation Software</a></small>                                                   | Paid        | OpenAI · Text Rendering     | Instruction following             |
 | [Grok Aurora (xAI)](https://x.ai/)                                                                                                               | Photorealistic image gen integrated into Grok.<br><small class="see-also">See also: <a href="#ai-image--texture-generation-software">Software Reference → AI Image & Texture Generation Software</a></small>                                                                                 | Paid        | xAI · Photoreal             | Photorealism in Grok              |
-| [HunyuanDiT (Tencent)](https://github.com/Tencent/HunyuanDiT) ⭐ 4,294 \| 🐛 124 \| 🌐 Jupyter Notebook \| 📅 2025-11-27                          | Open-source DiT-based, strong Chinese text.<br><small class="see-also">See also: <a href="#ai-image--texture-generation-software">Software Reference → AI Image & Texture Generation Software</a></small>                                                                                    | Open Source | Tencent · DiT               | Chinese text rendering            |
+| [HunyuanDiT (Tencent)](https://github.com/Tencent/HunyuanDiT) ⭐ 4,293 \| 🐛 124 \| 🌐 Jupyter Notebook \| 📅 2025-11-27                          | Open-source DiT-based, strong Chinese text.<br><small class="see-also">See also: <a href="#ai-image--texture-generation-software">Software Reference → AI Image & Texture Generation Software</a></small>                                                                                    | Open Source | Tencent · DiT               | Chinese text rendering            |
 | [Ideogram 2.0](https://ideogram.ai/)                                                                                                             | Best-in-class typography and text rendering, canvas mode.<br><small class="see-also">See also: <a href="#ai-image--texture-generation-software">Software Reference → AI Image & Texture Generation Software</a></small>                                                                      | Freemium    | Typography · Text Rendering | Typography in images              |
 | [Imagen](https://deepmind.google/models/imagen/)                                                                                                 | Google photoreal image model via Gemini and Vertex.<br><small class="see-also">See also: <a href="#ai-image--texture-generation-software">Software Reference → AI Image & Texture Generation Software</a></small>                                                                            | Paid        | Photoreal · Google          | Photoreal image gen               |
 | [Jimeng / Dreamina (ByteDance)](https://jimeng.jianying.com/)                                                                                    | High quality, integrated with video pipeline.<br><small class="see-also">See also: <a href="#ai-image--texture-generation-software">Software Reference → AI Image & Texture Generation Software</a></small>                                                                                  | Freemium    | ByteDance · Video Pipeline  | Integrated image + video pipeline |
@@ -3239,11 +3239,11 @@ AI video generation platforms and models.
 | [Hailuo AI / MiniMax](https://hailuoai.video/)                                                                       | "Director" model. Strong motion and character consistency.<br><small class="see-also">See also: <a href="#ai-video-generation-software">Software Reference → AI Video Generation Software</a></small>                              | Freemium    | Director Model · Character Consist | Directed motion                 |
 | [Haiper](https://haiper.ai/)                                                                                         | Ex-DeepMind team, animation and video-to-video modes.<br><small class="see-also">See also: <a href="#ai-video-generation-software">Software Reference → AI Video Generation Software</a></small>                                   | Freemium    | Ex-DeepMind · V2V                  | Video-to-video                  |
 | [HeyGen](https://www.heygen.com/)                                                                                    | AI avatar marketing videos with a talking-head focus.<br><small class="see-also">See also: <a href="#ai-video-generation-software">Software Reference → AI Video Generation Software</a></small>                                   | Freemium    | Avatars                            | Avatar videos                   |
-| [HunyuanVideo 1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo) ⭐ 12,464 \| 🐛 182 \| 🌐 Python \| 📅 2026-06-29 | Open-source 8.3B params, runs on 14GB VRAM.<br><small class="see-also">See also: <a href="#ai-video-generation-software">Software Reference → AI Video Generation Software</a></small>                                             | Open Source | Open Source · 14GB VRAM            | Self-hosted video gen           |
+| [HunyuanVideo 1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo) ⭐ 12,465 \| 🐛 182 \| 🌐 Python \| 📅 2026-06-29 | Open-source 8.3B params, runs on 14GB VRAM.<br><small class="see-also">See also: <a href="#ai-video-generation-software">Software Reference → AI Video Generation Software</a></small>                                             | Open Source | Open Source · 14GB VRAM            | Self-hosted video gen           |
 | [InVideo AI](https://invideo.io/)                                                                                    | Prompt to video for marketing and social content.<br><small class="see-also">See also: <a href="#ai-video-generation-software">Software Reference → AI Video Generation Software</a></small>                                       | Freemium    | Marketing                          | Marketing and social video      |
 | [Kling 3.0](https://klingai.com/)                                                                                    | Up to 5min clips, strong human motion. Motion Brush control.<br><small class="see-also">See also: <a href="#ai-video-generation-software">Software Reference → AI Video Generation Software</a></small>                            | Freemium    | 5min Clips · Motion Brush          | Long clips, human motion        |
 | [LTX Studio](https://ltx.studio/)                                                                                    | Pre-production to video pipeline with storyboards, character consistency, and timeline.<br><small class="see-also">See also: <a href="#ai-video-generation-software">Software Reference → AI Video Generation Software</a></small> | Freemium    | Pre-production · Storyboards       | Script to video pipeline        |
-| [LTX-2 (Lightricks)](https://github.com/Lightricks/LTX-Video) ⭐ 10,898 \| 🐛 99 \| 🌐 Python \| 📅 2026-01-05        | Fast open video model. LTX-2 Fast ranks top-3 in the arena.<br><small class="see-also">See also: <a href="#ai-video-generation-software">Software Reference → AI Video Generation Software</a></small>                             | Open Source | Open Source · Fast                 | Fast open-source video gen      |
+| [LTX-2 (Lightricks)](https://github.com/Lightricks/LTX-Video) ⭐ 10,899 \| 🐛 99 \| 🌐 Python \| 📅 2026-01-05        | Fast open video model. LTX-2 Fast ranks top-3 in the arena.<br><small class="see-also">See also: <a href="#ai-video-generation-software">Software Reference → AI Video Generation Software</a></small>                             | Open Source | Open Source · Fast                 | Fast open-source video gen      |
 | [Luma Dream Machine](https://lumalabs.ai/dream-machine)                                                              | Atmospheric image-to-video. Ray3 is the first native 16-bit HDR video model.<br><small class="see-also">See also: <a href="#ai-video-generation-software">Software Reference → AI Video Generation Software</a></small>            | Freemium    | HDR · Atmospheric                  | Atmospheric video gen           |
 | [Mootion](https://www.mootion.com/)                                                                                  | Idea to a 2-minute cinematic video in one tool.<br><small class="see-also">See also: <a href="#ai-video-generation-software">Software Reference → AI Video Generation Software</a></small>                                         | Freemium    | All-in-one                         | Fast all-in-one film            |
 | [Morphic](https://morphic.com/)                                                                                      | AI film studio for story-driven video.<br><small class="see-also">See also: <a href="#ai-video-generation-software">Software Reference → AI Video Generation Software</a></small>                                                  | Paid        | Film Studio                        | Story-driven film               |
@@ -3289,9 +3289,9 @@ AI tools for generating 3D models from text or images.
 
 **Related:**
 
-* [Threestudio](https://github.com/threestudio-project/threestudio) ⭐ 7,046 | 🐛 193 | 🌐 Jupyter Notebook | 📅 2024-12-16. A unified framework for 3D content generation.
+* [Threestudio](https://github.com/threestudio-project/threestudio) ⭐ 7,050 | 🐛 193 | 🌐 Jupyter Notebook | 📅 2024-12-16. A unified framework for 3D content generation.
 * [Point-E (OpenAI)](https://github.com/openai/point-e) ⭐ 6,893 | 🐛 80 | 🌐 Python | 📅 2024-07-04. OpenAI point-cloud diffusion for text and image to 3D synthesis.
-* [Pixal3D](https://github.com/TencentARC/Pixal3D) ⭐ 2,154 | 🐛 26 | 🌐 Python | 📅 2026-06-23. Single-image to 3D asset generation via pixel-feature back-projection. Outputs geometry and PBR textures.
+* [Pixal3D](https://github.com/TencentARC/Pixal3D) ⭐ 2,155 | 🐛 26 | 🌐 Python | 📅 2026-06-23. Single-image to 3D asset generation via pixel-feature back-projection. Outputs geometry and PBR textures.
 * [NativeBlend CLI](https://github.com/addy999/nativeblend-cli) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-05-06. AI CLI to generate and edit low-poly 3D game assets in Blender from text prompts.
 * [Transforming 2D Images into 3D with AdaMPI](https://notes.aimodels.fyi/transforming-2d-images-into-3d-with-the-adampi-ai-model/). Guide to using the AdaMPI model to create 3D photos from 2D images.
 
@@ -3318,7 +3318,7 @@ Node-based AI generation. ComfyUI and its ecosystem.
 
 **Related:**
 
-* [Comfy UI Manager](https://github.com/Comfy-Org/ComfyUI-Manager) ⭐ 15,900 | 🐛 429 | 🌐 Python | 📅 2026-08-18. Install and manage custom nodes and dependencies.
+* [Comfy UI Manager](https://github.com/Comfy-Org/ComfyUI-Manager) ⭐ 15,904 | 🐛 429 | 🌐 Python | 📅 2026-08-18. Install and manage custom nodes and dependencies.
 * [Awesome ComfyUI](https://github.com/ComfyUI-Workflow/awesome-comfyui) ⭐ 734 | 🐛 2 | 🌐 Python | 📅 2025-07-24. Curated custom nodes collection.
 * [Comflowy](https://www.comflowy.com/). ComfyUI tutorials for ControlNet, SDXL, FLUX workflows.
 * [ComfyUI Registry](https://comfyui.org/). Community workflow and subgraph sharing.
@@ -3344,14 +3344,14 @@ AI tools that augment traditional CG workflows.
 **Related:**
 
 * [CorridorKey](https://github.com/nikopueringer/CorridorKey) ⭐ 14,583 | 🐛 88 | 🌐 Python | 📅 2026-05-28. Corridor Crew's open keying tool. AI-driven chroma key for VFX work.
-* [Robust Video Matting (RVM)](https://github.com/PeterL1n/RobustVideoMatting) ⭐ 9,494 | 🐛 123 | 🌐 Python | 📅 2024-04-02. Real-time human video matting. Strong alpha mattes with no greenscreen.
+* [Robust Video Matting (RVM)](https://github.com/PeterL1n/RobustVideoMatting) ⭐ 9,495 | 🐛 123 | 🌐 Python | 📅 2024-04-02. Real-time human video matting. Strong alpha mattes with no greenscreen.
 * [Dream Textures (Blender)](https://github.com/carson-katri/dream-textures) ⭐ 8,194 | 🐛 17 | 🌐 Python | 📅 2024-08-26. Generate textures in Blender via Stable Diffusion, locally.
-* [Track Anything](https://github.com/gaomingqi/Track-Anything) ⭐ 6,993 | 🐛 114 | 🌐 Python | 📅 2025-12-13. SAM plus XMem for interactive video object tracking and segmentation. Useful for roto and matte propagation.
-* [AI Game Developer](https://github.com/IvanMurzak/Unity-MCP) ⭐ 3,977 | 🐛 51 | 🌐 C# | 📅 2026-08-24. `Unity Editor` and `Unity Runtime` AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay.
+* [Track Anything](https://github.com/gaomingqi/Track-Anything) ⭐ 6,994 | 🐛 114 | 🌐 Python | 📅 2025-12-13. SAM plus XMem for interactive video object tracking and segmentation. Useful for roto and matte propagation.
+* [AI Game Developer](https://github.com/IvanMurzak/Unity-MCP) ⭐ 3,978 | 🐛 52 | 🌐 C# | 📅 2026-08-24. `Unity Editor` and `Unity Runtime` AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay.
 * [Genetic Drawing](https://github.com/anopara/genetic-drawing) ⭐ 2,226 | 🐛 10 | 🌐 Python | 📅 2020-06-26. Python library that generates a stylized rendering from an image.
-* [Comfy UI Blender AI](https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node) ⭐ 1,528 | 🐛 24 | 🌐 Python | 📅 2025-11-28. Run ComfyUI workflows inside Blender.
+* [Comfy UI Blender AI](https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node) ⭐ 1,529 | 🐛 24 | 🌐 Python | 📅 2025-11-28. Run ComfyUI workflows inside Blender.
 * [DEVA (Tracking Anything)](https://github.com/hkchengrex/Tracking-Anything-with-DEVA) ⭐ 1,508 | 🐛 10 | 🌐 Python | 📅 2025-04-26. Decoupled video segmentation. Long-form, multi-object roto with text or click prompts.
-* [AI Render (Stable Diffusion in Blender)](https://github.com/benrugg/AI-Render) ⭐ 1,220 | 🐛 26 | 🌐 Python | 📅 2025-12-28. Blender addon that renders an AI image from a text prompt and your scene via Stable Diffusion.
+* [AI Render (Stable Diffusion in Blender)](https://github.com/benrugg/AI-Render) ⭐ 1,221 | 🐛 26 | 🌐 Python | 📅 2025-12-28. Blender addon that renders an AI image from a text prompt and your scene via Stable Diffusion.
 * [SolidUI](https://github.com/CloudOrc/SolidUI) ⭐ 677 | 🐛 30 | 🌐 TypeScript | 📅 2024-01-27. AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.
 * [Sammie Roto 2](https://github.com/Zarxrax/Sammie-Roto-2) ⭐ 340 | 🐛 4 | 🌐 Python | 📅 2026-08-22. SAM-based rotoscope app. Click-to-mask, propagates across frames.
 * [RIFE for Nuke](https://github.com/rafaelperez/RIFE-for-Nuke) ⭐ 103 | 🐛 3 | 🌐 Python | 📅 2024-03-17. Real-Time Intermediate Flow Estimation for video frame interpolation (ML framerate upscaling) for Nuke.
@@ -3409,7 +3409,7 @@ Research papers on ML for CG, generative 3D, neural rendering, and related topic
 * [NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction](https://arxiv.org/abs/2106.10689). Wang et al., NeurIPS 2021 | [github](https://github.com/Totoro97/NeuS) ⭐ 1,777 | 🐛 96 | 🌐 Python | 📅 2024-02-28
 * [pixelNeRF: Neural Radiance Fields from One or Few Images](https://arxiv.org/abs/2012.02190). Yu et al., CVPR 2021 | [github](https://github.com/sxyu/pixel-nerf) ⭐ 1,465 | 🐛 55 | 🌐 Python | 📅 2024-06-30
 * [BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects](https://bundlesdf.github.io/). Wen et al., CVPR 2023 | [github](https://github.com/NVlabs/BundleSDF) ⭐ 1,410 | 🐛 29 | 🌐 Python | 📅 2026-05-01
-* [Street Gaussians: Modeling Dynamic Urban Scenes with Gaussian Splatting](https://arxiv.org/abs/2401.01339). [<span aria-hidden="true">🌐</span> Project Page](https://zju3dv.github.io/street_gaussians/) | [<span aria-hidden="true">💻</span> Code](https://github.com/zju3dv/street_gaussians) ⭐ 1,387 | 🐛 61 | 🌐 Python | 📅 2025-07-04
+* [Street Gaussians: Modeling Dynamic Urban Scenes with Gaussian Splatting](https://arxiv.org/abs/2401.01339). [<span aria-hidden="true">🌐</span> Project Page](https://zju3dv.github.io/street_gaussians/) | [<span aria-hidden="true">💻</span> Code](https://github.com/zju3dv/street_gaussians) ⭐ 1,388 | 🐛 61 | 🌐 Python | 📅 2025-07-04
 * [Deep Generative Models on 3D Representations: A Survey](https://arxiv.org/pdf/2210.15663.pdf). [<span aria-hidden="true">🌐</span> Project Page](https://github.com/justimyhxu/awesome-3D-generation/) ⭐ 1,198 | 🐛 2 | 📅 2023-03-09
 * [GaussianObject: High-Quality 3D Object Reconstruction from Four Views with Gaussian Splatting](https://arxiv.org/abs/2402.10259). [<span aria-hidden="true">🌐</span> Project Page](https://gaussianobject.github.io) | [<span aria-hidden="true">💻</span> Code](https://github.com/GaussianObject/GaussianObject) ⭐ 1,183 | 🐛 54 | 🌐 Jupyter Notebook | 📅 2024-09-29
 * [Point-NeRF: Point-based Neural Radiance Fields](https://xharlie.github.io/projects/project_sites/pointnerf/index.html). Xu et al., CVPR 2022 | [github](https://github.com/Xharlie/pointnerf) ⭐ 1,154 | 🐛 72 | 🌐 Python | 📅 2024-03-08
@@ -3577,7 +3577,7 @@ Research papers on ML for CG, generative 3D, neural rendering, and related topic
 | [FLUX.2 (Black Forest Labs)](https://blackforestlabs.ai/)                                                                                        | Open-weight photorealism with Kontext editing.                                                                                 | Freemium    | Open Weight · Photoreal      | Open-weight photorealism          |
 | [GPT Image (OpenAI)](https://openai.com/)                                                                                                        | Instruction-following image model with strong text rendering. GPT Image 1.5.                                                   | Paid        | OpenAI · Text Rendering      | Instruction following             |
 | [Grok Aurora (xAI)](https://x.ai/)                                                                                                               | Photorealistic image gen integrated into Grok.                                                                                 | Paid        | xAI · Photoreal              | Photorealism in Grok              |
-| [HunyuanDiT (Tencent)](https://github.com/Tencent/HunyuanDiT) ⭐ 4,294 \| 🐛 124 \| 🌐 Jupyter Notebook \| 📅 2025-11-27                          | Open-source DiT-based, strong Chinese text.                                                                                    | Open Source | Tencent · DiT                | Chinese text rendering            |
+| [HunyuanDiT (Tencent)](https://github.com/Tencent/HunyuanDiT) ⭐ 4,293 \| 🐛 124 \| 🌐 Jupyter Notebook \| 📅 2025-11-27                          | Open-source DiT-based, strong Chinese text.                                                                                    | Open Source | Tencent · DiT                | Chinese text rendering            |
 | [Ideogram 2.0](https://ideogram.ai/)                                                                                                             | Best-in-class typography and text rendering, canvas mode.                                                                      | Freemium    | Typography · Text Rendering  | Typography in images              |
 | [Imagen](https://deepmind.google/models/imagen/)                                                                                                 | Google photoreal image model via Gemini and Vertex.                                                                            | Paid        | Photoreal · Google           | Photoreal image gen               |
 | [InstaMAT](https://instamaterial.com/)                                                                                                           | Material authoring with AI workflows (Substance alternative).                                                                  | Paid        | Substance-alt · AI Workflows | AI-assisted material authoring    |
@@ -3610,11 +3610,11 @@ Research papers on ML for CG, generative 3D, neural rendering, and related topic
 | [Hailuo AI / MiniMax](https://hailuoai.video/)                                                                       | "Director" model. Strong motion and character consistency.                              | Freemium    | Director Model · Character Consist | Directed motion                 |
 | [Haiper](https://haiper.ai/)                                                                                         | Ex-DeepMind team, animation and video-to-video modes.                                   | Freemium    | Ex-DeepMind · V2V                  | Video-to-video                  |
 | [HeyGen](https://www.heygen.com/)                                                                                    | AI avatar marketing videos with a talking-head focus.                                   | Freemium    | Avatars                            | Avatar videos                   |
-| [HunyuanVideo 1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo) ⭐ 12,464 \| 🐛 182 \| 🌐 Python \| 📅 2026-06-29 | Open-source 8.3B params, runs on 14GB VRAM.                                             | Open Source | Open Source · 14GB VRAM            | Self-hosted video gen           |
+| [HunyuanVideo 1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo) ⭐ 12,465 \| 🐛 182 \| 🌐 Python \| 📅 2026-06-29 | Open-source 8.3B params, runs on 14GB VRAM.                                             | Open Source | Open Source · 14GB VRAM            | Self-hosted video gen           |
 | [InVideo AI](https://invideo.io/)                                                                                    | Prompt to video for marketing and social content.                                       | Freemium    | Marketing                          | Marketing and social video      |
 | [Kling 3.0](https://klingai.com/)                                                                                    | Up to 5min clips, strong human motion. Motion Brush control.                            | Freemium    | 5min Clips · Motion Brush          | Long clips, human motion        |
 | [LTX Studio](https://ltx.studio/)                                                                                    | Pre-production to video pipeline with storyboards, character consistency, and timeline. | Freemium    | Pre-production · Storyboards       | Script to video pipeline        |
-| [LTX-2 (Lightricks)](https://github.com/Lightricks/LTX-Video) ⭐ 10,898 \| 🐛 99 \| 🌐 Python \| 📅 2026-01-05        | Fast open video model. LTX-2 Fast ranks top-3 in the arena.                             | Open Source | Open Source · Fast                 | Fast open-source video gen      |
+| [LTX-2 (Lightricks)](https://github.com/Lightricks/LTX-Video) ⭐ 10,899 \| 🐛 99 \| 🌐 Python \| 📅 2026-01-05        | Fast open video model. LTX-2 Fast ranks top-3 in the arena.                             | Open Source | Open Source · Fast                 | Fast open-source video gen      |
 | [Luma Dream Machine](https://lumalabs.ai/dream-machine)                                                              | Atmospheric image-to-video. Ray3 is the first native 16-bit HDR video model.            | Freemium    | HDR · Atmospheric                  | Atmospheric video gen           |
 | [Mootion](https://www.mootion.com/)                                                                                  | Idea to a 2-minute cinematic video in one tool.                                         | Freemium    | All-in-one                         | Fast all-in-one film            |
 | [Morphic](https://morphic.com/)                                                                                      | AI film studio for story-driven video.                                                  | Paid        | Film Studio                        | Story-driven film               |
@@ -3755,7 +3755,7 @@ Production pipelines, render management, look dev.
 | [Flamenco (Blender render farm)](https://flamenco.blender.org/)                                                     | Blender Foundation's free render-farm manager.<br><small class="see-also">See also: <a href="#pipeline--production-management-software">Software Reference → Pipeline & Production Management Software</a></small>                                                                                                                | Open Source | Render Farm · Blender            | Blender render farm                       |
 | [Flamenco (flamenco.io)](https://www.flamenco.io/)                                                                  | From the Blender Foundation<br><small class="see-also">See also: <a href="#pipeline--production-management-software">Software Reference → Pipeline & Production Management Software</a></small>                                                                                                                                   | Open Source | Render Farm · Blender            | Blender render farm                       |
 | [ftrack](https://www.ftrack.com/en/)                                                                                | Production tracking.<br><small class="see-also">See also: <a href="#pipeline--production-management-software">Software Reference → Pipeline & Production Management Software</a></small>                                                                                                                                          | Paid        | Production Tracking · Pro        | Production tracking                       |
-| [Gaffer (GafferHQ compositing)](https://github.com/GafferHQ/gaffer) ⭐ 1,088 \| 🐛 368 \| 🌐 Python \| 📅 2026-08-25 | Gaffer is a great toolbox, it's a VFX application that enables look developers, lighters, and compositors to easily build, tweak, iterate, and render scenes.<br><small class="see-also">See also: <a href="#pipeline--production-management-software">Software Reference → Pipeline & Production Management Software</a></small> | Open Source | Look Dev · Open Source           | Look dev / lighting / compositing         |
+| [Gaffer (GafferHQ compositing)](https://github.com/GafferHQ/gaffer) ⭐ 1,088 \| 🐛 369 \| 🌐 Python \| 📅 2026-08-25 | Gaffer is a great toolbox, it's a VFX application that enables look developers, lighters, and compositors to easily build, tweak, iterate, and render scenes.<br><small class="see-also">See also: <a href="#pipeline--production-management-software">Software Reference → Pipeline & Production Management Software</a></small> | Open Source | Look Dev · Open Source           | Look dev / lighting / compositing         |
 | [Godot Game Tools](https://viniguerrero.itch.io/godot-game-tools)                                                   | Blender addon that eases Mixamo animation import into Godot.<br><small class="see-also">See also: <a href="#pipeline--production-management-software">Software Reference → Pipeline & Production Management Software</a></small>                                                                                                  | Free        |                                  | Mixamo-to-Godot animation import          |
 | [Kitsu (CGWire)](https://www.cg-wire.com/kitsu)                                                                     | Production tracker.<br><small class="see-also">See also: <a href="#pipeline--production-management-software">Software Reference → Pipeline & Production Management Software</a></small>                                                                                                                                           | Open Source | Open Source · Tracking           | Open-source production tracking           |
 | [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator)                          | Browser tool that generates random medieval city map layouts.<br><small class="see-also">See also: <a href="#pipeline--production-management-software">Software Reference → Pipeline & Production Management Software</a></small>                                                                                                 | Free        |                                  | Procedural city map reference             |
@@ -3770,7 +3770,7 @@ Production pipelines, render management, look dev.
 
 **Related:**
 
-* [BlenderProc](https://github.com/DLR-RM/BlenderProc) ⭐ 3,682 | 🐛 117 | 🌐 Python | 📅 2026-01-20. A procedural Blender pipeline for photorealistic training image generation.
+* [BlenderProc](https://github.com/DLR-RM/BlenderProc) ⭐ 3,683 | 🐛 117 | 🌐 Python | 📅 2026-01-20. A procedural Blender pipeline for photorealistic training image generation.
 * [Easy3D](https://github.com/LiangliangNan/Easy3D) ⭐ 1,649 | 🐛 6 | 🌐 C++ | 📅 2026-03-30. A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data.
 * [Cortex](https://github.com/ImageEngine/cortex) ⭐ 563 | 🐛 55 | 🌐 C++ | 📅 2026-08-18. Libraries for VFX software development.
 * [PyMEL](https://github.com/LumaPictures/pymel) ⭐ 529 | 🐛 152 | 🌐 Python | 📅 2024-10-28. Python in Maya Done Right.
@@ -3796,10 +3796,10 @@ Production pipelines, render management, look dev.
 
 Neural and splatting reconstruction.
 
-* [3D Gaussian Splatting (INRIA reference impl)](https://github.com/graphdeco-inria/gaussian-splatting) ⭐ 23,011 | 🐛 713 | 🌐 Python | 📅 2025-10-17. Original implementation.
-* [Brush](https://github.com/ArthurBrussee/brush) ⭐ 4,970 | 🐛 45 | 🌐 Rust | 📅 2026-08-17. Cross-platform Gaussian Splatting reconstruction and viewer (Rust/wgpu), runs in browser.
+* [3D Gaussian Splatting (INRIA reference impl)](https://github.com/graphdeco-inria/gaussian-splatting) ⭐ 23,012 | 🐛 713 | 🌐 Python | 📅 2025-10-17. Original implementation.
+* [Brush](https://github.com/ArthurBrussee/brush) ⭐ 4,972 | 🐛 45 | 🌐 Rust | 📅 2026-08-17. Cross-platform Gaussian Splatting reconstruction and viewer (Rust/wgpu), runs in browser.
 * [4D Gaussian Splatting](https://github.com/hustvl/4DGaussians) ⭐ 3,894 | 🐛 135 | 🌐 Jupyter Notebook | 📅 2024-10-27. Dynamic scenes (CVPR 2024).
-* [LichtFeld Studio](https://github.com/MrNeRF/LichtFeld-Studio) ⭐ 3,575 | 🐛 205 | 🌐 C++ | 📅 2026-08-25. Native desktop app for training, inspecting, editing, and exporting 3D Gaussian Splatting scenes. Plugin extensible.
+* [LichtFeld Studio](https://github.com/MrNeRF/LichtFeld-Studio) ⭐ 3,575 | 🐛 204 | 🌐 C++ | 📅 2026-08-25. Native desktop app for training, inspecting, editing, and exporting 3D Gaussian Splatting scenes. Plugin extensible.
 * [splatviz](https://github.com/Florian-Barthel/splatviz) ⭐ 1,546 | 🐛 12 | 🌐 Python | 📅 2026-05-20. Viewer that allows you to edit the rendering code during runtime or to display multiple scenes at once.
 * [MegaSaM](https://github.com/mega-sam/mega-sam) ⭐ 1,355 | 🐛 24 | 🌐 Python | 📅 2026-01-05. Structure and motion recovery from casual handheld video.
 * [3DGS.cpp](https://github.com/shg8/3DGS.cpp) ⭐ 781 | 🐛 16 | 🌐 C++ | 📅 2025-05-19. Cross-platform, high performance 3DGS renderer in C++ and Vulkan Compute, supporting Windows, macOS, Linux, iOS, and visionOS.
@@ -3851,19 +3851,19 @@ Photogrammetry, LiDAR, and Gaussian splat capture.
 
 **Related:**
 
-* [JaxNeRF](https://github.com/google-research/google-research/tree/master/jaxnerf) ⭐ 38,614 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-21. Deng et al., 2020. JAX NeRF with multi-device training.
-* [Meshroom](https://github.com/alicevision/meshroom) ⭐ 12,918 | 🐛 516 | 🌐 Python | 📅 2026-08-20. AliceVision photogrammetry pipeline. Reconstructs 3D meshes from photos.
+* [JaxNeRF](https://github.com/google-research/google-research/tree/master/jaxnerf) ⭐ 38,615 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-21. Deng et al., 2020. JAX NeRF with multi-device training.
+* [Meshroom](https://github.com/alicevision/meshroom) ⭐ 12,919 | 🐛 516 | 🌐 Python | 📅 2026-08-20. AliceVision photogrammetry pipeline. Reconstructs 3D meshes from photos.
 * [NeRF](https://github.com/bmild/nerf) ⭐ 10,927 | 🐛 121 | 🌐 Jupyter Notebook | 📅 2025-04-12. Mildenhall et al., 2020. Original NeRF reference implementation.
 * [NeRF (PyTorch3D)](https://github.com/facebookresearch/pytorch3d/tree/master/projects/nerf) ⭐ 9,953 | 🐛 314 | 🌐 Python | 📅 2026-08-19. facebookresearch, 2020. NeRF project inside PyTorch3D.
-* [SuperSplat](https://github.com/playcanvas/supersplat) ⭐ 9,893 | 🐛 110 | 🌐 TypeScript | 📅 2026-08-13. A browser-based tool for inspecting, editing, optimizing and publishing 3D Gaussian Splats.
+* [SuperSplat](https://github.com/playcanvas/supersplat) ⭐ 9,896 | 🐛 110 | 🌐 TypeScript | 📅 2026-08-25. A browser-based tool for inspecting, editing, optimizing and publishing 3D Gaussian Splats.
 * [MrNeRF (awesome-3D-gaussian-splatting)](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) ⭐ 8,831 | 🐛 4 | 🌐 Python | 📅 2026-08-18. Curated awesome-list of 3D Gaussian Splatting papers, tools, and viewers.
 * [NeRF-PyTorch (yenchenlin)](https://github.com/yenchenlin/nerf-pytorch) ⭐ 6,044 | 🐛 86 | 🌐 Python | 📅 2024-07-25. Yen-Chen Lin, 2020. Faithful PyTorch reimplementation of NeRF.
-* [Nerfstudio gsplat](https://github.com/nerfstudio-project/gsplat) ⭐ 5,577 | 🐛 360 | 🌐 Python | 📅 2026-08-20. CUDA-accelerated Gaussian Splatting library integrated with Nerfstudio (Apache-2.0).
+* [Nerfstudio gsplat](https://github.com/nerfstudio-project/gsplat) ⭐ 5,579 | 🐛 360 | 🌐 Python | 📅 2026-08-20. CUDA-accelerated Gaussian Splatting library integrated with Nerfstudio (Apache-2.0).
 * [NeRF-PyTorch-Lightning (nerf\_pl)](https://github.com/kwea123/nerf_pl) ⭐ 2,805 | 🐛 81 | 🌐 Jupyter Notebook | 📅 2023-08-03. kwea123, 2020. NeRF in PyTorch-Lightning.
 * [NeRF-W (nerf\_pl)](https://github.com/kwea123/nerf_pl/tree/nerfw) ⭐ 2,805 | 🐛 81 | 🌐 Jupyter Notebook | 📅 2023-08-03. kwea123, 2021. NeRF in the Wild reimplementation.
 * [Polyscope](https://github.com/nmwsharp/polyscope) ⭐ 2,199 | 🐛 127 | 🌐 C++ | 📅 2026-05-20. A C++ & Python viewer for 3D data like meshes and point clouds.
 * [Photogrammetry Guide](https://github.com/mikeroyal/Photogrammetry-Guide) ⭐ 1,516 | 🐛 2 | 🌐 Python | 📅 2025-06-27. Guide to photogrammetry covering applications, libraries, and tools.
-* [Photogrammetry Importer](https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer) ⭐ 1,355 | 🐛 12 | 🌐 Python | 📅 2026-02-16. Addon to import different photogrammetry formats into Blender.
+* [Photogrammetry Importer](https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer) ⭐ 1,356 | 🐛 12 | 🌐 Python | 📅 2026-02-16. Addon to import different photogrammetry formats into Blender.
 * [Gaussian Splatting Lightning](https://github.com/yzslab/gaussian-splatting-lightning) ⭐ 1,100 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2026-05-25. A 3D Gaussian Splatting framework with various derived algorithms and an interactive web viewer
 * [Mip-NeRF](https://github.com/google/mipnerf) ⚠️ Archived. google, 2021. Anti-aliased NeRF reference implementation.
 * [3D Gaussian Splatting (WangFeng18 reimpl)](https://github.com/WangFeng18/3d-gaussian-splatting) ⭐ 370 | 🐛 6 | 🌐 Python | 📅 2024-10-25. Python/CUDA Gaussian Splatting reimplementation (MIT).
@@ -3904,7 +3904,7 @@ Retopology and mesh processing.
 | Software                                                                                               | Description                                                                                                                                                                                                                                                                                                                                        | Pricing                            | License     | Tags                        | Best For                                    |
 | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ----------- | --------------------------- | ------------------------------------------- |
 | [3D Coat](https://3dcoat.com/)                                                                         | Sculpt, retopo, UV, and PBR paint suite from Pilgway. Voxel and surface sculpt, AUTOPO auto-retopo, manual quad retopo, UV unwrap, bake.<br><small class="see-also">See also: <a href="#retopology--uv-software">Software Reference → Retopology & UV Software</a>, <a href="#3d-software-paid">Software Reference → 3D Software: Paid</a></small> | \~$379 perpetual (Educational $99) | Paid        | Sculpt + Retopo · PBR Paint | Sculpt + retopo + UV + PBR paint in one app |
-| [AutoRemesher](https://github.com/huxingyi/autoremesher) ⭐ 3,338 \| 🐛 34 \| 🌐 C++ \| 📅 2026-08-24   | Open-source auto-retopology tool intended to convert source meshes into clean, animation-friendly all-quad geometry.<br><small class="see-also">See also: <a href="#retopology--uv-software">Software Reference → Retopology & UV Software</a></small>                                                                                             |                                    | Open Source | Free · Auto Retopo          | Auto-retopology                             |
+| [AutoRemesher](https://github.com/huxingyi/autoremesher) ⭐ 3,339 \| 🐛 34 \| 🌐 C++ \| 📅 2026-08-24   | Open-source auto-retopology tool intended to convert source meshes into clean, animation-friendly all-quad geometry.<br><small class="see-also">See also: <a href="#retopology--uv-software">Software Reference → Retopology & UV Software</a></small>                                                                                             |                                    | Open Source | Free · Auto Retopo          | Auto-retopology                             |
 | [Cozy Blanket](https://cozyblanket.app/)                                                               | iPad sculpt-to-retopo app. Clay sculpt plus auto-quad retopology for game/film topology, from Naam.<br><small class="see-also">See also: <a href="#retopology--uv-software">Software Reference → Retopology & UV Software</a></small>                                                                                                              | \~$80 perpetual                    | Paid        | iPad Sculpt · Auto Retopo   | iPad sculpt + auto-retopo                   |
 | [Instant Meshes](https://github.com/wjakob/instant-meshes) ⭐ 6,194 \| 🐛 97 \| 🌐 C++ \| 📅 2022-01-03 | Free, open-source auto-retopology.<br><small class="see-also">See also: <a href="#retopology--uv-software">Software Reference → Retopology & UV Software</a></small>                                                                                                                                                                               |                                    | Open Source | Free · Auto Retopo          | Auto-retopology                             |
 | [Topogun](https://www.topogun.com/)                                                                    | Standalone retopology and baking.<br><small class="see-also">See also: <a href="#retopology--uv-software">Software Reference → Retopology & UV Software</a></small>                                                                                                                                                                                |                                    | Paid        | Retopo + Bake · Classic     | Retopo + baking                             |
@@ -3942,7 +3942,7 @@ UV unwrapping, packing, and UDIM tools.
 
 Auto-rig, retargeting, and animation middleware.
 
-* [EasyMocap](https://github.com/zju3dv/EasyMocap?tab=readme-ov-file) ⭐ 4,782 | 🐛 132 | 🌐 Python | 📅 2026-03-01. Open-source toolbox for markerless human motion capture and novel view synthesis from RGB videos.
+* [EasyMocap](https://github.com/zju3dv/EasyMocap?tab=readme-ov-file) ⭐ 4,783 | 🐛 132 | 🌐 Python | 📅 2026-03-01. Open-source toolbox for markerless human motion capture and novel view synthesis from RGB videos.
 * [ossos](https://github.com/sketchpunklabs/ossos) ⭐ 501 | 🐛 13 | 🌐 TypeScript | 📅 2025-11-19. A complete character skinning & animation library for the web
 * [CvWrap](https://github.com/chadmv/cvwrap) ⭐ 191 | 🐛 7 | 🌐 C++ | 📅 2022-12-15. Fast Maya wrap deformer.
 * [Onion Skin Renderer](https://github.com/Viele/onionSkinRenderer) ⭐ 113 | 🐛 7 | 🌐 Python | 📅 2022-11-16. Onion Skin Renderer for Maya.
