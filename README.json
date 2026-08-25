@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T13:07:37Z",
             "owner": "devanshutak25",
             "repo": "3d-resources",
-            "stars": 921
+            "stars": 922
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T13:07:37Z",
             "owner": "devanshutak25",
             "repo": "3d-resources",
-            "stars": 921
+            "stars": 922
           }
         }
       ],
@@ -53,7 +53,7 @@
                 "last_commit": "2025-10-13T20:11:43Z",
                 "owner": "nidorx",
                 "repo": "matcaps",
-                "stars": 3337
+                "stars": 3339
               }
             }
           ],
@@ -97,7 +97,7 @@
                 "last_commit": "2026-08-14T03:02:13Z",
                 "owner": "google",
                 "repo": "material-design-icons",
-                "stars": 53807
+                "stars": 53812
               }
             }
           ],
@@ -140,7 +140,7 @@
                 "last_commit": "2024-04-21T14:54:31Z",
                 "owner": "eliemichel",
                 "repo": "MapsModelsImporter",
-                "stars": 2804
+                "stars": 2806
               }
             },
             {
@@ -155,7 +155,7 @@
                 "last_commit": "2026-08-21T21:33:26Z",
                 "owner": "xavier150",
                 "repo": "Blender-For-UnrealEngine-Addons",
-                "stars": 2641
+                "stars": 2643
               }
             },
             {
@@ -170,7 +170,7 @@
                 "last_commit": "2026-08-02T17:02:00Z",
                 "owner": "nortikin",
                 "repo": "sverchok",
-                "stars": 2511
+                "stars": 2512
               }
             },
             {
@@ -182,10 +182,10 @@
                 "archived": false,
                 "id": 469312472,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:10:59Z",
+                "last_commit": "2026-08-25T05:57:46Z",
                 "owner": "ucupumar",
                 "repo": "ucupaint",
-                "stars": 2222
+                "stars": 2223
               }
             },
             {
@@ -200,7 +200,7 @@
                 "last_commit": "2024-07-21T02:46:17Z",
                 "owner": "animate1978",
                 "repo": "MB-Lab",
-                "stars": 2023
+                "stars": 2024
               }
             },
             {
@@ -212,10 +212,10 @@
                 "archived": false,
                 "id": 102030660,
                 "language": "C++",
-                "last_commit": "2026-07-27T18:21:05Z",
+                "last_commit": "2026-08-24T22:35:14Z",
                 "owner": "rlguy",
                 "repo": "Blender-FLIP-Fluids",
-                "stars": 1939
+                "stars": 1940
               }
             },
             {
@@ -260,7 +260,7 @@
                 "last_commit": "2025-05-11T11:30:59Z",
                 "owner": "BenjaminSauder",
                 "repo": "EdgeFlow",
-                "stars": 1567
+                "stars": 1568
               }
             },
             {
@@ -290,7 +290,7 @@
                 "last_commit": "2022-05-04T07:25:15Z",
                 "owner": "stuffmatic",
                 "repo": "fSpy-Blender",
-                "stars": 1445
+                "stars": 1446
               }
             },
             {
@@ -305,7 +305,7 @@
                 "last_commit": "2026-05-23T13:18:16Z",
                 "owner": "nutti",
                 "repo": "Screencast-Keys",
-                "stars": 1428
+                "stars": 1429
               }
             },
             {
@@ -560,7 +560,7 @@
                 "last_commit": "2024-08-10T00:48:33Z",
                 "owner": "egtwobits",
                 "repo": "mesh_mesh_align_plus",
-                "stars": 642
+                "stars": 643
               }
             },
             {
@@ -980,7 +980,7 @@
                 "last_commit": "2023-05-03T02:38:09Z",
                 "owner": "Pauan",
                 "repo": "blender-rigid-body-bones",
-                "stars": 154
+                "stars": 155
               }
             },
             {
@@ -1740,10 +1740,10 @@
                 "archived": false,
                 "id": 172998905,
                 "language": "C++",
-                "last_commit": "2026-08-24T04:01:18Z",
+                "last_commit": "2026-08-25T04:01:19Z",
                 "owner": "sideeffects",
                 "repo": "SideFXLabs",
-                "stars": 1223
+                "stars": 1224
               }
             },
             {
@@ -1898,7 +1898,7 @@
             {
               "node_type": "item",
               "title": "AwesomeBump",
-              "description": "Generate normal, height, specular or ambient occlusion textures from a single image.See also: Software Reference → Material & Texture Creation Software Open Source",
+              "description": "Generate normal, height, specular or ambient occlusion textures from a single image.See also: Software Reference → Material & Texture Creation Software  Open Source",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1928,7 +1928,7 @@
             {
               "node_type": "item",
               "title": "AwesomeBump",
-              "description": "Generate normal, height, specular or ambient occlusion textures from a single image. Open Source",
+              "description": "Generate normal, height, specular or ambient occlusion textures from a single image.  Open Source",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1958,7 +1958,7 @@
             {
               "node_type": "item",
               "title": "AutoRemesher",
-              "description": "Open-source auto-retopology tool intended to convert source meshes into clean, animation-friendly all-quad geometry. Open Source Free · Auto Retopo Auto-retopology",
+              "description": "Open-source auto-retopology tool intended to convert source meshes into clean, animation-friendly all-quad geometry.  Open Source Free · Auto Retopo Auto-retopology",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1967,13 +1967,13 @@
                 "last_commit": "2026-08-24T11:51:14Z",
                 "owner": "huxingyi",
                 "repo": "autoremesher",
-                "stars": 3331
+                "stars": 3338
               }
             },
             {
               "node_type": "item",
               "title": "Instant Meshes",
-              "description": "Free, open-source auto-retopology. Open Source Free · Auto Retopo Auto-retopology",
+              "description": "Free, open-source auto-retopology.  Open Source Free · Auto Retopo Auto-retopology",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1982,7 +1982,7 @@
                 "last_commit": "2022-01-03T03:31:55Z",
                 "owner": "wjakob",
                 "repo": "instant-meshes",
-                "stars": 6193
+                "stars": 6194
               }
             }
           ],
@@ -2010,7 +2010,7 @@
                 "last_commit": "2024-07-31T01:14:15Z",
                 "owner": "guoyww",
                 "repo": "AnimateDiff",
-                "stars": 12223
+                "stars": 12224
               }
             },
             {
@@ -2050,10 +2050,10 @@
                 "archived": false,
                 "id": 143455116,
                 "language": "C++",
-                "last_commit": "2026-08-23T08:06:00Z",
+                "last_commit": "2026-08-25T01:20:58Z",
                 "owner": "google",
                 "repo": "filament",
-                "stars": 20390
+                "stars": 20393
               }
             },
             {
@@ -2068,7 +2068,7 @@
                 "last_commit": "2023-06-25T21:58:57Z",
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 19853
+                "stars": 19854
               }
             },
             {
@@ -2080,10 +2080,10 @@
                 "archived": false,
                 "id": 3925242,
                 "language": "C++",
-                "last_commit": "2026-08-23T04:44:44Z",
+                "last_commit": "2026-08-25T05:57:58Z",
                 "owner": "bkaradzic",
                 "repo": "bgfx",
-                "stars": 17429
+                "stars": 17431
               }
             },
             {
@@ -2143,7 +2143,7 @@
                 "last_commit": "2023-09-22T16:07:30Z",
                 "owner": "dfranx",
                 "repo": "SHADERed",
-                "stars": 4786
+                "stars": 4787
               }
             },
             {
@@ -2158,7 +2158,7 @@
                 "last_commit": "2026-06-14T23:50:35Z",
                 "owner": "mmp",
                 "repo": "pbrt-v4",
-                "stars": 3680
+                "stars": 3681
               }
             },
             {
@@ -2173,7 +2173,7 @@
                 "last_commit": "2026-08-17T11:09:31Z",
                 "owner": "patriciogonzalezvivo",
                 "repo": "lygia",
-                "stars": 3411
+                "stars": 3412
               }
             },
             {
@@ -2188,7 +2188,7 @@
                 "last_commit": "2023-01-03T15:31:22Z",
                 "owner": "FreyaHolmer",
                 "repo": "ShaderForge",
-                "stars": 2781
+                "stars": 2782
               }
             },
             {
@@ -2278,7 +2278,7 @@
                 "last_commit": "2017-10-18T20:25:15Z",
                 "owner": "jbouny",
                 "repo": "ocean",
-                "stars": 797
+                "stars": 798
               }
             },
             {
@@ -2934,7 +2934,7 @@
             {
               "node_type": "item",
               "title": "ButtleOFX",
-              "description": "Simple open-source node-based compositing software. Open Source",
+              "description": "Simple open-source node-based compositing software.  Open Source",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2971,7 +2971,7 @@
                 "last_commit": "2026-07-07T08:05:45Z",
                 "owner": "JacquesLucke",
                 "repo": "animation_nodes",
-                "stars": 2375
+                "stars": 2376
               }
             },
             {
@@ -3036,22 +3036,22 @@
             {
               "node_type": "item",
               "title": "Aseprite",
-              "description": "Pixel art editor with animation tools (source on GitHub). Open Source Pixel Art · Sprite Animation Pixel art, sprite animation, game assets",
+              "description": "Pixel art editor with animation tools (source on GitHub).  Open Source Pixel Art · Sprite Animation Pixel art, sprite animation, game assets",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 23129458,
                 "language": "C++",
-                "last_commit": "2026-08-21T22:31:10Z",
+                "last_commit": "2026-08-24T20:54:24Z",
                 "owner": "aseprite",
                 "repo": "aseprite",
-                "stars": 38951
+                "stars": 38960
               }
             },
             {
               "node_type": "item",
               "title": "Pixen (GitHub)",
-              "description": "Pixel Art Editor for OSX Open Source",
+              "description": "Pixel Art Editor for OSX  Open Source",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3066,22 +3066,22 @@
             {
               "node_type": "item",
               "title": "OBS",
-              "description": "Software designed for capturing, compositing, encoding, recording, and streaming video content efficiently. Open Source Capture · Open Source Screen capture and streaming",
+              "description": "Software designed for capturing, compositing, encoding, recording, and streaming video content efficiently.  Open Source Capture · Open Source Screen capture and streaming",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 13233158,
                 "language": "C",
-                "last_commit": "2026-08-23T00:34:13Z",
+                "last_commit": "2026-08-25T00:33:55Z",
                 "owner": "obsproject",
                 "repo": "obs-studio",
-                "stars": 75385
+                "stars": 75415
               }
             },
             {
               "node_type": "item",
               "title": "OpenShot",
-              "description": "Award-winning free and open-source video editor for Linux, Mac, and Windows. Open Source Open Source · Beginner-Friendly Cross-platform beginner editing",
+              "description": "Award-winning free and open-source video editor for Linux, Mac, and Windows.  Open Source Open Source · Beginner-Friendly Cross-platform beginner editing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3090,13 +3090,13 @@
                 "last_commit": "2026-08-23T04:28:01Z",
                 "owner": "OpenShot",
                 "repo": "openshot-qt",
-                "stars": 6194
+                "stars": 6193
               }
             },
             {
               "node_type": "item",
               "title": "SoundThread",
-              "description": "Node-based patching front end for the Composers Desktop Project sound manipulation tools. Open Source Node-Based · CDP Front End Experimental spectral sound design",
+              "description": "Node-based patching front end for the Composers Desktop Project sound manipulation tools.  Open Source Node-Based · CDP Front End Experimental spectral sound design",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3155,7 +3155,7 @@
                 "last_commit": "2026-08-11T11:40:48Z",
                 "owner": "dialogic-godot",
                 "repo": "dialogic",
-                "stars": 5933
+                "stars": 5935
               }
             },
             {
@@ -3167,10 +3167,10 @@
                 "archived": false,
                 "id": 47882383,
                 "language": "reStructuredText",
-                "last_commit": "2026-08-23T19:33:51Z",
+                "last_commit": "2026-08-25T05:34:33Z",
                 "owner": "godotengine",
                 "repo": "godot-docs",
-                "stars": 5654
+                "stars": 5655
               }
             },
             {
@@ -3200,7 +3200,7 @@
                 "last_commit": "2026-08-20T20:33:24Z",
                 "owner": "ramokz",
                 "repo": "phantom-camera",
-                "stars": 3517
+                "stars": 3518
               }
             },
             {
@@ -3215,7 +3215,7 @@
                 "last_commit": "2026-08-24T08:20:18Z",
                 "owner": "limbonaut",
                 "repo": "limboai",
-                "stars": 2968
+                "stars": 2970
               }
             },
             {
@@ -3297,7 +3297,7 @@
                 "last_commit": "2026-06-28T16:08:10Z",
                 "owner": "BepInEx",
                 "repo": "BepInEx",
-                "stars": 8481
+                "stars": 8488
               }
             },
             {
@@ -3312,7 +3312,7 @@
                 "last_commit": "2023-09-05T13:24:31Z",
                 "owner": "EllanJiang",
                 "repo": "GameFramework",
-                "stars": 6846
+                "stars": 6847
               }
             },
             {
@@ -3342,7 +3342,7 @@
                 "last_commit": "2026-08-20T20:33:11Z",
                 "owner": "EsotericSoftware",
                 "repo": "spine-runtimes",
-                "stars": 5258
+                "stars": 5260
               }
             },
             {
@@ -3444,7 +3444,7 @@
                 "archived": false,
                 "id": 116385203,
                 "language": "C#",
-                "last_commit": "2026-08-24T14:05:21Z",
+                "last_commit": "2026-08-24T20:56:54Z",
                 "owner": "Unity-Technologies",
                 "repo": "com.unity.netcode.gameobjects",
                 "stars": 2320
@@ -3522,7 +3522,7 @@
                 "last_commit": "2026-01-07T22:16:05Z",
                 "owner": "Whinarn",
                 "repo": "UnityMeshSimplifier",
-                "stars": 2042
+                "stars": 2043
               }
             },
             {
@@ -3537,7 +3537,7 @@
                 "last_commit": "2026-01-05T09:07:22Z",
                 "owner": "leinlin",
                 "repo": "Miku-LuaProfiler",
-                "stars": 2014
+                "stars": 2016
               }
             },
             {
@@ -3579,10 +3579,10 @@
                 "archived": false,
                 "id": 14933768,
                 "language": "C#",
-                "last_commit": "2026-08-22T15:16:12Z",
+                "last_commit": "2026-08-24T22:32:39Z",
                 "owner": "googleads",
                 "repo": "googleads-mobile-unity",
-                "stars": 1543
+                "stars": 1544
               }
             },
             {
@@ -3699,7 +3699,7 @@
                 "archived": false,
                 "id": 42181594,
                 "language": "C#",
-                "last_commit": "2026-08-24T10:42:59Z",
+                "last_commit": "2026-08-25T03:27:56Z",
                 "owner": "JetBrains",
                 "repo": "resharper-unity",
                 "stars": 1236
@@ -3902,6 +3902,21 @@
             },
             {
               "node_type": "item",
+              "title": "Unity 2D Platformer Controller",
+              "description": ". Customizable 2D platformer motor with double jumps, wall jumps, and corner grabs, plus a drop-in player prefab.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20041383,
+                "language": "C#",
+                "last_commit": "2020-01-10T22:50:27Z",
+                "owner": "cjddmut",
+                "repo": "Unity-2D-Platformer-Controller",
+                "stars": 996
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Unity Simple File Browser",
               "description": ". uGUI-based runtime file browser for Unity, draggable and resizable.",
               "children": [],
@@ -3913,21 +3928,6 @@
                 "owner": "yasirkula",
                 "repo": "UnitySimpleFileBrowser",
                 "stars": 995
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Unity 2D Platformer Controller",
-              "description": ". Customizable 2D platformer motor with double jumps, wall jumps, and corner grabs, plus a drop-in player prefab.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 20041383,
-                "language": "C#",
-                "last_commit": "2020-01-10T22:50:27Z",
-                "owner": "cjddmut",
-                "repo": "Unity-2D-Platformer-Controller",
-                "stars": 994
               }
             },
             {
@@ -4497,7 +4497,7 @@
                 "last_commit": "2014-08-09T13:30:37Z",
                 "owner": "keijiro",
                 "repo": "SonarFx",
-                "stars": 434
+                "stars": 435
               }
             },
             {
@@ -9436,7 +9436,7 @@
                 "archived": false,
                 "id": 313492009,
                 "language": "C++",
-                "last_commit": "2026-08-23T23:44:31Z",
+                "last_commit": "2026-08-25T01:07:42Z",
                 "owner": "ReactVision",
                 "repo": "virocore",
                 "stars": 72
@@ -9506,7 +9506,7 @@
                 "last_commit": "2023-10-05T18:32:26Z",
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6284
+                "stars": 6285
               }
             },
             {
@@ -9551,7 +9551,7 @@
                 "last_commit": "2023-06-07T13:29:44Z",
                 "owner": "nxrighthere",
                 "repo": "UnrealCLR",
-                "stars": 3308
+                "stars": 3309
               }
             },
             {
@@ -9563,10 +9563,10 @@
                 "archived": false,
                 "id": 194710038,
                 "language": "C++",
-                "last_commit": "2026-08-24T08:38:41Z",
+                "last_commit": "2026-08-25T00:53:56Z",
                 "owner": "pafuhana1213",
                 "repo": "KawaiiPhysics",
-                "stars": 3245
+                "stars": 3247
               }
             },
             {
@@ -9596,7 +9596,7 @@
                 "last_commit": "2024-07-10T21:38:04Z",
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
-                "stars": 2661
+                "stars": 2662
               }
             },
             {
@@ -9671,7 +9671,7 @@
                 "last_commit": "2026-06-24T10:55:26Z",
                 "owner": "VoxelPlugin",
                 "repo": "VoxelPluginFreeLegacy",
-                "stars": 1754
+                "stars": 1755
               }
             },
             {
@@ -9713,7 +9713,7 @@
                 "archived": false,
                 "id": 18605826,
                 "language": "C++",
-                "last_commit": "2026-08-24T04:00:06Z",
+                "last_commit": "2026-08-25T04:00:06Z",
                 "owner": "sideeffects",
                 "repo": "HoudiniEngineForUnreal",
                 "stars": 1592
@@ -9971,22 +9971,7 @@
                 "last_commit": "2024-07-22T02:11:17Z",
                 "owner": "segross",
                 "repo": "UnrealImGui",
-                "stars": 766
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "LuaMachine",
-              "description": ". Lua API integration plugin for Unreal Engine 4.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 152728104,
-                "language": "C++",
-                "last_commit": "2026-06-20T10:15:21Z",
-                "owner": "rdeioris",
-                "repo": "LuaMachine",
-                "stars": 700
+                "stars": 765
               }
             },
             {
@@ -10002,6 +9987,21 @@
                 "owner": "ryanjon2040",
                 "repo": "Unreal-Binary-Builder",
                 "stars": 700
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LuaMachine",
+              "description": ". Lua API integration plugin for Unreal Engine 4.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152728104,
+                "language": "C++",
+                "last_commit": "2026-06-20T10:15:21Z",
+                "owner": "rdeioris",
+                "repo": "LuaMachine",
+                "stars": 699
               }
             },
             {
@@ -10076,7 +10076,7 @@
                 "last_commit": "2026-08-15T01:11:19Z",
                 "owner": "EliotVU",
                 "repo": "Unreal-Library",
-                "stars": 475
+                "stars": 476
               }
             },
             {
@@ -10136,7 +10136,7 @@
                 "last_commit": "2025-02-23T19:52:41Z",
                 "owner": "gtreshchev",
                 "repo": "RuntimeAudioImporter",
-                "stars": 405
+                "stars": 404
               }
             },
             {
@@ -10166,7 +10166,7 @@
                 "last_commit": "2026-02-17T20:55:23Z",
                 "owner": "bw2012",
                 "repo": "UnrealSandboxTerrain",
-                "stars": 387
+                "stars": 388
               }
             },
             {
@@ -10201,21 +10201,6 @@
             },
             {
               "node_type": "item",
-              "title": "NiagaraUIRenderer",
-              "description": ". Render Niagara particle systems inside UMG UI widgets.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 352421465,
-                "language": "C++",
-                "last_commit": "2026-06-17T22:05:57Z",
-                "owner": "SourySK",
-                "repo": "NiagaraUIRenderer",
-                "stars": 367
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Fresh Cooked Tweens",
               "description": ". Tweening library with curve easing for any value in Unreal Engine.",
               "children": [],
@@ -10226,6 +10211,21 @@
                 "last_commit": "2026-06-10T14:15:16Z",
                 "owner": "jdcook",
                 "repo": "fresh_cooked_tweens",
+                "stars": 366
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NiagaraUIRenderer",
+              "description": ". Render Niagara particle systems inside UMG UI widgets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 352421465,
+                "language": "C++",
+                "last_commit": "2026-06-17T22:05:57Z",
+                "owner": "SourySK",
+                "repo": "NiagaraUIRenderer",
                 "stars": 366
               }
             },
@@ -10316,7 +10316,7 @@
                 "last_commit": "2022-11-17T02:30:25Z",
                 "owner": "microsoft",
                 "repo": "MixedReality-UXTools-Unreal",
-                "stars": 319
+                "stars": 318
               }
             },
             {
@@ -10511,7 +10511,7 @@
                 "last_commit": "2025-02-15T11:15:20Z",
                 "owner": "ymt3d",
                 "repo": "UE5-StylizedPostProcess",
-                "stars": 224
+                "stars": 225
               }
             },
             {
@@ -11882,7 +11882,7 @@
                 "last_commit": "2026-08-22T16:10:56Z",
                 "owner": "MirrorNetworking",
                 "repo": "Mirror",
-                "stars": 6300
+                "stars": 6301
               }
             },
             {
@@ -11985,7 +11985,7 @@
             {
               "node_type": "item",
               "title": "Pixen (GitHub)",
-              "description": "Pixel Art Editor for OSXSee also: Software Reference → 2D & Animation Software Open Source",
+              "description": "Pixel Art Editor for OSXSee also: Software Reference → 2D & Animation Software  Open Source",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12009,7 +12009,7 @@
                 "last_commit": "2026-08-23T07:59:23Z",
                 "owner": "libgdx",
                 "repo": "libgdx",
-                "stars": 25330
+                "stars": 25334
               }
             },
             {
@@ -12121,7 +12121,7 @@
                 "last_commit": "2026-03-22T01:25:44Z",
                 "owner": "mxgmn",
                 "repo": "WaveFunctionCollapse",
-                "stars": 25288
+                "stars": 25289
               }
             },
             {
@@ -12136,7 +12136,7 @@
                 "last_commit": "2026-06-21T19:35:59Z",
                 "owner": "Auburn",
                 "repo": "FastNoiseLite",
-                "stars": 3486
+                "stars": 3487
               }
             },
             {
@@ -12188,7 +12188,7 @@
                 "last_commit": "2026-08-24T05:19:24Z",
                 "owner": "jrouwe",
                 "repo": "JoltPhysics",
-                "stars": 11420
+                "stars": 11424
               }
             },
             {
@@ -12203,7 +12203,7 @@
                 "last_commit": "2026-05-23T19:44:49Z",
                 "owner": "nibsbin",
                 "repo": "LockstepFramework",
-                "stars": 1530
+                "stars": 1531
               }
             },
             {
@@ -12252,10 +12252,10 @@
                 "archived": false,
                 "id": 354743391,
                 "language": "C++",
-                "last_commit": "2026-08-22T17:38:39Z",
+                "last_commit": "2026-08-24T20:19:57Z",
                 "owner": "o3de",
                 "repo": "o3de",
-                "stars": 9626
+                "stars": 9627
               }
             },
             {
@@ -12285,7 +12285,7 @@
                 "last_commit": "2026-07-03T11:59:59Z",
                 "owner": "friflo",
                 "repo": "Friflo.Engine.ECS",
-                "stars": 756
+                "stars": 758
               }
             },
             {
@@ -12404,7 +12404,7 @@
                 "last_commit": "2026-08-16T20:18:01Z",
                 "owner": "DiligentGraphics",
                 "repo": "DiligentEngine",
-                "stars": 4410
+                "stars": 4413
               }
             },
             {
@@ -12476,7 +12476,7 @@
                 "archived": false,
                 "id": 14590125,
                 "language": "C++",
-                "last_commit": "2026-08-23T22:34:18Z",
+                "last_commit": "2026-08-24T22:38:49Z",
                 "owner": "nem0",
                 "repo": "LumixEngine",
                 "stars": 3869
@@ -12566,10 +12566,10 @@
                 "archived": false,
                 "id": 46817566,
                 "language": "C++",
-                "last_commit": "2026-08-23T04:37:51Z",
+                "last_commit": "2026-08-25T00:44:13Z",
                 "owner": "UPBGE",
                 "repo": "upbge",
-                "stars": 1800
+                "stars": 1802
               }
             },
             {
@@ -12581,10 +12581,10 @@
                 "archived": false,
                 "id": 46817566,
                 "language": "C++",
-                "last_commit": "2026-08-23T04:37:51Z",
+                "last_commit": "2026-08-25T00:44:13Z",
                 "owner": "UPBGE",
                 "repo": "upbge",
-                "stars": 1800
+                "stars": 1802
               }
             },
             {
@@ -12627,7 +12627,7 @@
                 "last_commit": "2026-02-11T22:01:53Z",
                 "owner": "neutraltone",
                 "repo": "awesome-stock-resources",
-                "stars": 14451
+                "stars": 14454
               }
             }
           ],
@@ -12671,7 +12671,7 @@
                 "last_commit": "2026-04-14T01:20:32Z",
                 "owner": "opensesh",
                 "repo": "OS_design-directory",
-                "stars": 62
+                "stars": 63
               }
             }
           ],
@@ -12699,7 +12699,7 @@
                 "last_commit": "2026-08-19T22:05:37Z",
                 "owner": "aishwaryanr",
                 "repo": "awesome-generative-ai-guide",
-                "stars": 28879
+                "stars": 28885
               }
             },
             {
@@ -12714,7 +12714,7 @@
                 "last_commit": "2024-07-04T19:13:09Z",
                 "owner": "timzhang642",
                 "repo": "3D-Machine-Learning",
-                "stars": 10191
+                "stars": 10192
               }
             },
             {
@@ -12803,7 +12803,7 @@
                 "last_commit": "2025-11-04T11:19:04Z",
                 "owner": "zai-org",
                 "repo": "CogVideo",
-                "stars": 12970
+                "stars": 12971
               }
             },
             {
@@ -12833,7 +12833,7 @@
                 "last_commit": "2026-01-05T22:37:07Z",
                 "owner": "Lightricks",
                 "repo": "LTX-Video",
-                "stars": 10894
+                "stars": 10898
               }
             }
           ],
@@ -12855,7 +12855,7 @@
                 "last_commit": "2024-03-10T05:08:10Z",
                 "owner": "3DTopia",
                 "repo": "3DTopia",
-                "stars": 734
+                "stars": 735
               }
             },
             {
@@ -12870,7 +12870,7 @@
                 "last_commit": "2023-12-10T23:17:27Z",
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8854
+                "stars": 8853
               }
             },
             {
@@ -12885,7 +12885,7 @@
                 "last_commit": "2025-01-03T09:09:13Z",
                 "owner": "TencentARC",
                 "repo": "InstantMesh",
-                "stars": 4504
+                "stars": 4505
               }
             },
             {
@@ -12900,7 +12900,7 @@
                 "last_commit": "2026-06-04T07:11:09Z",
                 "owner": "VAST-AI-Research",
                 "repo": "TripoSR",
-                "stars": 6879
+                "stars": 6884
               }
             },
             {
@@ -12945,7 +12945,7 @@
                 "last_commit": "2024-12-16T06:11:15Z",
                 "owner": "threestudio-project",
                 "repo": "threestudio",
-                "stars": 7045
+                "stars": 7046
               }
             },
             {
@@ -12975,7 +12975,7 @@
                 "last_commit": "2026-06-23T10:10:27Z",
                 "owner": "TencentARC",
                 "repo": "Pixal3D",
-                "stars": 2153
+                "stars": 2154
               }
             },
             {
@@ -13012,7 +13012,7 @@
                 "last_commit": "2026-08-18T23:44:10Z",
                 "owner": "Comfy-Org",
                 "repo": "ComfyUI-Manager",
-                "stars": 15888
+                "stars": 15900
               }
             },
             {
@@ -13049,7 +13049,7 @@
                 "last_commit": "2026-05-28T15:15:20Z",
                 "owner": "nikopueringer",
                 "repo": "CorridorKey",
-                "stars": 14580
+                "stars": 14583
               }
             },
             {
@@ -13079,7 +13079,7 @@
                 "last_commit": "2024-08-26T02:23:11Z",
                 "owner": "carson-katri",
                 "repo": "dream-textures",
-                "stars": 8195
+                "stars": 8194
               }
             },
             {
@@ -13106,10 +13106,10 @@
                 "archived": false,
                 "id": 959123498,
                 "language": "C#",
-                "last_commit": "2026-08-24T02:38:25Z",
+                "last_commit": "2026-08-24T23:55:08Z",
                 "owner": "IvanMurzak",
                 "repo": "Unity-MCP",
-                "stars": 3973
+                "stars": 3977
               }
             },
             {
@@ -13199,7 +13199,7 @@
                 "last_commit": "2026-08-22T17:11:52Z",
                 "owner": "Zarxrax",
                 "repo": "Sammie-Roto-2",
-                "stars": 339
+                "stars": 340
               }
             },
             {
@@ -13251,7 +13251,7 @@
                 "last_commit": "2026-07-23T09:20:37Z",
                 "owner": "SWivid",
                 "repo": "F5-TTS",
-                "stars": 15158
+                "stars": 15160
               }
             }
           ],
@@ -13273,7 +13273,7 @@
                 "last_commit": "2026-06-17T13:51:27Z",
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15166
+                "stars": 15167
               }
             },
             {
@@ -13288,7 +13288,7 @@
                 "last_commit": "2025-04-12T16:26:12Z",
                 "owner": "bmild",
                 "repo": "nerf",
-                "stars": 10930
+                "stars": 10927
               }
             },
             {
@@ -13303,7 +13303,7 @@
                 "last_commit": "2023-12-10T23:17:27Z",
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8854
+                "stars": 8853
               }
             },
             {
@@ -13423,7 +13423,7 @@
                 "last_commit": "2024-06-30T21:29:35Z",
                 "owner": "sxyu",
                 "repo": "pixel-nerf",
-                "stars": 1466
+                "stars": 1465
               }
             },
             {
@@ -13438,7 +13438,7 @@
                 "last_commit": "2026-05-01T20:30:49Z",
                 "owner": "NVlabs",
                 "repo": "BundleSDF",
-                "stars": 1408
+                "stars": 1410
               }
             },
             {
@@ -13558,7 +13558,7 @@
                 "last_commit": "2022-03-24T23:01:35Z",
                 "owner": "Kai-46",
                 "repo": "nerfplusplus",
-                "stars": 943
+                "stars": 942
               }
             },
             {
@@ -14728,7 +14728,7 @@
                 "last_commit": "2025-11-04T11:19:04Z",
                 "owner": "zai-org",
                 "repo": "CogVideo",
-                "stars": 12970
+                "stars": 12971
               }
             },
             {
@@ -14758,7 +14758,7 @@
                 "last_commit": "2026-01-05T22:37:07Z",
                 "owner": "Lightricks",
                 "repo": "LTX-Video",
-                "stars": 10894
+                "stars": 10898
               }
             },
             {
@@ -14773,7 +14773,7 @@
                 "last_commit": "2024-03-10T05:08:10Z",
                 "owner": "3DTopia",
                 "repo": "3DTopia",
-                "stars": 734
+                "stars": 735
               }
             },
             {
@@ -14788,7 +14788,7 @@
                 "last_commit": "2025-01-03T09:09:13Z",
                 "owner": "TencentARC",
                 "repo": "InstantMesh",
-                "stars": 4504
+                "stars": 4505
               }
             },
             {
@@ -14803,7 +14803,7 @@
                 "last_commit": "2026-06-04T07:11:09Z",
                 "owner": "VAST-AI-Research",
                 "repo": "TripoSR",
-                "stars": 6879
+                "stars": 6884
               }
             },
             {
@@ -14863,7 +14863,7 @@
                 "last_commit": "2026-07-23T09:20:37Z",
                 "owner": "SWivid",
                 "repo": "F5-TTS",
-                "stars": 15158
+                "stars": 15160
               }
             }
           ],
@@ -15030,7 +15030,7 @@
                 "archived": false,
                 "id": 9043124,
                 "language": "Python",
-                "last_commit": "2026-08-24T01:15:38Z",
+                "last_commit": "2026-08-25T01:14:08Z",
                 "owner": "GafferHQ",
                 "repo": "gaffer",
                 "stars": 1088
@@ -15370,7 +15370,7 @@
                 "last_commit": "2025-10-17T14:28:15Z",
                 "owner": "graphdeco-inria",
                 "repo": "gaussian-splatting",
-                "stars": 23007
+                "stars": 23011
               }
             },
             {
@@ -15385,7 +15385,7 @@
                 "last_commit": "2026-08-17T22:38:24Z",
                 "owner": "ArthurBrussee",
                 "repo": "brush",
-                "stars": 4968
+                "stars": 4970
               }
             },
             {
@@ -15400,7 +15400,7 @@
                 "last_commit": "2024-10-27T04:07:37Z",
                 "owner": "hustvl",
                 "repo": "4DGaussians",
-                "stars": 3892
+                "stars": 3894
               }
             },
             {
@@ -15412,10 +15412,10 @@
                 "archived": false,
                 "id": 672651553,
                 "language": "C++",
-                "last_commit": "2026-08-24T13:24:37Z",
+                "last_commit": "2026-08-25T05:30:06Z",
                 "owner": "MrNeRF",
                 "repo": "LichtFeld-Studio",
-                "stars": 3570
+                "stars": 3575
               }
             },
             {
@@ -15587,7 +15587,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -15602,7 +15602,7 @@
                 "last_commit": "2026-08-20T03:00:08Z",
                 "owner": "alicevision",
                 "repo": "Meshroom",
-                "stars": 12916
+                "stars": 12918
               }
             },
             {
@@ -15617,7 +15617,7 @@
                 "last_commit": "2025-04-12T16:26:12Z",
                 "owner": "bmild",
                 "repo": "nerf",
-                "stars": 10930
+                "stars": 10927
               }
             },
             {
@@ -15647,7 +15647,7 @@
                 "last_commit": "2026-08-13T11:24:10Z",
                 "owner": "playcanvas",
                 "repo": "supersplat",
-                "stars": 9892
+                "stars": 9893
               }
             },
             {
@@ -15662,7 +15662,7 @@
                 "last_commit": "2026-08-18T09:59:38Z",
                 "owner": "MrNeRF",
                 "repo": "awesome-3D-gaussian-splatting",
-                "stars": 8830
+                "stars": 8831
               }
             },
             {
@@ -15677,7 +15677,7 @@
                 "last_commit": "2024-07-25T10:27:44Z",
                 "owner": "yenchenlin",
                 "repo": "nerf-pytorch",
-                "stars": 6045
+                "stars": 6044
               }
             },
             {
@@ -15692,7 +15692,7 @@
                 "last_commit": "2026-08-20T20:44:25Z",
                 "owner": "nerfstudio-project",
                 "repo": "gsplat",
-                "stars": 5573
+                "stars": 5577
               }
             },
             {
@@ -15737,7 +15737,7 @@
                 "last_commit": "2026-05-20T05:55:33Z",
                 "owner": "nmwsharp",
                 "repo": "polyscope",
-                "stars": 2198
+                "stars": 2199
               }
             },
             {
@@ -15752,7 +15752,7 @@
                 "last_commit": "2025-06-27T02:10:14Z",
                 "owner": "mikeroyal",
                 "repo": "Photogrammetry-Guide",
-                "stars": 1515
+                "stars": 1516
               }
             },
             {
@@ -15900,7 +15900,7 @@
             {
               "node_type": "item",
               "title": "AutoRemesher",
-              "description": "Open-source auto-retopology tool intended to convert source meshes into clean, animation-friendly all-quad geometry.See also: Software Reference → Retopology & UV Software Open Source Free · Auto Retopo Auto-retopology",
+              "description": "Open-source auto-retopology tool intended to convert source meshes into clean, animation-friendly all-quad geometry.See also: Software Reference → Retopology & UV Software  Open Source Free · Auto Retopo Auto-retopology",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -15909,13 +15909,13 @@
                 "last_commit": "2026-08-24T11:51:14Z",
                 "owner": "huxingyi",
                 "repo": "autoremesher",
-                "stars": 3331
+                "stars": 3338
               }
             },
             {
               "node_type": "item",
               "title": "Instant Meshes",
-              "description": "Free, open-source auto-retopology.See also: Software Reference → Retopology & UV Software Open Source Free · Auto Retopo Auto-retopology",
+              "description": "Free, open-source auto-retopology.See also: Software Reference → Retopology & UV Software  Open Source Free · Auto Retopo Auto-retopology",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -15924,7 +15924,7 @@
                 "last_commit": "2022-01-03T03:31:55Z",
                 "owner": "wjakob",
                 "repo": "instant-meshes",
-                "stars": 6193
+                "stars": 6194
               }
             },
             {
@@ -15961,7 +15961,7 @@
                 "last_commit": "2026-03-01T11:35:26Z",
                 "owner": "zju3dv",
                 "repo": "EasyMocap",
-                "stars": 4780
+                "stars": 4782
               }
             },
             {
@@ -16122,7 +16122,7 @@
                 "archived": false,
                 "id": 361897570,
                 "language": "C++",
-                "last_commit": "2026-08-24T01:37:21Z",
+                "last_commit": "2026-08-25T02:38:18Z",
                 "owner": "grizzlypeak3d",
                 "repo": "tlRender",
                 "stars": 232
@@ -16140,7 +16140,7 @@
                 "last_commit": "2026-03-17T06:28:29Z",
                 "owner": "anvaka",
                 "repo": "city-roads",
-                "stars": 9562
+                "stars": 9563
               }
             },
             {
@@ -16393,7 +16393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:17:04.189Z",
+    "last_updated": "2026-08-25T06:09:26.661Z",
     "original_repository": "devanshutak25/3d-resources",
     "original_repository_id": 1041237501,
     "original_repository_sha": "7f63425df8315723b02bd5d03261e7c90a5aff8d",
