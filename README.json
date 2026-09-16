@@ -1,84 +1,6 @@
 {
   "items": [
     {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Suggest a resource",
-          "description": "Contribute",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Curated, CC0 reference hub for 3D, VFX, and game dev. 3,400+ tools, assets, and tutorials across 12 sections. Searchable, filterable, free.",
-            "homepage": "https://3d.devanshutak.xyz/",
-            "id": 1041237501,
-            "language": "JavaScript",
-            "license": "CC0-1.0",
-            "last_commit": "2026-09-15T11:49:24Z",
-            "open_issues": 0,
-            "owner": "devanshutak25",
-            "repo": "3d-resources",
-            "stars": 943,
-            "topics": [
-              "3d",
-              "3d-resources",
-              "animation",
-              "awesome",
-              "awesome-list",
-              "blender",
-              "cgi",
-              "cinema-4d",
-              "free-assets",
-              "gamedev",
-              "houdini",
-              "maya",
-              "unreal-engine",
-              "vfx"
-            ]
-          },
-          "first_seen": "2026-08-28T20:20:20.334Z"
-        },
-        {
-          "node_type": "item",
-          "title": "⚠️ Heads up: links rot, licenses drift, prices age. Flag anything off via GitHub",
-          "description": ".",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Curated, CC0 reference hub for 3D, VFX, and game dev. 3,400+ tools, assets, and tutorials across 12 sections. Searchable, filterable, free.",
-            "homepage": "https://3d.devanshutak.xyz/",
-            "id": 1041237501,
-            "language": "JavaScript",
-            "license": "CC0-1.0",
-            "last_commit": "2026-09-15T11:49:24Z",
-            "open_issues": 0,
-            "owner": "devanshutak25",
-            "repo": "3d-resources",
-            "stars": 943,
-            "topics": [
-              "3d",
-              "3d-resources",
-              "animation",
-              "awesome",
-              "awesome-list",
-              "blender",
-              "cgi",
-              "cinema-4d",
-              "free-assets",
-              "gamedev",
-              "houdini",
-              "maya",
-              "unreal-engine",
-              "vfx"
-            ]
-          },
-          "first_seen": "2026-08-28T20:20:20.334Z"
-        }
-      ],
-      "title": "Overview"
-    },
-    {
       "description": "Models, textures, HDRIs, audio, stock. Everything downloadable. Asset-first lookup lives here.",
       "items": [
         {
@@ -99,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "nidorx",
                 "repo": "matcaps",
-                "stars": 3357,
+                "stars": 3358,
                 "topics": [
                   "blender-3d",
                   "envmap",
@@ -169,7 +91,7 @@
                 "open_issues": 428,
                 "owner": "google",
                 "repo": "material-design-icons",
-                "stars": 53957,
+                "stars": 53960,
                 "topics": [
                   "android",
                   "icons",
@@ -191,7 +113,7 @@
       "title": "Assets & Libraries"
     },
     {
-      "description": "Per-DCC learning plus texturing and material-authoring toolchain. Per-renderer learning lives in §4.",
+      "description": "Learning per 3D application, plus texturing and material-authoring tools. Renderer-specific learning is under Lighting, Rendering & Shaders.",
       "items": [
         {
           "children": [
@@ -211,7 +133,7 @@
                 "open_issues": 29,
                 "owner": "a1studmuffin",
                 "repo": "SpaceshipGenerator",
-                "stars": 7821,
+                "stars": 7822,
                 "topics": [
                   "3d",
                   "blender-scripts",
@@ -289,7 +211,7 @@
                 "open_issues": 221,
                 "owner": "nortikin",
                 "repo": "sverchok",
-                "stars": 2521,
+                "stars": 2522,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -310,7 +232,7 @@
                 "open_issues": 101,
                 "owner": "ucupumar",
                 "repo": "ucupaint",
-                "stars": 2230,
+                "stars": 2233,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -411,7 +333,7 @@
                 "open_issues": 22,
                 "owner": "unity3d-jp",
                 "repo": "MeshSync",
-                "stars": 1679,
+                "stars": 1680,
                 "topics": [
                   "livelink",
                   "unity"
@@ -435,7 +357,7 @@
                 "open_issues": 4,
                 "owner": "BenjaminSauder",
                 "repo": "EdgeFlow",
-                "stars": 1576,
+                "stars": 1577,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -456,7 +378,7 @@
                 "open_issues": 27,
                 "owner": "ranjian0",
                 "repo": "building_tools",
-                "stars": 1506,
+                "stars": 1505,
                 "topics": [
                   "blender",
                   "blender-addon",
@@ -561,10 +483,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-10T13:10:16Z",
-                "open_issues": 17,
+                "open_issues": 16,
                 "owner": "sketchfab",
                 "repo": "blender-plugin",
-                "stars": 1335,
+                "stars": 1336,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -850,7 +772,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-11T13:28:31Z",
-                "open_issues": 66,
+                "open_issues": 67,
                 "owner": "JoseConseco",
                 "repo": "GoB",
                 "stars": 766,
@@ -1297,7 +1219,7 @@
                 "open_issues": 2,
                 "owner": "adriflex",
                 "repo": "autoremesher-blender-bridge",
-                "stars": 296,
+                "stars": 297,
                 "topics": [
                   "autoremesher",
                   "blender",
@@ -1369,11 +1291,11 @@
                 "id": 242155829,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-08-04T02:51:01Z",
+                "last_commit": "2026-09-16T06:55:44Z",
                 "open_issues": 15,
                 "owner": "ynshung",
                 "repo": "blender-colab",
-                "stars": 230,
+                "stars": 231,
                 "topics": [
                   "blender",
                   "blender-colab",
@@ -2864,11 +2786,11 @@
                 "id": 172998905,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T04:01:19Z",
+                "last_commit": "2026-09-16T04:01:20Z",
                 "open_issues": 5,
                 "owner": "sideeffects",
                 "repo": "SideFXLabs",
-                "stars": 1233,
+                "stars": 1235,
                 "topics": [
                   "art",
                   "game-development",
@@ -3137,7 +3059,7 @@
             {
               "node_type": "item",
               "title": "AwesomeBump",
-              "description": "Generate normal, height, specular or ambient occlusion textures from a single image.See also: Software Reference → Material & Texture Creation Software  Open Source",
+              "description": "Generate normal, height, specular or ambient occlusion textures from a single image.See also: Software Reference → Material & Texture Creation Software  Open source",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3188,7 +3110,7 @@
             {
               "node_type": "item",
               "title": "AwesomeBump",
-              "description": "Generate normal, height, specular or ambient occlusion textures from a single image.  Open Source",
+              "description": "Generate normal, height, specular or ambient occlusion textures from a single image.  Open source",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3209,7 +3131,7 @@
             {
               "node_type": "item",
               "title": "MicMac",
-              "description": "Free open-source photogrammetric suite that can be used in a variety of 3D reconstruction scenarios. Open Source",
+              "description": "Free open-source photogrammetric suite that can be used in a variety of 3D reconstruction scenarios. Open source",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3230,7 +3152,7 @@
             {
               "node_type": "item",
               "title": "AutoRemesher",
-              "description": "Open-source auto-retopology tool intended to convert source meshes into clean, animation-friendly all-quad geometry.  Open Source Free · Auto Retopo Auto-retopology",
+              "description": "Open-source auto-retopology tool intended to convert source meshes into clean, animation-friendly all-quad geometry.  Open source Free · Auto Retopo Auto-retopology",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3243,7 +3165,7 @@
                 "open_issues": 35,
                 "owner": "huxingyi",
                 "repo": "autoremesher",
-                "stars": 3464,
+                "stars": 3469,
                 "topics": [
                   "quadremesh",
                   "retopology"
@@ -3254,7 +3176,7 @@
             {
               "node_type": "item",
               "title": "Instant Meshes",
-              "description": "Free, open-source auto-retopology.  Open Source Free · Auto Retopo Auto-retopology",
+              "description": "Free, open-source auto-retopology.  Open source Free · Auto Retopo Auto-retopology",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3267,7 +3189,7 @@
                 "open_issues": 97,
                 "owner": "wjakob",
                 "repo": "instant-meshes",
-                "stars": 6217,
+                "stars": 6220,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -3281,7 +3203,7 @@
       "title": "Modeling, Sculpting & Texturing"
     },
     {
-      "description": "Technical animation, rigging, motion capture. Animation principles/theory live in §8.",
+      "description": "Technical animation, rigging, motion capture. Animation principles and theory are under Art, Design & Visual Storytelling.",
       "items": [
         {
           "children": [
@@ -3322,7 +3244,7 @@
                 "open_issues": 10,
                 "owner": "BandaiNamcoResearchInc",
                 "repo": "Bandai-Namco-Research-Motiondataset",
-                "stars": 3332,
+                "stars": 3333,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -3336,7 +3258,7 @@
       "title": "Animation & Rigging"
     },
     {
-      "description": "3D lighting, rendering theory, shader theory, and renderer-specific learning. Render engine software lives in §12.",
+      "description": "3D lighting, rendering theory, shader theory, and renderer-specific learning. Render engine software is listed under Software Reference.",
       "items": [
         {
           "children": [
@@ -3352,11 +3274,11 @@
                 "id": 143455116,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T07:58:19Z",
-                "open_issues": 224,
+                "last_commit": "2026-09-16T07:08:18Z",
+                "open_issues": 221,
                 "owner": "google",
                 "repo": "filament",
-                "stars": 20494,
+                "stars": 20500,
                 "topics": [
                   "3d-graphics",
                   "android",
@@ -3391,7 +3313,7 @@
                 "open_issues": 18,
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 19897,
+                "stars": 19900,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -3429,11 +3351,11 @@
                 "id": 3925242,
                 "language": "C++",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-15T05:56:26Z",
-                "open_issues": 286,
+                "last_commit": "2026-09-16T04:30:08Z",
+                "open_issues": 285,
                 "owner": "bkaradzic",
                 "repo": "bgfx",
-                "stars": 17486,
+                "stars": 17490,
                 "topics": [
                   "d3d11",
                   "d3d12",
@@ -3513,7 +3435,7 @@
                 "open_issues": 76,
                 "owner": "mosra",
                 "repo": "magnum",
-                "stars": 5208,
+                "stars": 5209,
                 "topics": [
                   "3d",
                   "android",
@@ -3576,7 +3498,7 @@
                 "open_issues": 120,
                 "owner": "dfranx",
                 "repo": "SHADERed",
-                "stars": 4796,
+                "stars": 4798,
                 "topics": [
                   "debugger",
                   "game-development",
@@ -3631,7 +3553,7 @@
                 "open_issues": 20,
                 "owner": "patriciogonzalezvivo",
                 "repo": "lygia",
-                "stars": 3433,
+                "stars": 3434,
                 "topics": [
                   "cuda",
                   "directx",
@@ -3666,7 +3588,7 @@
                 "open_issues": 8,
                 "owner": "FreyaHolmer",
                 "repo": "ShaderForge",
-                "stars": 2785,
+                "stars": 2786,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -4709,7 +4631,7 @@
       "title": "Lighting, Rendering & Shaders"
     },
     {
-      "description": "VFX tools learning, compositing, virtual production stacks, and tech art channels. Software tables live in §12.",
+      "description": "VFX tools learning, compositing, virtual production stacks, and tech art channels. Software tables are under Software Reference.",
       "items": [
         {
           "children": [
@@ -4793,7 +4715,7 @@
             {
               "node_type": "item",
               "title": "ButtleOFX",
-              "description": "Simple open-source node-based compositing software.  Open Source",
+              "description": "Simple open-source node-based compositing software.  Open source",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4820,7 +4742,7 @@
       "title": "VFX, Compositing & Virtual Production"
     },
     {
-      "description": "Motion graphics tools, inspiration, AE / Fusion learning, and video editing. Stock footage lives in §1 Assets.",
+      "description": "Motion graphics tools, inspiration, AE / Fusion learning, and video editing. Stock footage is under Assets & Libraries.",
       "items": [
         {
           "children": [
@@ -4921,7 +4843,7 @@
                 "open_issues": 9,
                 "owner": "aagentah",
                 "repo": "nw_wrld",
-                "stars": 2153,
+                "stars": 2154,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -4936,7 +4858,7 @@
             {
               "node_type": "item",
               "title": "Aseprite",
-              "description": "Pixel art editor with animation tools (source on GitHub).  Open Source Pixel Art · Sprite Animation Pixel art, sprite animation, game assets",
+              "description": "Pixel art editor with animation tools (source on GitHub).  Open source Pixel Art · Sprite Animation Pixel art, sprite animation, game assets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4949,7 +4871,7 @@
                 "open_issues": 2005,
                 "owner": "aseprite",
                 "repo": "aseprite",
-                "stars": 39461,
+                "stars": 39492,
                 "topics": [
                   "animated-sprites",
                   "animation",
@@ -4973,7 +4895,7 @@
             {
               "node_type": "item",
               "title": "Pixen (GitHub)",
-              "description": "Pixel Art Editor for OSX  Open Source",
+              "description": "Pixel Art Editor for OSX  Open source",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5000,7 +4922,7 @@
             {
               "node_type": "item",
               "title": "OBS",
-              "description": "Software designed for capturing, compositing, encoding, recording, and streaming video content efficiently.  Open Source Capture · Open Source Screen capture and streaming",
+              "description": "Software designed for capturing, compositing, encoding, recording, and streaming video content efficiently.  Open source Capture · Open Source Screen capture and streaming",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5013,7 +4935,7 @@
                 "open_issues": 1142,
                 "owner": "obsproject",
                 "repo": "obs-studio",
-                "stars": 76240,
+                "stars": 76278,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -5033,7 +4955,7 @@
             {
               "node_type": "item",
               "title": "OpenShot",
-              "description": "Award-winning free and open-source video editor for Linux, Mac, and Windows.  Open Source Open Source · Beginner-Friendly Cross-platform beginner editing",
+              "description": "Award-winning free and open-source video editor for Linux, Mac, and Windows.  Open source Open Source · Beginner-Friendly Cross-platform beginner editing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5042,11 +4964,11 @@
                 "id": 36648301,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T04:27:30Z",
-                "open_issues": 423,
+                "last_commit": "2026-09-15T21:15:28Z",
+                "open_issues": 424,
                 "owner": "OpenShot",
                 "repo": "openshot-qt",
-                "stars": 6499,
+                "stars": 6505,
                 "topics": [
                   "c-plus-plus",
                   "ffmpeg",
@@ -5064,7 +4986,7 @@
             {
               "node_type": "item",
               "title": "SoundThread",
-              "description": "Node-based patching front end for the Composers Desktop Project sound manipulation tools.  Open Source Node-Based · CDP Front End Experimental spectral sound design",
+              "description": "Node-based patching front end for the Composers Desktop Project sound manipulation tools.  Open source Node-Based · CDP Front End Experimental spectral sound design",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5073,11 +4995,11 @@
                 "id": 978434184,
                 "language": "GDScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T01:26:06Z",
+                "last_commit": "2026-09-16T13:11:40Z",
                 "open_issues": 61,
                 "owner": "j-p-higgins",
                 "repo": "SoundThread",
-                "stars": 3117,
+                "stars": 3116,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -5091,7 +5013,7 @@
       "title": "Motion Graphics & Video"
     },
     {
-      "description": "Engines, per-engine resources, game dev tools, game assets (dual-listed from §1), design theory, learning, communities, and jams. Engine software tables live in §12.",
+      "description": "Engines, per-engine resources, game dev tools, game assets (also under Assets & Libraries), design theory, learning, communities, and jams. Engine software tables are under Software Reference.",
       "items": [
         {
           "children": [
@@ -5108,10 +5030,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-09-15T10:49:00Z",
-                "open_issues": 6472,
+                "open_issues": 6475,
                 "owner": "godotengine",
                 "repo": "godot-proposals",
-                "stars": 1443,
+                "stars": 1444,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -5167,10 +5089,10 @@
                 "language": "reStructuredText",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-12T03:26:00Z",
-                "open_issues": 1134,
+                "open_issues": 1137,
                 "owner": "godotengine",
                 "repo": "godot-docs",
-                "stars": 5728,
+                "stars": 5734,
                 "topics": [
                   "docs",
                   "documentation",
@@ -5201,7 +5123,7 @@
                 "open_issues": 0,
                 "owner": "GodotSteam",
                 "repo": "GodotSteam",
-                "stars": 3747,
+                "stars": 3748,
                 "topics": [
                   "game-development",
                   "gamedev",
@@ -5230,7 +5152,7 @@
                 "open_issues": 67,
                 "owner": "ramokz",
                 "repo": "phantom-camera",
-                "stars": 3559,
+                "stars": 3562,
                 "topics": [
                   "addon",
                   "camera",
@@ -5313,7 +5235,7 @@
                 "open_issues": 16,
                 "owner": "SirRamEsq",
                 "repo": "SmartShape2D",
-                "stars": 1748,
+                "stars": 1749,
                 "topics": [
                   "godot",
                   "plugin"
@@ -5391,7 +5313,7 @@
                 "open_issues": 384,
                 "owner": "BepInEx",
                 "repo": "BepInEx",
-                "stars": 8646,
+                "stars": 8651,
                 "topics": [
                   "bepinex",
                   "framework",
@@ -5426,7 +5348,7 @@
                 "open_issues": 11,
                 "owner": "EllanJiang",
                 "repo": "GameFramework",
-                "stars": 6873,
+                "stars": 6876,
                 "topics": [
                   "game-development",
                   "game-frameworks",
@@ -5453,7 +5375,7 @@
                 "open_issues": 148,
                 "owner": "MessagePack-CSharp",
                 "repo": "MessagePack-CSharp",
-                "stars": 6779,
+                "stars": 6781,
                 "topics": [
                   "c-sharp",
                   "lz4",
@@ -5479,11 +5401,11 @@
                 "id": 8302181,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-14T14:26:00Z",
-                "open_issues": 80,
+                "last_commit": "2026-09-16T00:14:28Z",
+                "open_issues": 81,
                 "owner": "EsotericSoftware",
                 "repo": "spine-runtimes",
-                "stars": 5292,
+                "stars": 5294,
                 "topics": [
                   "2d",
                   "animations",
@@ -5512,7 +5434,7 @@
                 "open_issues": 5,
                 "owner": "Cysharp",
                 "repo": "ZLinq",
-                "stars": 5265,
+                "stars": 5266,
                 "topics": [
                   "c-sharp",
                   "linq",
@@ -5533,7 +5455,7 @@
                 "id": 107134451,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-15T10:56:27Z",
+                "last_commit": "2026-09-15T17:47:57Z",
                 "open_issues": 127,
                 "owner": "dbrizov",
                 "repo": "NaughtyAttributes",
@@ -5565,7 +5487,7 @@
                 "open_issues": 20,
                 "owner": "keenanwoodall",
                 "repo": "Deform",
-                "stars": 3683,
+                "stars": 3685,
                 "topics": [
                   "animation",
                   "deformers",
@@ -5622,7 +5544,7 @@
                 "open_issues": 442,
                 "owner": "gree",
                 "repo": "unity-webview",
-                "stars": 2661,
+                "stars": 2662,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -5665,8 +5587,8 @@
                 "id": 116385203,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T07:17:40Z",
-                "open_issues": 60,
+                "last_commit": "2026-09-16T12:20:06Z",
+                "open_issues": 63,
                 "owner": "Unity-Technologies",
                 "repo": "com.unity.netcode.gameobjects",
                 "stars": 2323,
@@ -5702,7 +5624,7 @@
                 "open_issues": 10,
                 "owner": "DavidArayan",
                 "repo": "ezy-slice",
-                "stars": 2270,
+                "stars": 2271,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -5795,7 +5717,7 @@
                 "open_issues": 12,
                 "owner": "Whinarn",
                 "repo": "UnityMeshSimplifier",
-                "stars": 2048,
+                "stars": 2050,
                 "topics": [
                   "csharp",
                   "mesh-decimation",
@@ -5892,8 +5814,8 @@
                 "id": 14933768,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T10:59:58Z",
-                "open_issues": 162,
+                "last_commit": "2026-09-16T05:53:22Z",
+                "open_issues": 155,
                 "owner": "googleads",
                 "repo": "googleads-mobile-unity",
                 "stars": 1548,
@@ -5922,7 +5844,7 @@
                 "open_issues": 1,
                 "owner": "elringus",
                 "repo": "sprite-dicing",
-                "stars": 1529,
+                "stars": 1530,
                 "topics": [
                   "atlas",
                   "cli",
@@ -6106,7 +6028,7 @@
                 "id": 42181594,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T12:29:56Z",
+                "last_commit": "2026-09-16T09:53:00Z",
                 "open_issues": 294,
                 "owner": "JetBrains",
                 "repo": "resharper-unity",
@@ -6140,7 +6062,7 @@
                 "open_issues": 12,
                 "owner": "ashblue",
                 "repo": "fluid-behavior-tree",
-                "stars": 1182,
+                "stars": 1183,
                 "topics": [
                   "ai",
                   "behavior-tree",
@@ -6214,7 +6136,7 @@
                 "open_issues": 9,
                 "owner": "ManlyMarco",
                 "repo": "RuntimeUnityEditor",
-                "stars": 1116,
+                "stars": 1117,
                 "topics": [
                   "bepinex",
                   "debugging-tool",
@@ -6241,7 +6163,7 @@
                 "open_issues": 17,
                 "owner": "prime31",
                 "repo": "CharacterController2D",
-                "stars": 1111,
+                "stars": 1112,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -6404,7 +6326,7 @@
                 "open_issues": 2,
                 "owner": "Unity-Technologies",
                 "repo": "2d-techdemos",
-                "stars": 1015,
+                "stars": 1014,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -7523,27 +7445,6 @@
             },
             {
               "node_type": "item",
-              "title": "Google Analytics Plugin for Unity",
-              "description": ". Google Analytics plugin for Unity.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Google Analytics plugin for the Unity game creation system",
-                "homepage": null,
-                "id": 22615249,
-                "language": "C#",
-                "license": "Apache-2.0",
-                "last_commit": "2024-03-14T06:03:42Z",
-                "open_issues": 135,
-                "owner": "googleanalytics",
-                "repo": "google-analytics-plugin-for-unity",
-                "stars": 401,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:20:20.334Z"
-            },
-            {
-              "node_type": "item",
               "title": "CosineGradient",
               "description": ". Cosine gradient generator for Unity.",
               "children": [],
@@ -7568,6 +7469,27 @@
             },
             {
               "node_type": "item",
+              "title": "Google Analytics Plugin for Unity",
+              "description": ". Google Analytics plugin for Unity.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "Google Analytics plugin for the Unity game creation system",
+                "homepage": null,
+                "id": 22615249,
+                "language": "C#",
+                "license": "Apache-2.0",
+                "last_commit": "2024-03-14T06:03:42Z",
+                "open_issues": 135,
+                "owner": "googleanalytics",
+                "repo": "google-analytics-plugin-for-unity",
+                "stars": 400,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:20:20.334Z"
+            },
+            {
+              "node_type": "item",
               "title": "NVIDIA Hair Works Integration",
               "description": ". NVIDIA HairWorks hair simulation integration for Unity.",
               "children": [],
@@ -7582,7 +7504,7 @@
                 "open_issues": 6,
                 "owner": "unity3d-jp",
                 "repo": "NVIDIAHairWorksIntegration",
-                "stars": 395,
+                "stars": 394,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -8597,6 +8519,27 @@
             },
             {
               "node_type": "item",
+              "title": "Gamekit3D",
+              "description": ". Official Unity 3D game kit sample project from Unity Technologies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 133367018,
+                "language": "C#",
+                "license": null,
+                "last_commit": "2026-09-07T02:56:46Z",
+                "open_issues": 9,
+                "owner": "Unity-Technologies",
+                "repo": "Gamekit3D",
+                "stars": 231,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:20:20.334Z"
+            },
+            {
+              "node_type": "item",
               "title": "Autoya",
               "description": ". Thin application framework for Unity.",
               "children": [],
@@ -8653,27 +8596,6 @@
                   "unity",
                   "unity3d"
                 ]
-              },
-              "first_seen": "2026-08-28T20:20:20.334Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Gamekit3D",
-              "description": ". Official Unity 3D game kit sample project from Unity Technologies.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 133367018,
-                "language": "C#",
-                "license": null,
-                "last_commit": "2026-09-07T02:56:46Z",
-                "open_issues": 9,
-                "owner": "Unity-Technologies",
-                "repo": "Gamekit3D",
-                "stars": 230,
-                "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
             },
@@ -10496,8 +10418,8 @@
                 "id": 77306253,
                 "language": "C#",
                 "license": null,
-                "last_commit": "2023-03-18T23:32:21Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-16T11:38:56Z",
+                "open_issues": 3,
                 "owner": "comoc",
                 "repo": "UnityAbletonLink",
                 "stars": 102,
@@ -15103,8 +15025,8 @@
                 "id": 313492009,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-15T05:03:06Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-16T08:22:13Z",
+                "open_issues": 10,
                 "owner": "ReactVision",
                 "repo": "virocore",
                 "stars": 72,
@@ -15203,7 +15125,7 @@
                 "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6306,
+                "stars": 6310,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -15328,7 +15250,7 @@
                 "open_issues": 7,
                 "owner": "pafuhana1213",
                 "repo": "KawaiiPhysics",
-                "stars": 3299,
+                "stars": 3300,
                 "topics": [
                   "ue4",
                   "ue4-plugin",
@@ -15378,7 +15300,7 @@
                 "open_issues": 18,
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
-                "stars": 2673,
+                "stars": 2674,
                 "topics": [
                   "advanced-locomotion-system",
                   "als",
@@ -15545,7 +15467,7 @@
                 "open_issues": 16,
                 "owner": "TriAxis-Games",
                 "repo": "RealtimeMeshComponent",
-                "stars": 1757,
+                "stars": 1758,
                 "topics": [
                   "procedural-generation",
                   "runtime",
@@ -15575,7 +15497,7 @@
                 "open_issues": 16,
                 "owner": "TriAxis-Games",
                 "repo": "RealtimeMeshComponent",
-                "stars": 1757,
+                "stars": 1758,
                 "topics": [
                   "procedural-generation",
                   "runtime",
@@ -15670,7 +15592,7 @@
                 "open_issues": 3,
                 "owner": "Sixze",
                 "repo": "ALS-Refactored",
-                "stars": 1476,
+                "stars": 1477,
                 "topics": [
                   "advanced-locomotion-system",
                   "animation",
@@ -15748,7 +15670,7 @@
                 "open_issues": 208,
                 "owner": "CesiumGS",
                 "repo": "cesium-unreal",
-                "stars": 1237,
+                "stars": 1239,
                 "topics": [
                   "3dtiles",
                   "cesium",
@@ -15804,7 +15726,7 @@
                 "open_issues": 15,
                 "owner": "PolygonHive",
                 "repo": "GASPALS",
-                "stars": 1188,
+                "stars": 1189,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -16283,7 +16205,7 @@
                 "open_issues": 46,
                 "owner": "proletariatgames",
                 "repo": "unreal.hx",
-                "stars": 429,
+                "stars": 430,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -16329,7 +16251,7 @@
                 "open_issues": 11,
                 "owner": "pdlogingithub",
                 "repo": "UE4-Node-Graph-Assistant",
-                "stars": 418,
+                "stars": 417,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -17449,7 +17371,7 @@
                 "id": 399311748,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-08-18T06:42:41Z",
+                "last_commit": "2026-09-16T03:22:20Z",
                 "open_issues": 0,
                 "owner": "modio",
                 "repo": "modio-ue",
@@ -18098,7 +18020,7 @@
                 "open_issues": 0,
                 "owner": "BitReign",
                 "repo": "CensoredUE4",
-                "stars": 69,
+                "stars": 70,
                 "topics": [
                   "blueprint",
                   "game-dev",
@@ -18289,7 +18211,7 @@
                 "open_issues": 1,
                 "owner": "BwdYeti",
                 "repo": "GGPOUE",
-                "stars": 55,
+                "stars": 56,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -19222,7 +19144,7 @@
                 "open_issues": 13,
                 "owner": "inkle",
                 "repo": "ink-unity-integration",
-                "stars": 716,
+                "stars": 717,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -19271,7 +19193,7 @@
                 "open_issues": 67,
                 "owner": "MirrorNetworking",
                 "repo": "Mirror",
-                "stars": 6329,
+                "stars": 6331,
                 "topics": [
                   "games",
                   "hlapi",
@@ -19469,7 +19391,7 @@
             {
               "node_type": "item",
               "title": "Pixen (GitHub)",
-              "description": "Pixel Art Editor for OSXSee also: Software Reference → 2D & Animation Software  Open Source",
+              "description": "Pixel Art Editor for OSXSee also: Software Reference → 2D & Animation Software  Open source",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -19509,7 +19431,7 @@
                 "open_issues": 337,
                 "owner": "libgdx",
                 "repo": "libgdx",
-                "stars": 25394,
+                "stars": 25399,
                 "topics": [
                   "2d",
                   "3d",
@@ -19562,7 +19484,7 @@
             {
               "node_type": "item",
               "title": "GlueIT",
-              "description": ". Free Simple Spritesheet Tool",
+              "description": "License unspecified. Free Simple Spritesheet Tool",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -19723,7 +19645,7 @@
                 "open_issues": 9,
                 "owner": "mxgmn",
                 "repo": "WaveFunctionCollapse",
-                "stars": 25327,
+                "stars": 25332,
                 "topics": [
                   "algorithm",
                   "csharp",
@@ -19751,7 +19673,7 @@
                 "open_issues": 29,
                 "owner": "Auburn",
                 "repo": "FastNoiseLite",
-                "stars": 3506,
+                "stars": 3509,
                 "topics": [
                   "cellular-noise",
                   "cubic-noise",
@@ -19815,7 +19737,7 @@
                 "id": 613697580,
                 "language": "C#",
                 "license": "Zlib",
-                "last_commit": "2026-09-07T16:00:12Z",
+                "last_commit": "2026-09-15T15:27:15Z",
                 "open_issues": 18,
                 "owner": "ikpil",
                 "repo": "DotRecast",
@@ -19860,11 +19782,11 @@
                 "id": 395341383,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-12T13:44:58Z",
-                "open_issues": 14,
+                "last_commit": "2026-09-15T20:06:02Z",
+                "open_issues": 12,
                 "owner": "jrouwe",
                 "repo": "JoltPhysics",
-                "stars": 11546,
+                "stars": 11550,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -19916,7 +19838,7 @@
                 "open_issues": 8,
                 "owner": "ikpil",
                 "repo": "Box2D.NET",
-                "stars": 209,
+                "stars": 212,
                 "topics": [
                   "2d",
                   "2d-game",
@@ -19974,7 +19896,7 @@
             {
               "node_type": "item",
               "title": "Open 3D Engine (O3ED)",
-              "description": "Successor to Amazon Lumberyard, an open-source, real-time, multi-platform 3D engine to build AAA games Open Source",
+              "description": "Successor to Amazon Lumberyard, an open-source, real-time, multi-platform 3D engine to build AAA games Open source",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -19983,11 +19905,11 @@
                 "id": 354743391,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-14T21:07:32Z",
-                "open_issues": 3490,
+                "last_commit": "2026-09-16T07:08:49Z",
+                "open_issues": 3489,
                 "owner": "o3de",
                 "repo": "o3de",
-                "stars": 9685,
+                "stars": 9689,
                 "topics": [
                   "3d-graphics",
                   "3d-graphics-engine",
@@ -20033,7 +19955,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-07-03T11:59:59Z",
-                "open_issues": 40,
+                "open_issues": 41,
                 "owner": "friflo",
                 "repo": "Friflo.Engine.ECS",
                 "stars": 772,
@@ -20153,7 +20075,7 @@
             {
               "node_type": "item",
               "title": "axys",
-              "description": "A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17. Open Source",
+              "description": "A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17. Open source",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -20162,11 +20084,11 @@
                 "id": 223598953,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T13:35:04Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-16T05:17:11Z",
+                "open_issues": 10,
                 "owner": "axmolengine",
                 "repo": "axmol",
-                "stars": 1456,
+                "stars": 1457,
                 "topics": [
                   "axmol",
                   "axmolengine",
@@ -20189,7 +20111,7 @@
             {
               "node_type": "item",
               "title": "Blitz3D",
-              "description": "3D BASIC-like programming language for fast 3D desktop games. Open Source BASIC · Legacy BASIC 3D desktop games",
+              "description": "3D BASIC-like programming language for fast 3D desktop games. Open source BASIC · Legacy BASIC 3D desktop games",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -20210,7 +20132,7 @@
             {
               "node_type": "item",
               "title": "Dash",
-              "description": "A free and open 3D game engine written in D. Open Source D Language · Niche D-language 3D",
+              "description": "A free and open 3D game engine written in D. Open source D Language · Niche D-language 3D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -20235,7 +20157,7 @@
             {
               "node_type": "item",
               "title": "Diligent Engine",
-              "description": "Modern cross-platform low-level graphics library supporting D3D11/12, OpenGL/GLES, and Vulkan. Open Source Low-Level · Multi-API Low-level cross-API graphics",
+              "description": "Modern cross-platform low-level graphics library supporting D3D11/12, OpenGL/GLES, and Vulkan. Open source Low-Level · Multi-API Low-level cross-API graphics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -20244,11 +20166,11 @@
                 "id": 44292772,
                 "language": "Batchfile",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T07:17:36Z",
+                "last_commit": "2026-09-15T14:41:03Z",
                 "open_issues": 24,
                 "owner": "DiligentGraphics",
                 "repo": "DiligentEngine",
-                "stars": 4436,
+                "stars": 4437,
                 "topics": [
                   "3d-engine",
                   "d3d11",
@@ -20277,7 +20199,7 @@
             {
               "node_type": "item",
               "title": "Folded Paper Engine",
-              "description": "Blender-to-Godot game mechanics engine/plugins. 2.5D/FPS/TPS controls, triggers, inventory, holdable items. Open Source Blender-to-Godot · No-Code Blender-Godot mechanics",
+              "description": "Blender-to-Godot game mechanics engine/plugins. 2.5D/FPS/TPS controls, triggers, inventory, holdable items. Open source Blender-to-Godot · No-Code Blender-Godot mechanics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -20313,7 +20235,7 @@
             {
               "node_type": "item",
               "title": "Fusee",
-              "description": "A multiplatform 3D C# real-time engine with strong emphasis on content transformation. Open Source C# · Multiplatform C# multiplatform 3D",
+              "description": "A multiplatform 3D C# real-time engine with strong emphasis on content transformation. Open source C# · Multiplatform C# multiplatform 3D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -20347,7 +20269,7 @@
             {
               "node_type": "item",
               "title": "Harfang 3D",
-              "description": "C++ 3D visualization library usable in Python, Lua, and Go. Open Source C++ · Visualization 3D visualization",
+              "description": "C++ 3D visualization library usable in Python, Lua, and Go. Open source C++ · Visualization 3D visualization",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -20384,7 +20306,7 @@
             {
               "node_type": "item",
               "title": "Juno",
-              "description": "Framework for making 2D games with chunky pixels in Lua. Open Source Lua · Pixel Art Pixel-art 2D in Lua",
+              "description": "Framework for making 2D games with chunky pixels in Lua. Open source Lua · Pixel Art Pixel-art 2D in Lua",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -20405,7 +20327,7 @@
             {
               "node_type": "item",
               "title": "LumixEngine",
-              "description": "3D game engine built on C++. Open Source C++ · Lightweight C++ 3D engine",
+              "description": "3D game engine built on C++. Open source C++ · Lightweight C++ 3D engine",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -20414,11 +20336,11 @@
                 "id": 14590125,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-14T22:16:59Z",
+                "last_commit": "2026-09-15T20:54:04Z",
                 "open_issues": 35,
                 "owner": "nem0",
                 "repo": "LumixEngine",
-                "stars": 3879,
+                "stars": 3881,
                 "topics": [
                   "3d-game-engine",
                   "data-oriented-design",
@@ -20435,7 +20357,7 @@
             {
               "node_type": "item",
               "title": "Lums",
-              "description": "2D/3D framework written in C++11. Efficient and modern. Heavy development. Open Source C++11 · WIP Modern C++11 framework",
+              "description": "2D/3D framework written in C++11. Efficient and modern. Heavy development. Open source C++11 · WIP Modern C++11 framework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -20456,7 +20378,7 @@
             {
               "node_type": "item",
               "title": "Neo Axis Engine",
-              "description": "Integrated development environment with built-in 3D and 2D game engine. Open Source IDE-Integrated · C# Integrated 2D/3D IDE",
+              "description": "Integrated development environment with built-in 3D and 2D game engine. Open source IDE-Integrated · C# Integrated 2D/3D IDE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -20465,7 +20387,7 @@
                 "id": 274298106,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-13T12:41:27Z",
+                "last_commit": "2026-09-15T17:46:56Z",
                 "open_issues": 4,
                 "owner": "NeoAxis",
                 "repo": "NeoAxisEngine",
@@ -20490,7 +20412,7 @@
             {
               "node_type": "item",
               "title": "Overload",
-              "description": "3D game engine with editor. Open Source C++ · Editor 3D engine with editor",
+              "description": "3D game engine with editor. Open source C++ · Editor 3D engine with editor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -20528,7 +20450,7 @@
             {
               "node_type": "item",
               "title": "Pixel Vision 8",
-              "description": "Teaches retro game development with streamlined workflows. 8-bit fantasy console. Open Source Fantasy Console · 8-bit 8-bit fantasy console",
+              "description": "Teaches retro game development with streamlined workflows. 8-bit fantasy console. Open source Fantasy Console · 8-bit 8-bit fantasy console",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -20566,7 +20488,7 @@
             {
               "node_type": "item",
               "title": "Screen 13",
-              "description": "Easy-to-use Vulkan rendering engine with render graph for Rust. Open Source Rust · Vulkan Rust Vulkan rendering",
+              "description": "Easy-to-use Vulkan rendering engine with render graph for Rust. Open source Rust · Vulkan Rust Vulkan rendering",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -20595,7 +20517,7 @@
             {
               "node_type": "item",
               "title": "UPBGE (GitHub)",
-              "description": "Integrated game engine in Blender. Open Source Blender-Integrated · Python Blender-integrated game engine",
+              "description": "Integrated game engine in Blender. Open source Blender-Integrated · Python Blender-integrated game engine",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -20604,11 +20526,11 @@
                 "id": 46817566,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T09:58:39Z",
+                "last_commit": "2026-09-16T03:44:24Z",
                 "open_issues": 134,
                 "owner": "UPBGE",
                 "repo": "upbge",
-                "stars": 1811,
+                "stars": 1812,
                 "topics": [
                   "bge",
                   "blender",
@@ -20622,7 +20544,7 @@
             {
               "node_type": "item",
               "title": "UPBGE (site)",
-              "description": "Open-source 3D game engine forked from old Blender Game Engine, deployed with Blender itself. GitHub Open Source",
+              "description": "Open-source 3D game engine forked from old Blender Game Engine, deployed with Blender itself. GitHub Open source",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -20631,11 +20553,11 @@
                 "id": 46817566,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T09:58:39Z",
+                "last_commit": "2026-09-16T03:44:24Z",
                 "open_issues": 134,
                 "owner": "UPBGE",
                 "repo": "upbge",
-                "stars": 1811,
+                "stars": 1812,
                 "topics": [
                   "bge",
                   "blender",
@@ -20649,7 +20571,7 @@
             {
               "node_type": "item",
               "title": "Whitestorm.js (GitHub)",
-              "description": "3D JavaScript framework for building apps and games. Open Source JavaScript · Browser Browser 3D apps",
+              "description": "3D JavaScript framework for building apps and games. Open source JavaScript · Browser Browser 3D apps",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -20703,10 +20625,10 @@
                 "language": "Ruby",
                 "license": "CC0-1.0",
                 "last_commit": "2026-02-11T22:01:53Z",
-                "open_issues": 81,
+                "open_issues": 82,
                 "owner": "neutraltone",
                 "repo": "awesome-stock-resources",
-                "stars": 14540,
+                "stars": 14544,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -20810,7 +20732,7 @@
       "title": "Art, Design & Visual Storytelling"
     },
     {
-      "description": "Generative AI and ML tools across image, video, 3D, texture, audio. AI mocap lives in §3 (dual-listed).",
+      "description": "Generative AI and ML tools across image, video, 3D, texture, audio. AI motion capture is also under Animation & Rigging.",
       "items": [
         {
           "children": [
@@ -20830,7 +20752,7 @@
                 "open_issues": 3,
                 "owner": "aishwaryanr",
                 "repo": "awesome-generative-ai-guide",
-                "stars": 29424,
+                "stars": 29441,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -20860,7 +20782,7 @@
                 "open_issues": 21,
                 "owner": "timzhang642",
                 "repo": "3D-Machine-Learning",
-                "stars": 10199,
+                "stars": 10200,
                 "topics": [
                   "3d",
                   "3d-reconstruction",
@@ -20907,7 +20829,7 @@
             {
               "node_type": "item",
               "title": "Aga Miko/pixel Character Generator",
-              "description": "Generating retro pixel game characters with Generative Adversarial Networks. Dataset \"TinyHero\" included.See also: Software Reference → AI Image & Texture Generation Software Open Source",
+              "description": "Generating retro pixel game characters with Generative Adversarial Networks. Dataset \"TinyHero\" included.See also: Software Reference → AI Image & Texture Generation Software Open source",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -20934,7 +20856,7 @@
             {
               "node_type": "item",
               "title": "HunyuanDiT (Tencent)",
-              "description": "Open-source DiT-based, strong Chinese text.See also: Software Reference → AI Image & Texture Generation Software Open Source Tencent · DiT Chinese text rendering",
+              "description": "Open-source DiT-based, strong Chinese text.See also: Software Reference → AI Image & Texture Generation Software Open source Tencent · DiT Chinese text rendering",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -20955,7 +20877,7 @@
             {
               "node_type": "item",
               "title": "Kolors (Kuaishou)",
-              "description": "Open-source, bilingual Chinese/English.See also: Software Reference → AI Image & Texture Generation Software Open Source Open Source · Bilingual Bilingual open model",
+              "description": "Open-source, bilingual Chinese/English.See also: Software Reference → AI Image & Texture Generation Software Open source Open Source · Bilingual Bilingual open model",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -20983,7 +20905,7 @@
             {
               "node_type": "item",
               "title": "Cog Video X",
-              "description": "Tsinghua/Zhipu open-source, multiple sizes.See also: Software Reference → AI Video Generation Software Open Source Open Source · Tsinghua Research open-source video gen",
+              "description": "Tsinghua/Zhipu open-source, multiple sizes.See also: Software Reference → AI Video Generation Software Open source Open Source · Tsinghua Research open-source video gen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -20996,7 +20918,7 @@
                 "open_issues": 118,
                 "owner": "zai-org",
                 "repo": "CogVideo",
-                "stars": 13015,
+                "stars": 13019,
                 "topics": [
                   "cogvideox",
                   "image-to-video",
@@ -21011,7 +20933,7 @@
             {
               "node_type": "item",
               "title": "HunyuanVideo 1.5",
-              "description": "Open-source 8.3B params, runs on 14GB VRAM.See also: Software Reference → AI Video Generation Software Open Source Open Source · 14GB VRAM Self-hosted video gen",
+              "description": "Open-source 8.3B params, runs on 14GB VRAM.See also: Software Reference → AI Video Generation Software Open source Open Source · 14GB VRAM Self-hosted video gen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -21024,7 +20946,7 @@
                 "open_issues": 185,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanVideo",
-                "stars": 12526,
+                "stars": 12529,
                 "topics": [
                   "diffusion-models",
                   "diffusion-transformer",
@@ -21036,7 +20958,7 @@
             {
               "node_type": "item",
               "title": "LTX-2 (Lightricks)",
-              "description": "Fast open video model. LTX-2 Fast ranks top-3 in the arena.See also: Software Reference → AI Video Generation Software Open Source Open Source · Fast Fast open-source video gen",
+              "description": "Fast open video model. LTX-2 Fast ranks top-3 in the arena.See also: Software Reference → AI Video Generation Software Open source Open Source · Fast Fast open-source video gen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -21071,7 +20993,7 @@
             {
               "node_type": "item",
               "title": "3DTopia",
-              "description": "Open-source text-to-3D pipeline (coarse → refined).See also: Software Reference → AI 3D Generation Software Open Source Coarse→Refined · Open Source Text-to-3D open-source",
+              "description": "Open-source text-to-3D pipeline (coarse → refined).See also: Software Reference → AI 3D Generation Software Open source Coarse→Refined · Open Source Text-to-3D open-source",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -21092,7 +21014,7 @@
             {
               "node_type": "item",
               "title": "Ashawkey/stable Dreamfusion",
-              "description": "A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion. Open Source",
+              "description": "A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion. Open source",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -21105,7 +21027,7 @@
                 "open_issues": 197,
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8857,
+                "stars": 8858,
                 "topics": [
                   "dreamfusion",
                   "gui",
@@ -21120,7 +21042,7 @@
             {
               "node_type": "item",
               "title": "InstantMesh",
-              "description": "Fast single-image-to-3D reconstruction.See also: Software Reference → AI 3D Generation Software Open Source Fast · Image→3D Fast image→3D",
+              "description": "Fast single-image-to-3D reconstruction.See also: Software Reference → AI 3D Generation Software Open source Fast · Image→3D Fast image→3D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -21133,7 +21055,7 @@
                 "open_issues": 120,
                 "owner": "TencentARC",
                 "repo": "InstantMesh",
-                "stars": 4522,
+                "stars": 4525,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -21141,7 +21063,7 @@
             {
               "node_type": "item",
               "title": "TripoSR",
-              "description": "Tripo/Stability collab. Fast open-source image-to-3D.See also: Software Reference → AI 3D Generation Software Open Source Open Source · Fast Fast open-source image→3D",
+              "description": "Tripo/Stability collab. Fast open-source image-to-3D.See also: Software Reference → AI 3D Generation Software Open source Open Source · Fast Fast open-source image→3D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -21154,7 +21076,7 @@
                 "open_issues": 105,
                 "owner": "VAST-AI-Research",
                 "repo": "TripoSR",
-                "stars": 6957,
+                "stars": 6959,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -21162,7 +21084,7 @@
             {
               "node_type": "item",
               "title": "Unique3D",
-              "description": "High-quality mesh from single image (NeurIPS 2024).See also: Software Reference → AI 3D Generation Software Open Source Single-Image · NeurIPS Single-image open-source 3D",
+              "description": "High-quality mesh from single image (NeurIPS 2024).See also: Software Reference → AI 3D Generation Software Open source Single-Image · NeurIPS Single-image open-source 3D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -21187,7 +21109,7 @@
             {
               "node_type": "item",
               "title": "Wonder3D++",
-              "description": "Cross-domain diffusion, textured meshes in 2-3min.See also: Software Reference → AI 3D Generation Software Open Source Fast · Textured Mesh Fast textured mesh gen",
+              "description": "Cross-domain diffusion, textured meshes in 2-3min.See also: Software Reference → AI 3D Generation Software Open source Fast · Textured Mesh Fast textured mesh gen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -21200,7 +21122,7 @@
                 "open_issues": 158,
                 "owner": "xxlong0",
                 "repo": "Wonder3D",
-                "stars": 5428,
+                "stars": 5429,
                 "topics": [
                   "3d-aigc",
                   "3d-generation",
@@ -21226,7 +21148,7 @@
                 "open_issues": 193,
                 "owner": "threestudio-project",
                 "repo": "threestudio",
-                "stars": 7064,
+                "stars": 7066,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -21247,7 +21169,7 @@
                 "open_issues": 80,
                 "owner": "openai",
                 "repo": "point-e",
-                "stars": 6895,
+                "stars": 6894,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -21268,7 +21190,7 @@
                 "open_issues": 25,
                 "owner": "TencentARC",
                 "repo": "Pixal3D",
-                "stars": 2303,
+                "stars": 2308,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -21313,11 +21235,11 @@
                 "id": 631600154,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-13T11:01:28Z",
-                "open_issues": 470,
+                "last_commit": "2026-09-15T14:48:48Z",
+                "open_issues": 474,
                 "owner": "Comfy-Org",
                 "repo": "ComfyUI-Manager",
-                "stars": 16150,
+                "stars": 16160,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -21366,7 +21288,7 @@
                 "open_issues": 88,
                 "owner": "nikopueringer",
                 "repo": "CorridorKey",
-                "stars": 14678,
+                "stars": 14686,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -21387,7 +21309,7 @@
                 "open_issues": 124,
                 "owner": "PeterL1n",
                 "repo": "RobustVideoMatting",
-                "stars": 9522,
+                "stars": 9524,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -21410,11 +21332,11 @@
                 "id": 534330590,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2024-08-26T02:23:11Z",
-                "open_issues": 17,
+                "last_commit": "2026-09-15T14:52:55Z",
+                "open_issues": 15,
                 "owner": "carson-katri",
                 "repo": "dream-textures",
-                "stars": 8202,
+                "stars": 8203,
                 "topics": [
                   "ai",
                   "blender",
@@ -21465,11 +21387,11 @@
                 "id": 959123498,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T07:18:14Z",
-                "open_issues": 53,
+                "last_commit": "2026-09-16T12:08:04Z",
+                "open_issues": 52,
                 "owner": "IvanMurzak",
                 "repo": "Unity-MCP",
-                "stars": 4272,
+                "stars": 4278,
                 "topics": [
                   "ai",
                   "ai-integration",
@@ -21531,7 +21453,7 @@
                 "open_issues": 24,
                 "owner": "AIGODLIKE",
                 "repo": "ComfyUI-BlenderAI-node",
-                "stars": 1544,
+                "stars": 1546,
                 "topics": [
                   "ai",
                   "blender",
@@ -21556,7 +21478,7 @@
                 "open_issues": 10,
                 "owner": "hkchengrex",
                 "repo": "Tracking-Anything-with-DEVA",
-                "stars": 1512,
+                "stars": 1513,
                 "topics": [
                   "deep-learning",
                   "iccv2023",
@@ -21644,11 +21566,11 @@
                 "id": 1067483133,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-05T17:55:52Z",
+                "last_commit": "2026-09-15T22:53:02Z",
                 "open_issues": 6,
                 "owner": "Zarxrax",
                 "repo": "Sammie-Roto-2",
-                "stars": 369,
+                "stars": 372,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -21669,7 +21591,7 @@
                 "open_issues": 3,
                 "owner": "rafaelperez",
                 "repo": "RIFE-for-Nuke",
-                "stars": 105,
+                "stars": 106,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -21684,7 +21606,7 @@
             {
               "node_type": "item",
               "title": "DiffRhythm",
-              "description": "Open-source full-song gen with vocals from lyrics.See also: Software Reference → AI Audio & Music Generation Software Open Source Open Source · Lyrics→Song Open-source song gen with vocals",
+              "description": "Open-source full-song gen with vocals from lyrics.See also: Software Reference → AI Audio & Music Generation Software Open source Open Source · Lyrics→Song Open-source song gen with vocals",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -21697,7 +21619,7 @@
                 "open_issues": 59,
                 "owner": "ASLP-lab",
                 "repo": "DiffRhythm",
-                "stars": 2344,
+                "stars": 2345,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -21705,7 +21627,7 @@
             {
               "node_type": "item",
               "title": "F5 TTS",
-              "description": "Open-source zero-shot voice cloning TTS.See also: Software Reference → AI Audio & Music Generation Software Open Source Zero-Shot · Voice Clone Zero-shot voice cloning",
+              "description": "Open-source zero-shot voice cloning TTS.See also: Software Reference → AI Audio & Music Generation Software Open source Zero-Shot · Voice Clone Zero-shot voice cloning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -21718,7 +21640,7 @@
                 "open_issues": 62,
                 "owner": "SWivid",
                 "repo": "F5-TTS",
-                "stars": 15236,
+                "stars": 15237,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -21746,7 +21668,7 @@
                 "open_issues": 359,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15198,
+                "stars": 15199,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -21767,7 +21689,7 @@
                 "open_issues": 122,
                 "owner": "bmild",
                 "repo": "nerf",
-                "stars": 10933,
+                "stars": 10934,
                 "topics": [
                   "nerf",
                   "neural-radiance-fields"
@@ -21791,7 +21713,7 @@
                 "open_issues": 197,
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8857,
+                "stars": 8858,
                 "topics": [
                   "dreamfusion",
                   "gui",
@@ -21819,7 +21741,7 @@
                 "open_issues": 158,
                 "owner": "xxlong0",
                 "repo": "Wonder3D",
-                "stars": 5428,
+                "stars": 5429,
                 "topics": [
                   "3d-aigc",
                   "3d-generation",
@@ -22088,7 +22010,7 @@
                 "open_issues": 54,
                 "owner": "chensjtu",
                 "repo": "GaussianObject",
-                "stars": 1186,
+                "stars": 1187,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -22206,7 +22128,7 @@
                 "open_issues": 6,
                 "owner": "zju3dv",
                 "repo": "neuralbody",
-                "stars": 953,
+                "stars": 952,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -22227,7 +22149,7 @@
                 "open_issues": 27,
                 "owner": "Kai-46",
                 "repo": "nerfplusplus",
-                "stars": 941,
+                "stars": 940,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -22296,7 +22218,7 @@
                 "open_issues": 19,
                 "owner": "rundiwu",
                 "repo": "DeepCAD",
-                "stars": 823,
+                "stars": 825,
                 "topics": [
                   "3d-shapes",
                   "computer-aided-design",
@@ -23993,7 +23915,7 @@
             {
               "node_type": "item",
               "title": "Aga Miko/pixel Character Generator",
-              "description": "Generating retro pixel game characters with Generative Adversarial Networks. Dataset \"TinyHero\" included. Open Source",
+              "description": "Generating retro pixel game characters with Generative Adversarial Networks. Dataset \"TinyHero\" included. Open source",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -24020,7 +23942,7 @@
             {
               "node_type": "item",
               "title": "HunyuanDiT (Tencent)",
-              "description": "Open-source DiT-based, strong Chinese text. Open Source Tencent · DiT Chinese text rendering",
+              "description": "Open-source DiT-based, strong Chinese text. Open source Tencent · DiT Chinese text rendering",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -24041,7 +23963,7 @@
             {
               "node_type": "item",
               "title": "Kolors (Kuaishou)",
-              "description": "Open-source, bilingual Chinese/English. Open Source Open Source · Bilingual Bilingual open model",
+              "description": "Open-source, bilingual Chinese/English. Open source Open Source · Bilingual Bilingual open model",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -24062,7 +23984,7 @@
             {
               "node_type": "item",
               "title": "Cog Video X",
-              "description": "Tsinghua/Zhipu open-source, multiple sizes. Open Source Open Source · Tsinghua Research open-source video gen",
+              "description": "Tsinghua/Zhipu open-source, multiple sizes. Open source Open Source · Tsinghua Research open-source video gen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -24075,7 +23997,7 @@
                 "open_issues": 118,
                 "owner": "zai-org",
                 "repo": "CogVideo",
-                "stars": 13015,
+                "stars": 13019,
                 "topics": [
                   "cogvideox",
                   "image-to-video",
@@ -24090,7 +24012,7 @@
             {
               "node_type": "item",
               "title": "HunyuanVideo 1.5",
-              "description": "Open-source 8.3B params, runs on 14GB VRAM. Open Source Open Source · 14GB VRAM Self-hosted video gen",
+              "description": "Open-source 8.3B params, runs on 14GB VRAM. Open source Open Source · 14GB VRAM Self-hosted video gen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -24103,7 +24025,7 @@
                 "open_issues": 185,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanVideo",
-                "stars": 12526,
+                "stars": 12529,
                 "topics": [
                   "diffusion-models",
                   "diffusion-transformer",
@@ -24115,7 +24037,7 @@
             {
               "node_type": "item",
               "title": "LTX-2 (Lightricks)",
-              "description": "Fast open video model. LTX-2 Fast ranks top-3 in the arena. Open Source Open Source · Fast Fast open-source video gen",
+              "description": "Fast open video model. LTX-2 Fast ranks top-3 in the arena. Open source Open Source · Fast Fast open-source video gen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -24143,7 +24065,7 @@
             {
               "node_type": "item",
               "title": "3DTopia",
-              "description": "Open-source text-to-3D pipeline (coarse → refined). Open Source Coarse→Refined · Open Source Text-to-3D open-source",
+              "description": "Open-source text-to-3D pipeline (coarse → refined). Open source Coarse→Refined · Open Source Text-to-3D open-source",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -24164,7 +24086,7 @@
             {
               "node_type": "item",
               "title": "InstantMesh",
-              "description": "Fast single-image-to-3D reconstruction. Open Source Fast · Image→3D Fast image→3D",
+              "description": "Fast single-image-to-3D reconstruction. Open source Fast · Image→3D Fast image→3D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -24177,7 +24099,7 @@
                 "open_issues": 120,
                 "owner": "TencentARC",
                 "repo": "InstantMesh",
-                "stars": 4522,
+                "stars": 4525,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -24185,7 +24107,7 @@
             {
               "node_type": "item",
               "title": "TripoSR",
-              "description": "Tripo/Stability collab. Fast open-source image-to-3D. Open Source Open Source · Fast Fast open-source image→3D",
+              "description": "Tripo/Stability collab. Fast open-source image-to-3D. Open source Open Source · Fast Fast open-source image→3D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -24198,7 +24120,7 @@
                 "open_issues": 105,
                 "owner": "VAST-AI-Research",
                 "repo": "TripoSR",
-                "stars": 6957,
+                "stars": 6959,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -24206,7 +24128,7 @@
             {
               "node_type": "item",
               "title": "Unique3D",
-              "description": "High-quality mesh from single image (NeurIPS 2024). Open Source Single-Image · NeurIPS Single-image open-source 3D",
+              "description": "High-quality mesh from single image (NeurIPS 2024). Open source Single-Image · NeurIPS Single-image open-source 3D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -24231,7 +24153,7 @@
             {
               "node_type": "item",
               "title": "Wonder3D++",
-              "description": "Cross-domain diffusion, textured meshes in 2-3min. Open Source Fast · Textured Mesh Fast textured mesh gen",
+              "description": "Cross-domain diffusion, textured meshes in 2-3min. Open source Fast · Textured Mesh Fast textured mesh gen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -24244,7 +24166,7 @@
                 "open_issues": 158,
                 "owner": "xxlong0",
                 "repo": "Wonder3D",
-                "stars": 5428,
+                "stars": 5429,
                 "topics": [
                   "3d-aigc",
                   "3d-generation",
@@ -24257,7 +24179,7 @@
             {
               "node_type": "item",
               "title": "DiffRhythm",
-              "description": "Open-source full-song gen with vocals from lyrics. Open Source Open Source · Lyrics→Song Open-source song gen with vocals",
+              "description": "Open-source full-song gen with vocals from lyrics. Open source Open Source · Lyrics→Song Open-source song gen with vocals",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -24270,7 +24192,7 @@
                 "open_issues": 59,
                 "owner": "ASLP-lab",
                 "repo": "DiffRhythm",
-                "stars": 2344,
+                "stars": 2345,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -24278,7 +24200,7 @@
             {
               "node_type": "item",
               "title": "F5 TTS",
-              "description": "Open-source zero-shot voice cloning TTS. Open Source Zero-Shot · Voice Clone Zero-shot voice cloning",
+              "description": "Open-source zero-shot voice cloning TTS. Open source Zero-Shot · Voice Clone Zero-shot voice cloning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -24291,7 +24213,7 @@
                 "open_issues": 62,
                 "owner": "SWivid",
                 "repo": "F5-TTS",
-                "stars": 15236,
+                "stars": 15237,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -24352,7 +24274,7 @@
                 "open_issues": 6,
                 "owner": "Activision",
                 "repo": "USDShellExtension",
-                "stars": 392,
+                "stars": 391,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -24527,7 +24449,7 @@
             {
               "node_type": "item",
               "title": "Gaffer (GafferHQ compositing)",
-              "description": "Gaffer is a great toolbox, it's a VFX application that enables look developers, lighters, and compositors to easily build, tweak, iterate, and render scenes.See also: Software Reference → Pipeline & Production Management Software Open Source Look Dev · Open Source Look dev / lighting / compositing",
+              "description": "Gaffer is a great toolbox, it's a VFX application that enables look developers, lighters, and compositors to easily build, tweak, iterate, and render scenes.See also: Software Reference → Pipeline & Production Management Software Open source Look Dev · Open Source Look dev / lighting / compositing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -24536,11 +24458,11 @@
                 "id": 9043124,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-15T03:40:54Z",
-                "open_issues": 363,
+                "last_commit": "2026-09-16T09:41:51Z",
+                "open_issues": 362,
                 "owner": "GafferHQ",
                 "repo": "gaffer",
-                "stars": 1092,
+                "stars": 1093,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -24548,7 +24470,7 @@
             {
               "node_type": "item",
               "title": "OpenTimelineIO (site)",
-              "description": "(repo) - Editorial timeline.See also: Software Reference → Pipeline & Production Management Software Open Source Editorial · Open Source Editorial timeline interchange",
+              "description": "(repo) - Editorial timeline.See also: Software Reference → Pipeline & Production Management Software Open source Editorial · Open Source Editorial timeline interchange",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -24561,7 +24483,7 @@
                 "open_issues": 215,
                 "owner": "AcademySoftwareFoundation",
                 "repo": "OpenTimelineIO",
-                "stars": 1981,
+                "stars": 1982,
                 "topics": [
                   "animation",
                   "cut",
@@ -24583,7 +24505,7 @@
             {
               "node_type": "item",
               "title": "Tik Manager (GitHub)",
-              "description": "Artist friendly asset and pipeline manager.See also: Software Reference → Pipeline & Production Management Software Open Source Pipeline · Open Source Asset/pipeline management for small teams",
+              "description": "Artist friendly asset and pipeline manager.See also: Software Reference → Pipeline & Production Management Software Open source Pipeline · Open Source Asset/pipeline management for small teams",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -24637,7 +24559,7 @@
                 "open_issues": 118,
                 "owner": "DLR-RM",
                 "repo": "BlenderProc",
-                "stars": 3712,
+                "stars": 3713,
                 "topics": [
                   "3d-engines",
                   "3d-front-dataset",
@@ -24710,8 +24632,8 @@
                 "id": 10654465,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T21:56:42Z",
-                "open_issues": 54,
+                "last_commit": "2026-09-15T14:02:50Z",
+                "open_issues": 55,
                 "owner": "ImageEngine",
                 "repo": "cortex",
                 "stars": 566,
@@ -25105,7 +25027,7 @@
                 "open_issues": 714,
                 "owner": "graphdeco-inria",
                 "repo": "gaussian-splatting",
-                "stars": 23862,
+                "stars": 23883,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -25126,11 +25048,11 @@
                 "id": 762378215,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T00:00:01Z",
+                "last_commit": "2026-09-15T21:55:59Z",
                 "open_issues": 52,
                 "owner": "ArthurBrussee",
                 "repo": "brush",
-                "stars": 5092,
+                "stars": 5097,
                 "topics": [
                   "gaussian-splatting",
                   "graphics",
@@ -25155,7 +25077,7 @@
                 "open_issues": 135,
                 "owner": "hustvl",
                 "repo": "4DGaussians",
-                "stars": 3929,
+                "stars": 3931,
                 "topics": [
                   "3d",
                   "computer-vision",
@@ -25183,11 +25105,11 @@
                 "id": 672651553,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-15T13:36:52Z",
-                "open_issues": 210,
+                "last_commit": "2026-09-16T11:58:55Z",
+                "open_issues": 211,
                 "owner": "MrNeRF",
                 "repo": "LichtFeld-Studio",
-                "stars": 3696,
+                "stars": 3699,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -25244,7 +25166,7 @@
                 "open_issues": 24,
                 "owner": "mega-sam",
                 "repo": "mega-sam",
-                "stars": 1365,
+                "stars": 1364,
                 "topics": [
                   "pose-estimation",
                   "video-depth"
@@ -25468,11 +25390,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T13:04:33Z",
+                "last_commit": "2026-09-15T17:14:49Z",
                 "open_issues": 1994,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38768,
+                "stars": 38773,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -25493,11 +25415,11 @@
                 "id": 34405381,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T09:54:37Z",
+                "last_commit": "2026-09-15T14:32:30Z",
                 "open_issues": 520,
                 "owner": "alicevision",
                 "repo": "Meshroom",
-                "stars": 12962,
+                "stars": 12965,
                 "topics": [
                   "3d-reconstruction",
                   "alicevision",
@@ -25533,7 +25455,7 @@
                 "open_issues": 122,
                 "owner": "bmild",
                 "repo": "nerf",
-                "stars": 10933,
+                "stars": 10934,
                 "topics": [
                   "nerf",
                   "neural-radiance-fields"
@@ -25557,7 +25479,7 @@
                 "open_issues": 111,
                 "owner": "playcanvas",
                 "repo": "supersplat",
-                "stars": 10105,
+                "stars": 10172,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -25608,7 +25530,7 @@
                 "open_issues": 5,
                 "owner": "MrNeRF",
                 "repo": "awesome-3D-gaussian-splatting",
-                "stars": 8879,
+                "stars": 8882,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -25635,7 +25557,7 @@
                 "open_issues": 86,
                 "owner": "yenchenlin",
                 "repo": "nerf-pytorch",
-                "stars": 6050,
+                "stars": 6049,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -25656,7 +25578,7 @@
                 "open_issues": 366,
                 "owner": "nerfstudio-project",
                 "repo": "gsplat",
-                "stars": 5685,
+                "stars": 5688,
                 "topics": [
                   "gaussian-splatting"
                 ]
@@ -25751,7 +25673,7 @@
                 "open_issues": 127,
                 "owner": "nmwsharp",
                 "repo": "polyscope",
-                "stars": 2207,
+                "stars": 2208,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -25814,7 +25736,7 @@
                 "open_issues": 12,
                 "owner": "SBCV",
                 "repo": "Blender-Addon-Photogrammetry-Importer",
-                "stars": 1364,
+                "stars": 1366,
                 "topics": [
                   "agisoft-metashape",
                   "blender",
@@ -25848,7 +25770,7 @@
                 "open_issues": 32,
                 "owner": "yzslab",
                 "repo": "gaussian-splatting-lightning",
-                "stars": 1104,
+                "stars": 1106,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -25916,7 +25838,7 @@
                 "open_issues": 9,
                 "owner": "joeyan",
                 "repo": "gaussian_splatting",
-                "stars": 238,
+                "stars": 239,
                 "topics": [
                   "3d-reconstruction",
                   "gaussian-splatting",
@@ -26019,7 +25941,7 @@
             {
               "node_type": "item",
               "title": "AutoRemesher",
-              "description": "Open-source auto-retopology tool intended to convert source meshes into clean, animation-friendly all-quad geometry.See also: Software Reference → Retopology & UV Software  Open Source Free · Auto Retopo Auto-retopology",
+              "description": "Open-source auto-retopology tool intended to convert source meshes into clean, animation-friendly all-quad geometry.See also: Software Reference → Retopology & UV Software  Open source Free · Auto Retopo Auto-retopology",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -26032,7 +25954,7 @@
                 "open_issues": 35,
                 "owner": "huxingyi",
                 "repo": "autoremesher",
-                "stars": 3464,
+                "stars": 3469,
                 "topics": [
                   "quadremesh",
                   "retopology"
@@ -26043,7 +25965,7 @@
             {
               "node_type": "item",
               "title": "Instant Meshes",
-              "description": "Free, open-source auto-retopology.See also: Software Reference → Retopology & UV Software  Open Source Free · Auto Retopo Auto-retopology",
+              "description": "Free, open-source auto-retopology.See also: Software Reference → Retopology & UV Software  Open source Free · Auto Retopo Auto-retopology",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -26056,7 +25978,7 @@
                 "open_issues": 97,
                 "owner": "wjakob",
                 "repo": "instant-meshes",
-                "stars": 6217,
+                "stars": 6220,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:20.334Z"
@@ -26077,7 +25999,7 @@
                 "open_issues": 2,
                 "owner": "adriflex",
                 "repo": "autoremesher-blender-bridge",
-                "stars": 296,
+                "stars": 297,
                 "topics": [
                   "autoremesher",
                   "blender",
@@ -26111,7 +26033,7 @@
                 "open_issues": 132,
                 "owner": "zju3dv",
                 "repo": "EasyMocap",
-                "stars": 4861,
+                "stars": 4862,
                 "topics": [
                   "motion-capture"
                 ]
@@ -26255,615 +26177,13 @@
           "description": "Camera tracking, object tracking, and camera matching tools.\nRelated:",
           "node_type": "group",
           "title": "Matchmoving & Camera Tracking"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Gl Ch Ao S.P",
-              "description": "RealTime 3D Strange Attractors scout on GPU.See also: Software Reference → Misc 3D Utilities Software Open Source Strange Attractors · GPU",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "3D GPUs Strange Attractors and Hypercomplex Fractals explorer - up to 256 Million particles in RealTime",
-                "homepage": "https://michelemorrone.eu/glchaosp",
-                "id": 161729023,
-                "language": "C++",
-                "license": "BSD-2-Clause",
-                "last_commit": "2025-02-10T04:13:22Z",
-                "open_issues": 8,
-                "owner": "BrutPitt",
-                "repo": "glChAoS.P",
-                "stars": 859,
-                "topics": [
-                  "attractors",
-                  "azdo",
-                  "dla",
-                  "dla3d",
-                  "emscripten",
-                  "fractal-algorithms",
-                  "fractals",
-                  "ggx",
-                  "glsl",
-                  "gpu",
-                  "hypercomplex",
-                  "ifs",
-                  "imgui",
-                  "opengl",
-                  "particles",
-                  "particlesystem",
-                  "rendering",
-                  "webassembly",
-                  "webgl",
-                  "webgl2"
-                ]
-              },
-              "first_seen": "2026-08-28T20:20:20.334Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Hesiod",
-              "description": "Free open-source node-based procedural terrain/heightmap generator.See also: Software Reference → Misc 3D Utilities Software Open Source Terrain Gen · Node-based Procedural terrain",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A desktop application for node-based procedural terrain generation.",
-                "homepage": "https://hesioddoc.readthedocs.io/",
-                "id": 663632351,
-                "language": "C++",
-                "license": "GPL-3.0",
-                "last_commit": "2026-09-15T12:55:24Z",
-                "open_issues": 59,
-                "owner": "ottolink-dev",
-                "repo": "Hesiod",
-                "stars": 252,
-                "topics": [
-                  "heightmap",
-                  "node-editor",
-                  "procedural",
-                  "procedural-generation",
-                  "terrain-generation"
-                ]
-              },
-              "first_seen": "2026-08-28T20:20:20.334Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Mandelbulb3D (thargor6 fork)",
-              "description": "A program designed for the Windows platform for generating 3D views of different fractals.See also: Software Reference → 3D Software: Free Open Source Fractals · Windows",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Mandelbulb3D",
-                "homepage": null,
-                "id": 33892480,
-                "language": "Pascal",
-                "license": "LGPL-2.1",
-                "last_commit": "2023-03-05T16:05:28Z",
-                "open_issues": 8,
-                "owner": "thargor6",
-                "repo": "mb3d",
-                "stars": 200,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:20:20.334Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Pixie",
-              "description": "Pixie is a photorealistic renderer that uses a Pixar's RenderMan-like interface.See also: Software Reference → Misc 3D Utilities Software Open Source RenderMan-like · Renderer",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Mirror of http://www.renderpixie.com/ SVN repo",
-                "homepage": null,
-                "id": 19419148,
-                "language": "C++",
-                "license": "LGPL-2.1",
-                "last_commit": "2014-05-04T04:56:35Z",
-                "open_issues": 0,
-                "owner": "blkdev2",
-                "repo": "pixie",
-                "stars": 6,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:20:20.334Z"
-            },
-            {
-              "node_type": "item",
-              "title": "tlRender",
-              "description": "Timeline render, is an early stage project for rendering editorial timelines.See also: Software Reference → Misc 3D Utilities Software Open Source Timeline · Editorial",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "tlRender is an open source library for building playback and review applications for visual effects, film, and animation.",
-                "homepage": null,
-                "id": 361897570,
-                "language": "C++",
-                "license": "BSD-3-Clause",
-                "last_commit": "2026-09-15T02:32:21Z",
-                "open_issues": 31,
-                "owner": "grizzlypeak3d",
-                "repo": "tlRender",
-                "stars": 234,
-                "topics": [
-                  "editorial",
-                  "opengl",
-                  "renderer",
-                  "timeline"
-                ]
-              },
-              "first_seen": "2026-08-28T20:20:20.334Z"
-            },
-            {
-              "node_type": "item",
-              "title": "City Roads",
-              "description": ". Generate road maps of any city as vector art.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Visualization of all roads within any city",
-                "homepage": "https://anvaka.github.io/city-roads/",
-                "id": 234931559,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2026-03-17T06:28:29Z",
-                "open_issues": 47,
-                "owner": "anvaka",
-                "repo": "city-roads",
-                "stars": 9660,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:20:20.334Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Fake Bpy Module",
-              "description": ". Fake Blender Python API modules for IDE code completion.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Fake Blender Python API module collection for the code completion.",
-                "homepage": null,
-                "id": 105444343,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-08-09T13:30:55Z",
-                "open_issues": 5,
-                "owner": "nutti",
-                "repo": "fake-bpy-module",
-                "stars": 1813,
-                "topics": [
-                  "b3d",
-                  "blender",
-                  "blender-addon",
-                  "blender-scripts",
-                  "blender3d",
-                  "python"
-                ]
-              },
-              "first_seen": "2026-08-28T20:20:20.334Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Blender Launcher",
-              "description": ". Standalone client for managing official Blender builds.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Standalone client for managing official builds of Blender 3D",
-                "homepage": null,
-                "id": 217752820,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2023-11-28T18:28:28Z",
-                "open_issues": 26,
-                "owner": "DotBow",
-                "repo": "Blender-Launcher",
-                "stars": 881,
-                "topics": [
-                  "b3d",
-                  "blender",
-                  "blender-addon",
-                  "blender-launcher",
-                  "blender3d",
-                  "launcher",
-                  "linux",
-                  "open-source",
-                  "productivity",
-                  "python3",
-                  "windows"
-                ]
-              },
-              "first_seen": "2026-08-28T20:20:20.334Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Blender CLI Rendering",
-              "description": ". Python scripts for rendering images with Blender from the command line.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Blender Python scripts for rendering images directly from command-line interface",
-                "homepage": null,
-                "id": 157575016,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2023-11-29T08:34:51Z",
-                "open_issues": 7,
-                "owner": "yuki-koyama",
-                "repo": "blender-cli-rendering",
-                "stars": 827,
-                "topics": [
-                  "blender",
-                  "cycles",
-                  "python",
-                  "rendering"
-                ]
-              },
-              "first_seen": "2026-08-28T20:20:20.334Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Blender Scripting",
-              "description": ". Python scripting examples for Blender, from simple to advanced.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Introduction to blender scripting",
-                "homepage": null,
-                "id": 67068141,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2021-09-28T10:32:13Z",
-                "open_issues": 2,
-                "owner": "njanakiev",
-                "repo": "blender-scripting",
-                "stars": 823,
-                "topics": [
-                  "blender",
-                  "blender-scripts",
-                  "python",
-                  "tutorial"
-                ]
-              },
-              "first_seen": "2026-08-28T20:20:20.334Z"
-            },
-            {
-              "node_type": "item",
-              "title": "DEM Net Elevation API C#",
-              "description": ". Terrain generation from real data with textures, normal maps, glTF, OBJ, STL support",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Digital Elevation model library in C#. 3D terrain models, line/point Elevations, intervisibility reports",
-                "homepage": "https://elevationapi.com",
-                "id": 78475145,
-                "language": "C#",
-                "license": "NOASSERTION",
-                "last_commit": "2026-04-18T19:02:30Z",
-                "open_issues": 18,
-                "owner": "dem-net",
-                "repo": "DEM.Net",
-                "stars": 355,
-                "topics": [
-                  "dataset",
-                  "dem",
-                  "dem-querying",
-                  "digital-elevation-model",
-                  "dtm",
-                  "elevation",
-                  "geotiff",
-                  "gltf",
-                  "gpx",
-                  "heightmap",
-                  "hgt",
-                  "jaxa",
-                  "library",
-                  "mnt",
-                  "nasa",
-                  "raster",
-                  "srtm",
-                  "stl",
-                  "stl-model"
-                ]
-              },
-              "first_seen": "2026-08-28T20:20:20.334Z"
-            },
-            {
-              "node_type": "item",
-              "title": "emojillate",
-              "description": ". Pixellate an image into emoji",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": ":camera::art: Pixellate an image into emoji",
-                "homepage": "http://meowni.ca/emojillate",
-                "id": 63375142,
-                "language": "HTML",
-                "license": "MIT",
-                "last_commit": "2021-11-30T20:56:18Z",
-                "open_issues": 2,
-                "owner": "notwaldorf",
-                "repo": "emojillate",
-                "stars": 351,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:20:20.334Z"
-            },
-            {
-              "node_type": "item",
-              "title": "BlenderUpdater",
-              "description": ". Download and install Blender nightly builds with one click.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Small crossplatform Python 3 application to update Blender to the latest buildbot version",
-                "homepage": "https://overmindstudios.github.io/BlenderUpdater/",
-                "id": 52750674,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2026-06-02T17:35:22Z",
-                "open_issues": 5,
-                "owner": "overmindstudios",
-                "repo": "BlenderUpdater",
-                "stars": 137,
-                "topics": [
-                  "blender",
-                  "blender3d",
-                  "cross-platform",
-                  "gui",
-                  "vfx"
-                ]
-              },
-              "first_seen": "2026-08-28T20:20:20.334Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Palladio",
-              "description": ". CityEngine Plugin for Houdini",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "ArcGIS CityEngine for Houdini enables the execution of CityEngine CGA rules inside of SideFX Houdini.",
-                "homepage": "https://esri.github.io/cityengine/houdini",
-                "id": 30315957,
-                "language": "C++",
-                "license": "Apache-2.0",
-                "last_commit": "2026-01-05T16:06:43Z",
-                "open_issues": 12,
-                "owner": "Esri",
-                "repo": "cityengine_for_houdini",
-                "stars": 109,
-                "topics": [
-                  "3d",
-                  "cga",
-                  "cityengine",
-                  "cmake",
-                  "conan",
-                  "cpp",
-                  "esri",
-                  "houdini",
-                  "linux",
-                  "modeling",
-                  "plugin",
-                  "procedural",
-                  "prt",
-                  "sidefx"
-                ]
-              },
-              "first_seen": "2026-08-28T20:20:20.334Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Kiko",
-              "description": ". DCC-agnostic animation-curve interchange. Transfers curves between Maya and Nuke.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "animation curve format for the VFX industry",
-                "homepage": "https://www.toolchefs.com",
-                "id": 147840882,
-                "language": "Mathematica",
-                "license": "MIT",
-                "last_commit": "2024-07-30T07:46:33Z",
-                "open_issues": 4,
-                "owner": "Toolchefs",
-                "repo": "kiko",
-                "stars": 106,
-                "topics": [
-                  "animation",
-                  "maya",
-                  "nuke",
-                  "python",
-                  "vfx"
-                ]
-              },
-              "first_seen": "2026-08-28T20:20:20.334Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Blender Version Manager",
-              "description": ". Minimal download manager for Blender builds.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Minimalistic download manager for Blender (Win x64, Linux x64) daily builds.",
-                "homepage": "https://blenderartists.org/t/external-program-blender-version-manager-for-2-8",
-                "id": 150056985,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2021-03-01T18:20:51Z",
-                "open_issues": 5,
-                "owner": "DotBow",
-                "repo": "Blender-Version-Manager",
-                "stars": 83,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:20:20.334Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Penzil",
-              "description": ". A web application to sketch in 3d",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A web application to sketch in 3d made in three.js and Vue",
-                "homepage": "https://penzil.app",
-                "id": 330002149,
-                "language": "Vue",
-                "license": null,
-                "last_commit": "2023-04-17T14:42:15Z",
-                "open_issues": 4,
-                "owner": "jacopocolo",
-                "repo": "Penzil",
-                "stars": 82,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:20:20.334Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Blender Addon Tester",
-              "description": ". Pytest-based test harness for running Blender addon tests inside a target Blender version.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The blender addon tester is a test harness to enable pytest hook to allow addons to be tested inside a defined version of blender.",
-                "homepage": null,
-                "id": 248757607,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2025-03-20T12:18:49Z",
-                "open_issues": 19,
-                "owner": "nangtani",
-                "repo": "blender-addon-tester",
-                "stars": 70,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:20:20.334Z"
-            },
-            {
-              "node_type": "item",
-              "title": "3DN BIP",
-              "description": ". Fast image-preview Python library for Blender, a bpy.utils.previews drop-in replacement.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Python library for Blender addons. Blazingly fast preview loads in Blender. Images of arbitrary size. bpy.utils.previews drop-in replacement.",
-                "homepage": "https://bonjorno7.github.io/3dn-bip/",
-                "id": 356590105,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2023-07-26T18:25:16Z",
-                "open_issues": 4,
-                "owner": "bonjorno7",
-                "repo": "3dn-bip",
-                "stars": 63,
-                "topics": [
-                  "blender",
-                  "blender-addon",
-                  "blender-python",
-                  "blender-scripts",
-                  "blender3d",
-                  "jpg",
-                  "pillow",
-                  "png"
-                ]
-              },
-              "first_seen": "2026-08-28T20:20:20.334Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Blender Manager",
-              "description": ". Standalone app for Blender auto-update, project management, time tracking, addon control and render management.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Streamline Your Blender Workflow: Auto-Update, Project Management and Time Tracking, Addon Control, Version Handling, Render Management, and More",
-                "homepage": null,
-                "id": 882486687,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-08-28T03:39:09Z",
-                "open_issues": 0,
-                "owner": "verlorengest",
-                "repo": "BlenderManager",
-                "stars": 48,
-                "topics": [
-                  "blender",
-                  "blender-addon",
-                  "blender-launcher",
-                  "blender-python",
-                  "blender-scripts",
-                  "blender3d",
-                  "blendermanager",
-                  "gui-application",
-                  "open-source",
-                  "python",
-                  "solo-project"
-                ]
-              },
-              "first_seen": "2026-08-28T20:20:20.334Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Advanced Blender Add-on",
-              "description": ". Starter kit and annotated design patterns for advanced Blender addon development.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A starter kit and reference for writing advanced Blender add-ons",
-                "homepage": null,
-                "id": 295685211,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2020-10-11T08:54:46Z",
-                "open_issues": 1,
-                "owner": "eliemichel",
-                "repo": "AdvancedBlenderAddon",
-                "stars": 39,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:20:20.334Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Blender Updater CLI",
-              "description": ". Command-line version of BlenderUpdater.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Command line version of BlenderUpdater",
-                "homepage": null,
-                "id": 155223952,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2026-06-02T17:34:41Z",
-                "open_issues": 7,
-                "owner": "overmindstudios",
-                "repo": "BlenderUpdaterCLI",
-                "stars": 24,
-                "topics": [
-                  "blender",
-                  "blender3d",
-                  "vfx"
-                ]
-              },
-              "first_seen": "2026-08-28T20:20:20.334Z"
-            }
-          ],
-          "description": "Assorted CG utilities and specialty tools.\nRelated:",
-          "node_type": "group",
-          "title": "Miscellaneous 3D Tools & Utilities"
         }
       ],
       "title": "Tools, Pipeline & Utilities"
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T13:49:43.410Z",
+    "last_updated": "2026-09-16T13:41:49.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated, CC0 reference hub for 3D, VFX, and game dev. 3,400+ tools, assets, and tutorials across 12 sections. Searchable, filterable, free.",
@@ -26871,11 +26191,11 @@
       "id": 1041237501,
       "language": "JavaScript",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-15T11:49:24Z",
+      "last_commit": "2026-09-15T20:10:19Z",
       "open_issues": 0,
       "owner": "devanshutak25",
       "repo": "3d-resources",
-      "stars": 943,
+      "stars": 944,
       "topics": [
         "3d",
         "3d-resources",
@@ -26893,7 +26213,7 @@
         "vfx"
       ]
     },
-    "original_repository_sha": "260a35beb3ed7cf6c5f32cd64a2d968eb991abfc",
+    "original_repository_sha": "65843e9b770ec52e83bb8986b7ba874b7474e09d",
     "enhanced_repository": "enhansome/enhansome-3d-resources",
     "enhanced_repository_description": null,
     "title": "Awesome 3D Resources: Software, Assets, Tutorials & Tools for 3D Artists with stars"
